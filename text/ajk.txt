@@ -1,0 +1,2429 @@
+<html><head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="format-detection" content="telephone=no">
+    <title>房源编辑 - 二手房 - 中国网络经纪人</title>
+        <link rel="stylesheet" rev="stylesheet" href="//pages.anjukestatic.com/kfstouch/icons/Fonts-PC-Broker/20181204002/iconfont.css" type="text/css">
+    <link rel="stylesheet" rev="stylesheet" href="//pages.anjukestatic.com/brokerUI/broker-ui-2.0.1.min.css" type="text/css">
+<link rel="stylesheet" rev="stylesheet" href="https://include.anjukestatic.com/broker-vip/res/20185257/b/House_EditErshouV2.css" type="text/css">
+    
+
+<script type="text/javascript" src="https://include.anjukestatic.com/broker-vip/res/20185257/s/page/APF.js"></script>
+<script type="text/javascript" src="https://j1.58cdn.com.cn/resource/xxzl/captcha/js/isd_captcha.js?time=20180515"></script>
+    <link rel="icon" href="https://pages.anjukestatic.com/img/vip/favicon.ico" type="image/ico">
+    <link rel="shortcut icon" href="https://pages.anjukestatic.com/img/vip/favicon.ico">
+<div><iframe style="display:none" id="sojtracker0" name="sojtracker0" width="500" height="300"></iframe></div><form action="https://s.anjuke.com/stb?__site=anjuke&amp;" method="post" target="sojtracker0"><input type="hidden" name="t" value="1546576939698"><input type="hidden" name="site" value="broker"><input type="hidden" name="plat" value="1"><input type="hidden" name="type" value="1"><input type="hidden" name="p" value="House_EditErshouV2Page"><input type="hidden" name="pn" value=""><input type="hidden" name="action" value=""><input type="hidden" name="action_type" value=""><input type="hidden" name="action_name" value=""><input type="hidden" name="r" value="https://vip.anjuke.com/househug/list/esfV2"><input type="hidden" name="sc" value="{&quot;w&quot;:&quot;1287&quot;,&quot;h&quot;:&quot;518&quot;,&quot;r&quot;:&quot;0&quot;}"><input type="hidden" name="h" value="https://vip.anjuke.com/house/publish/ershou/hug/754910394106881?from=hugList"><input type="hidden" name="cp" value=""><input type="hidden" name="ep" value="{&quot;broker_id&quot;:&quot;5385591&quot;}"><input type="hidden" name="guid" value="BE04DBB8-57BA-73B1-E9FB-2C5024119949"><input type="hidden" name="ctid" value="12"><input type="hidden" name="luid" value="61594897:2"><input type="hidden" name="ssid" value="45B6BEE7-C84D-D20D-76E0-ABDAE87395F7"><input type="hidden" name="uid" value="42627865"></form></head>
+<body>
+    <!--1-->
+<!--[if lte IE 8]>
+<div class="lte-ie8-tips">
+	<span class="close-button iconfont icon-f">&#xe001;</span>
+	<p class="count-down">倒计时：<span>10s</span></p>
+	<div class="lte-ie8-title">
+		<img src="http://pages.anjukestatic.com/img/broker/browser-icon/alert.png" alt="alert">
+		您当前的浏览器版本过低！
+	</div>
+	<div class="lte-ie8-detail">
+		<p>可能存在安全风险，建议升级您的浏览器！</p>
+	</div>
+	<div class="lte-ie8-recommand">
+		<p>官方推荐浏览器:</p>
+		<p class="info">（请点击以下图标进行下载升级）</p>
+		<div class="lte-browser-container">
+			<a data-type="1" href="https://pc.qq.com/detail/1/detail_2661.html" target="_blank" _soj="lte_chrome_download">
+				<img src="http://pages.anjukestatic.com/img/broker/browser-icon/chrome.png" alt="chrome">
+				<p>谷歌</p>
+			</a>
+			<a data-type="2" href="http://www.firefox.com.cn/" target="_blank"  _soj="lte_firefox_download">
+				<img src="http://pages.anjukestatic.com/img/broker/browser-icon/firefox.png" alt="firefox">
+				<p>火狐</p>
+			</a>
+			<a data-type="3" href="https://browser.360.cn/se/" target="_blank" _soj="lte_ie_download">
+				<img src="http://pages.anjukestatic.com/img/broker/browser-icon/360.png" alt="360">
+				<p>360</p>
+			</a>
+			<a data-type="4" href="https://pc.qq.com/detail/10/detail_2630.html" target="_blank" _soj="lte_ie_download">
+				<img src="http://pages.anjukestatic.com/img/broker/browser-icon/ie.png" alt="IE9">
+				<p>IE9及以上</p>
+			</a>					
+		</div>
+	</div>
+</div>
+
+
+<div class="reason-feedback-box">
+    <p class="reason-feedback-title">低版本浏览器问卷调查</p>
+    
+    <div class="question-part">
+        <p><i>*</i>请选择未升级浏览器的原因：<span class="error-msg">该项必填哦~</span></p>
+        <label><input type="radio" name="abandon_reason" value="3" autocomplete="off">
+            <span>我不想升级（提示：会出现严重盗号现象和跨域攻击等安全隐患；兼容性差，部分功能无法使用，例如多图上传、视频上传、浏览器频繁崩溃等）</span>
+        </label><br>
+        <label class="company-reason"><input type="radio" name="abandon_reason" value="1" autocomplete="off">我不能升级：公司IT统一控制，我无法自行操作</label><br>
+        <div class="unclear-reason">
+            <label><input type="radio" name="abandon_reason" value="2" autocomplete="off">我不会升级（点击下方logo，可直接跳转到下载页面）</label><br>
+            <div class="reason-browser-container">
+                <a data-type="1" href="https://pc.qq.com/detail/1/detail_2661.html" target="_blank" _soj="lte_chrome_download">
+                    <img src="http://pages.anjukestatic.com/img/broker/browser-icon/chrome.png" alt="chrome">
+                    <p>谷歌</p>
+                </a>
+                <a data-type="2" href="http://www.firefox.com.cn/" target="_blank"  _soj="lte_firefox_download">
+                    <img src="http://pages.anjukestatic.com/img/broker/browser-icon/firefox.png" alt="firefox">
+                    <p>火狐</p>
+                </a>
+                <a data-type="3" href="https://browser.360.cn/se/" target="_blank" _soj="lte_ie_download">
+                    <img src="http://pages.anjukestatic.com/img/broker/browser-icon/360.png" alt="360">
+                    <p>360</p>
+                </a>
+                <a data-type="4" href="https://pc.qq.com/detail/10/detail_2630.html" target="_blank" _soj="lte_ie_download">
+                    <img src="http://pages.anjukestatic.com/img/broker/browser-icon/ie.png" alt="IE9">
+                    <p>IE9及以上</p>
+                </a>                    
+            </div>
+        </div>
+        <label>
+            <input type="radio" name="abandon_reason" value="4" autocomplete="off">其他
+            <input class="ui-form-input ui-input-big specific-reason" type="text" autocomplete="off">
+            <i>*</i>
+            <span class="error-msg error-msg-specific">请填写原因</span>
+        </label>
+    </div>
+
+    <p class="submit-btn ui-button ui-button-small ui-button-blue">提交</p>
+</div>
+<div class="dark-cover"></div>
+<![endif]--><!--2-->
+<div id="ajk-dnscheck-include" href="javascript:;"></div>
+<div id="ajk-dnscheck-pages" href="javascript:;"></div>
+<script type="text/javascript">
+window._domainConfig = {"domianwhitelist":["\\.test$","\\.anjuke\\.com$","\\.anjukestatic\\.com$","\\.ajkimg\\.com$","\\.ajkcdn\\.com$","\\.aifcdn\\.com$","\\.58ganji\\.com$","\\.58\\.com$","\\.ganji\\.com$","\\.58cdn\\.com\\.cn$","\\.map\\.bdimg\\.com$","\\.baidu\\.com$","\\.gtags\\.com$","\\.gtags\\.net$","\\.zampda\\.net$","\\.chinauma\\.net$","\\.mediav\\.com$","\\.googleadservices\\.com$","\\.googleadsserving\\.cn$","\\.googlesyndication\\.com$","\\.google-analytics\\.com$","\\.doubleclick\\.net$","\\.qq\\.com$","\\.sogou\\.com$","\\.pstatp\\.com$","\\.toutiao\\.com$","\\.tjqonline\\.cn$","\\.apiwmda\\.58\\.com\\.cn$","\\.j1\\.58cdn\\.com\\.cn$"],"site":"brokerv5","transferprotocol":"^http|^https","catchcontent":"no","catchurlorigin":"\/\/prism.anjuke.com","catchurlpathname":"\/collectpost\/fromfe\/","checkiplist":""} || "";
+window._domainIsOpenDnsCheck = true;
+window._dnsCheckPopUp = true;
+;(function(config,checkPopup,openDNSCheck){function _setStyle(target,style){for(var i in style){target.style[i]=style[i];}}
+function _creatElement(tag){return document.createElement(tag);}
+var popDialog=function(){if(!checkPopup||!openDNSCheck)return;if(document.cookie.indexOf("change_resource=")!=-1)return;var body=document.getElementsByTagName("body")[0];var popDialog=_creatElement("div");var popContent=_creatElement("p");var refreshBtn=_creatElement("a");var remindBtn=_creatElement("a");var closeButton=_creatElement("a");popDialog.setAttribute("id","dnsCheckPopDialog");_setStyle(popDialog,{position:'fixed',right:'0px',bottom:'0px',width:'250px',height:'150px',zIndex:'1060',backgroundColor:'#fff',boxShadow:'-1px -1px 20px 2px #555'});popContent.innerHTML='您当前页面是否显示为异常，</br>如是，请点击刷新';_setStyle(popContent,{fontColor:'#333',paddingTop:'25px',lineHeight:'25px',textAlign:'center'});var _btnStyle={display:'inline-block',width:'60px',height:'30px',color:'#fff',fontSize:'17px',lineHeight:'30px',borderRadius:'3px',position:'absolute',textAlign:'center',cursor:'pointer',margin:'20px 0 0 -40px'};refreshBtn.innerHTML='刷新';refreshBtn.onclick=function(){window._setChangeResource();window.location.reload();}
+_setStyle(refreshBtn,_btnStyle);_setStyle(refreshBtn,{backgroundColor:'#f60',left:'50%'});remindBtn.innerHTML='稍后提醒';remindBtn.onclick=function(){window._remindLater();}
+_setStyle(remindBtn,_btnStyle);_setStyle(remindBtn,{color:'gray',left:'80%',fontSize:'13px'});closeButton.innerHTML='关闭';closeButton.onclick=function(){document.body.removeChild(document.getElementById('dnsCheckPopDialog'));}
+_setStyle(closeButton,{display:'inline-block',position:'absolute',cursor:'pointer',top:'10px',fontSize:'12px',right:'10px',color:'#f60'});popDialog.appendChild(popContent);popDialog.appendChild(refreshBtn);popDialog.appendChild(remindBtn);popDialog.appendChild(closeButton);body.appendChild(popDialog);}
+window._setAJKCookie=function(name,value,expires){var _hostArray=location.hostname.split(".");var _domain=".anjuke.com";var _length=_hostArray.length;if(_length>=2){_domain="."+_hostArray[_length-2]+"."+_hostArray[_length-1];}
+var cookieText=encodeURIComponent(name)+'='+encodeURIComponent(value);if(expires instanceof Date){cookieText+='; expires='+expires.toGMTString();}
+cookieText+=";path=/;domain="+_domain;document.cookie=cookieText;}
+window._remindLater=function(){date=new Date();date.setTime(date.getTime()+24*60*60*1000);window._setAJKCookie('change_resource','9999',date);document.body.removeChild(document.getElementById('dnsCheckPopDialog'))}
+window._setChangeResource=function(){date=new Date();date.setTime(date.getTime()+24*60*60*1000);window._setAJKCookie('change_resource','1',date);}
+var doc=document;var pagesDnscheck=doc.getElementById("ajk-dnscheck-pages");var includeDnscheck=doc.getElementById("ajk-dnscheck-include");function _checkStyleIsError(target){var isError=false;if(typeof(window.getComputedStyle)=="function"){if(window.getComputedStyle(target,null).getPropertyValue("position")!="absolute"&&window.getComputedStyle(target,null).getPropertyValue("width")!="1px"&&window.getComputedStyle(target,null).getPropertyValue("background-color").replace(/ /g,'')!="rgb(110,110,110)"){isError=true;}}else{var _popupIsShow=false;if(typeof(target.currentStyle)!="undefined"&&target.currentStyle["position"]!="absolute"&&target.currentStyle["width"]!="1px"&&target.currentStyle["backgroundColor"]!="rgb(110,110,110)"){isError=true;}}
+return isError;}
+function _checkDNSStatus(){var _popupIsShow=false;if(_checkStyleIsError(includeDnscheck)){_sendDNSKidnapMessage("include_dns_kidnap",_popupIsShow);_popupIsShow=true;}
+if(_checkStyleIsError(pagesDnscheck)){_sendDNSKidnapMessage("pages_dns_kidnap",_popupIsShow);}}
+function _sendDNSKidnapMessage(cont,popDialogIsShow){!popDialogIsShow&&popDialog();var head=doc.getElementsByTagName("head")[0];var url="//prism.anjuke.com/resource.html";var checkScript=doc.createElement("script");checkScript.type="text/javascript";checkScript.src=url+"?msg="+cont+"&site=brokerv5";head.appendChild(checkScript);head.removeChild(checkScript);}
+_checkDNSStatus();var site=config["site"];var whiteList=config["domianwhitelist"];var protocol=config["transferprotocol"];config["catchcontent"]=config["catchcontent"]=="yes"?true:false;var matchRegExp=new RegExp(whiteList.join("|"));var domain=function(site,whiteList,protocol,separator,config){if(!window.performance||!window.performance.getEntries){return false;}
+var _sp=separator||'<|>';if(protocol!=""){var protocol=protocol.constructor==RegExp?protocol:new RegExp(protocol);}
+window.addEventListener('load',function(){setTimeout(function(){var all=getAfflux(whiteList,protocol,config);send(site,all,_sp);},1000);});}
+var send=function(site,data,sp){if(data&&data.length&&data.length>0){var doc=document;var head=doc.getElementsByTagName("head")[0];var url="//prism.anjuke.com/resource.html";var checkScript=doc.createElement("script");var cont=encodeURI(data.join(sp));checkScript.type="text/javascript";checkScript.src=url+"?site="+site+"&domain="+cont;head.appendChild(checkScript);head.removeChild(checkScript);}}
+var sendCatchContent=function(callback){if(config["catchurlpathname"]!=""&&config["catchurlpathname"]!=undefined){var origin=config["catchurlorigin"]!=""&&config["catchurlorigin"]!=undefined?config["catchurlorigin"]:location.origin;var sendUrl=origin+config["catchurlpathname"];postMsg(sendUrl,{brokerId:getCookie('aQQ_ajkguid'),content:document.getElementsByTagName("html")[0].outerHTML},callback);}}
+var getTargetAttrs=function(targetName,attrName){if(!targetName||!attrName){return[];}
+var _targets=document.getElementsByTagName(targetName);for(var i=_targets.length-1,_arr=[];i>=0;i--){var _attr=_targets[i].getAttribute(attrName);if(_attr){_arr.push(_attr);}}
+return _arr;}
+window.reportError=function(callback){sendCatchContent(callback);window.reportError=function(){};}
+var postMsg=function(url,data,callback){var iframeId='ajax_post_'+postMsg._post_id++;var ifContainer=document.createElement("div");ifContainer.innerHTML='<iframe style="display:none" id="'+iframeId+'" name="'+iframeId+'" height="300" width="500"></iframe>';(document.getElementsByTagName('head')[0]).appendChild(ifContainer);var form=document.createElement("form");form.action=url;form.method="post";for(var k in data){var _input=document.createElement('input');_input.name=k;_input.value=data[k]||"";form.appendChild(_input);}
+(document.getElementsByTagName('head')[0]).appendChild(form);var iframe=document.getElementById(iframeId);form.target=iframeId;form.submit();if(callback){callback();}}
+postMsg._post_id=1;var getCookie=function(check_name){var a_all_cookies=document.cookie.split(';');var a_temp_cookie='';var cookie_name='';var cookie_value='';var b_cookie_found=false;for(i=0;i<a_all_cookies.length;i++){a_temp_cookie=a_all_cookies[i].split('=');cookie_name=a_temp_cookie[0].replace(/^\s+|\s+$/g,'');if(cookie_name==check_name){b_cookie_found=true;if(a_temp_cookie.length>1){cookie_value=unescape(a_temp_cookie[1].replace(/^\s+|\s+$/g,''));}
+return cookie_value;break;}
+a_temp_cookie=null;cookie_name='';}
+if(!b_cookie_found){return null;}}
+var getDomain=function(name){if(!name||!name['split']){return false;}
+var _match=name.split('/');return _match[2];}
+var getAfflux=function(whiteList,protocol,config){var all=performance.getEntries();var domainList=[];var _whiteList=[];var _isSendBody=false;for(var i=0;i<all.length;i++){var item=all[i];var _url=item.name;if(item.initiatorType!=undefined&&checkTransferProtocol(_url,protocol)){var _thisDomain=getDomain(_url);if(_thisDomain&&_url&&!isInWhiteList(_thisDomain,_whiteList)){domainList.push(item.initiatorType+_url);if(item.initiatorType=="iframe"&&checkIPList(config)){_isSendBody=true;}}}}
+if(config["catchcontent"]&&_isSendBody){sendCatchContent(config);}
+return domainList;}
+var checkIPList=function(config){if(config["checkiplist"]==undefined||config["checkiplist"]=="")return true;return true;}
+var checkTransferProtocol=function(url,protocol){if(protocol=="")return true;return protocol.test(url);}
+var isInWhiteList=function(item,_array){var _inWhiteList=false;if(matchRegExp.test(item))_inWhiteList=true;return _inWhiteList;}
+domain(site,whiteList,protocol,"<|>",config);})(window._domainConfig,window._dnsCheckPopUp,window._domainIsOpenDnsCheck);
+</script>
+<!--3-->
+<div class="ui-header">
+    <div class="ui-header-inner">
+        <div class="ui-header-logo">
+            <a class="" href="/user/brokerhome">
+                <span class="iconfont logo-58"></span>
+                <span class="iconfont logo-gj"></span>
+                <span class="iconfont logo-ajk"></span>
+                <span class="logo-line"></span>
+                <span class="iconfont broker-text"></span>
+            </a>
+        </div>
+        <div class="ui-header-link">
+                            <a href="/user/brokerhome">您好，何述栋</a>
+            <a href="/broker/sletter/" id="js_sms">消息<em>(11)</em></a>
+            <a href="/logout/">退出</a>
+                            <span>｜</span>
+                <a href="https://jikejia.cn" target="_blank">集客家</a>
+                        <span>｜</span>
+            <!--<a href="">经纪人社区</a>
+            <span>｜</span>
+            <a href="">我的店铺</a>
+            <span>｜</span>-->
+            <a href="/intel_contact/main" target="_blank">帮助</a>
+                    </div>
+    </div>
+</div>
+<div class="container">
+    <div class="publish">
+    <h1 class="ui-title">编辑 - 二手房</h1>
+    <a target="_blank" class="publist-rule-entrance" href="https://chatcms.anjuke.com/web/view/8259">查看发房规则</a>
+
+    
+    <p id="img_warn_tips" class="ui-tips ui-tips-warn-hasborder ui-tips-hasbutton" style="margin-left:0;"><i class="iconfont"></i>
+                    重要通知：不得发布重复房源！图片或标题或房源基本信息等高度相似将被判定为重复房源。逾期未修改，重复房源将做违规处理！
+            </p>
+
+    <h2 class="ui-title-secondary">房源基本信息</h2>
+    <form action="" method="POST" id="publish_form" autocomplete="off">
+        <input checkname="action" name="action" type="hidden" value="publish">
+        <input checkname="fixPlanId" name="fixPlanId" value="" type="hidden">
+        <input checkname="broker_id" name="broker_id" type="hidden" value="5385591">
+        <input checkname="cityId" name="cityId" type="hidden" value="12">
+        <input name="sites" type="hidden" value="">
+        <input name="houseId" type="hidden" value="754910394106881">
+                <input checkname="community_unite_id" name="xiaoquId" type="hidden" value="100454883">
+                <!-- 用于存放当前小区的openStatus 0:关闭,2:打开(必选)-->
+        <input id="open_status" type="hidden" value="2">
+        
+        <div class="ui-form" style="z-index: 129;">
+            <label class="ui-form-label ui-label-large">房源编号：</label>
+            <input class="ui-form-input ui-input-big" type="text" name="bianHao" checkname="user_defined" value="" data-rules="{&quot;numOrLetter&quot;:true,&quot;maxLength&quot;:20}" data-msgs="{&quot;numOrLetter&quot;:&quot;请输入20位以内的字母或数字&quot;,&quot;maxLength&quot;:&quot;请输入20位以内的字母或数字&quot;}">
+            <span class="ui-comment">该编号为公司内部编号，不对外展示</span>
+            <span data-msgfor="user_defined" class="ui-tips"><i class="iconfont"></i>fail提示</span>
+        </div>
+
+                        <!-- 小区 -->
+        <div class="ui-form publish-auto-wrap" style="z-index: 128;">
+            <label class="ui-form-label ui-label-large"><i class="ness">*</i>小区：</label>
+            <span>天誉半岛花园</span>
+                            <span>同福西路40号</span>
+                        <input type="hidden" checkname="ajk_CommId" name="demo_ajk_CommId" value="659535">
+
+        </div>
+                                                        <!-- 三端区域板块（未切磐石商圈） -->
+                    <ul class="community-plate-info">
+                        <li>安居客区域板块：<span>海珠 - 工业大道北</span></li>
+                                                    <li>58区域板块：<span>海珠 - 革新路</span></li>
+                                            </ul>
+                                            
+        <!-- 房屋信息 -->
+        <div class="ui-form" style="z-index: 127;">
+            <label class="ui-form-label ui-label-large"><i class="ness">*</i>房屋户型：</label>
+            <input class="ui-form-input ui-input-micro" type="text" checkname="room" name="shi" value="5" data-rules="{&quot;required&quot;:&quot;true&quot;,&quot;max&quot;:15,&quot;min&quot;:1,&quot;integer&quot;:true}" data-msgs="{&quot;required&quot;:&quot;室不能为空&quot;,&quot;max&quot;:&quot;室不能超过15&quot;,&quot;min&quot;:&quot;室不能小于1&quot;,&quot;integer&quot;:&quot;楼层必须是整数&quot;}"><span>&nbsp;&nbsp;室&nbsp;&nbsp;</span>
+            <input class="ui-form-input ui-input-micro" type="text" checkname="hall" name="ting" value="3" data-rules="{&quot;required&quot;:&quot;true&quot;,&quot;max&quot;:15,&quot;min&quot;:0,&quot;integer&quot;:true}" data-msgs="{&quot;required&quot;:&quot;厅不能为空&quot;,&quot;max&quot;:&quot;厅不能超过15&quot;,&quot;min&quot;:&quot;厅不能小于0&quot;,&quot;integer&quot;:&quot;楼层必须是整数&quot;}"><span>&nbsp;&nbsp;厅&nbsp;&nbsp;</span>
+            <input class="ui-form-input ui-input-micro" type="text" checkname="bathroom" name="wei" value="4" data-rules="{&quot;required&quot;:&quot;true&quot;,&quot;max&quot;:15,&quot;min&quot;:0,&quot;integer&quot;:true}" data-msgs="{&quot;required&quot;:&quot;卫不能为空&quot;,&quot;max&quot;:&quot;卫不能超过15&quot;,&quot;min&quot;:&quot;卫不能小于0&quot;,&quot;integer&quot;:&quot;楼层必须是整数&quot;}"><span>&nbsp;&nbsp;卫&nbsp;&nbsp;</span>
+            <span data-msgfor="room,hall,bathroom" class="ui-tips"><i class="iconfont"></i></span>
+                    </div>
+        <div class="ui-form" style="z-index: 126;">
+            <label class="ui-form-label ui-label-large"><i class="ness">*</i>房屋情况：</label>
+            <div id="select-housetype" class="ui-select">
+                <select checkname="housetype" name="params_16" style="display:none" data-rules="{&quot;required&quot;:true}" data-msgs="{&quot;required&quot;:&quot;请选择房屋类型&quot;}">
+                    <option value="">房屋类型</option>
+                                            <option value="1" selected="selected">普通住宅</option>
+                                            <option value="4">公寓</option>
+                                            <option value="2">别墅</option>
+                                            <option value="5">平房</option>
+                                            <option value="6">其他</option>
+                                    </select>
+            <div class="ui-select-box"><div class="ui-select-label"><span data-val="1" data-title="房屋类型">普通住宅</span><i class="ui-select-icon ui-select-icondown"></i></div><ul><li data-val="">房屋类型</li><li data-val="1" class="li-static">普通住宅</li><li data-val="4">公寓</li><li data-val="2">别墅</li><li data-val="5">平房</li><li data-val="6">其他</li></ul></div></div>
+            <div id="select-housefit" class="ui-select">
+                <select name="zhuangXiuQingKuang" checkname="housefit" style="display:none" data-rules="{&quot;required&quot;:true}" data-msgs="{&quot;required&quot;:&quot;请选择装修情况&quot;}">
+                    <option value="">装修情况</option>
+                                            <option value="1">毛坯</option>
+                                            <option value="2">简单装修</option>
+                                            <option value="4" selected="selected">精装修</option>
+                                            <option value="6">豪华装修</option>
+                                    </select>
+            <div class="ui-select-box"><div class="ui-select-label"><span data-val="4" data-title="装修情况">精装修</span><i class="ui-select-icon ui-select-icondown"></i></div><ul><li data-val="">装修情况</li><li data-val="1">毛坯</li><li data-val="2">简单装修</li><li data-val="4" class="li-static">精装修</li><li data-val="6">豪华装修</li></ul></div></div>
+            <div id="select-houseorient" class="ui-select">
+                <select name="chaoXiang" checkname="houseorient" style="display:none" data-rules="{&quot;required&quot;:true}" data-msgs="{&quot;required&quot;:&quot;请选择朝向&quot;}">
+                    <option value="">朝向</option>
+                                            <option value="1">东</option>
+                                            <option value="2">南</option>
+                                            <option value="3">西</option>
+                                            <option value="4">北</option>
+                                            <option value="5">东南</option>
+                                            <option value="6">东北</option>
+                                            <option value="7">西南</option>
+                                            <option value="8">西北</option>
+                                            <option value="9" selected="selected">南北</option>
+                                            <option value="10">东西</option>
+                                    </select>
+            <div class="ui-select-box"><div class="ui-select-label"><span data-val="9" data-title="朝向">南北</span><i class="ui-select-icon ui-select-icondown"></i></div><ul><li data-val="">朝向</li><li data-val="1">东</li><li data-val="2">南</li><li data-val="3">西</li><li data-val="4">北</li><li data-val="5">东南</li><li data-val="6">东北</li><li data-val="7">西南</li><li data-val="8">西北</li><li data-val="9" class="li-static">南北</li><li data-val="10">东西</li></ul></div></div>
+            <div id="select-housestruct" class="ui-select">
+                <select name="params_17" checkname="housestruct" style="display:none">
+                    <option value="">建筑形式</option>
+                                            <option value="1">板楼</option>
+                                            <option value="2">塔楼</option>
+                                            <option value="3">板塔结合</option>
+                                    </select>
+            <div class="ui-select-box"><div class="ui-select-label"><span data-val="" data-title="建筑形式">建筑形式</span><i class="ui-select-icon ui-select-icondown"></i></div><ul><li data-val="" class="li-static">建筑形式</li><li data-val="1">板楼</li><li data-val="2">塔楼</li><li data-val="3">板塔结合</li></ul></div></div>
+            <span data-msgfor="housetype,housefit,houseorient" class="ui-tips"><i class="iconfont"></i></span>
+        </div>
+        <div class="ui-form" style="z-index: 125;">
+            <label class="ui-form-label ui-label-large"><i class="ness">*</i>楼层：</label>
+            <input class="ui-form-input ui-input-micro" type="text" checkname="floor" name="suoZaiLouCeng" value="15" data-group="floorGroup" data-rules="{&quot;required&quot;:true,&quot;integer&quot;:true,&quot;min&quot;:-9,&quot;max&quot;:99,&quot;not&quot;:0}" data-msgs="{&quot;required&quot;:&quot;楼层不能为空&quot;,&quot;integer&quot;:&quot;楼层必须是整数&quot;,&quot;min&quot;:&quot;楼层不能小于-9&quot;,&quot;max&quot;:&quot;楼层不能大于99&quot;,&quot;not&quot;:&quot;楼层不能为0&quot;}"><span>&nbsp;&nbsp;楼</span>
+            <span class="pre-label">共&nbsp;&nbsp;</span>
+            <input class="ui-form-input ui-input-micro" type="text" checkname="allFloor" name="zongLouCeng" value="38" data-group="floorGroup" data-rules="{&quot;required&quot;:true,&quot;integer&quot;:true,&quot;min&quot;:1,&quot;max&quot;:99}" data-msgs="{&quot;required&quot;:&quot;总楼层不能为空&quot;,&quot;integer&quot;:&quot;总楼层必须是整数&quot;,&quot;min&quot;:&quot;总楼层不能小于1&quot;,&quot;max&quot;:&quot;总楼层不能大于99&quot;}"><span>&nbsp;&nbsp;层</span>
+            <span data-msgfor="floor,allFloor,floorGroup" class="ui-tips"><i class="iconfont"></i></span>
+                    </div>
+
+        
+        
+<div class="ui-form" id="buildinginput_a" style="display: none; z-index: 124;">
+    <label class="ui-form-label ui-label-large"><i class="ness">*</i>户室号：</label>
+    <input class="ui-form-input ui-input-micro building-input" type="text" name="params_19" checkname="params_19" value="" data-rules="{&quot;required&quot;:true,&quot;maxLength&quot;:30, &quot;buildinginfo&quot;:true}" data-msgs="{&quot;required&quot;:&quot;请填写户室信息，填写后不会在用户端展示具体信息&quot;,&quot;maxLength&quot;:&quot;最多输入30个字符&quot;, &quot;buildinginfo&quot;:&quot;户室信息必须是汉字，数字或字母，支持填写中英文标点：— ／ ( ) · # ~ | , _&quot;}">
+
+    <div id="select-buildingtype-1546576938" class="ui-select select-buildingtype" style="width:80px;margin-left:1px;">
+        <select name="params_82" checkname="params_82" style="display:none">
+                                                <option value="1">栋</option>
+                                    <option value="2">弄</option>
+                                    <option value="3">座</option>
+                                    <option value="4">号</option>
+                                    <option value="5">号楼</option>
+                                    <option value="6">胡同</option>
+                                    </select>
+    <div class="ui-select-box"><div class="ui-select-label"><span data-val="1" data-title="栋">栋</span><i class="ui-select-icon ui-select-icondown"></i></div><ul><li data-val="1" class="li-static">栋</li><li data-val="2">弄</li><li data-val="3">座</li><li data-val="4">号</li><li data-val="5">号楼</li><li data-val="6">胡同</li></ul></div></div>
+
+    <input class="ui-form-input ui-input-micro unit-input" type="text" checkname="params_20" name="params_20" value="" data-rules="{&quot;required&quot;:true,&quot;maxLength&quot;:30, &quot;buildinginfo&quot;:true}" data-msgs="{&quot;required&quot;:&quot;请填写户室信息，填写后不会在用户端展示具体信息&quot;,&quot;maxLength&quot;:&quot;最多输入30个字符&quot;, &quot;buildinginfo&quot;:&quot;户室信息必须是汉字，数字或字母，支持填写中英文标点：— ／ ( ) · # ~ | , _&quot;}">
+    <div id="select-unittype-1546576938" class="ui-select select-unittype" style="width:80px;margin-left:1px;">
+        <select checkname="params_83" name="params_83" style="display:none">
+                                            <option value="1">栋</option>
+                                <option value="2">幢</option>
+                                <option value="3">号</option>
+                                <option value="4">号楼</option>
+                                <option value="5">单元</option>
+                                    </select>
+    <div class="ui-select-box"><div class="ui-select-label"><span data-val="1" data-title="栋">栋</span><i class="ui-select-icon ui-select-icondown"></i></div><ul><li data-val="1" class="li-static">栋</li><li data-val="2">幢</li><li data-val="3">号</li><li data-val="4">号楼</li><li data-val="5">单元</li></ul></div></div>
+
+    <input class="ui-form-input ui-input-micro house-number-input" type="text" checkname="params_21" name="params_21" value="" data-rules="{&quot;required&quot;:true,&quot;maxLength&quot;:30, &quot;buildinginfo&quot;:true}" data-msgs="{&quot;required&quot;:&quot;请填写户室信息，填写后不会在用户端展示具体信息&quot;,&quot;maxLength&quot;:&quot;最多输入30个字符&quot;, &quot;buildinginfo&quot;:&quot;户室信息必须是汉字，数字或字母，支持填写中英文标点：— ／ ( ) · # ~ | , _&quot;}"><span>&nbsp;&nbsp;室</span>
+    <span class="ui-comment">户室信息将不在用户端展示具体信息</span>
+        <span data-msgfor="params_19,params_20,params_21" class="ui-tips ui-tips-success-noborder" style="display: inline;"><i class="iconfont"></i></span>
+</div>
+                    <div class="ui-form building-dictionary" id="buildingdictionary_a" style="z-index: 123;">
+    <label class="ui-form-label ui-label-large"><i class="ness">*</i>户室号：</label>
+    <div class="building-dictionary-box">
+        <div class="auto-container building">
+            <input class="ui-form-input ui-input-micro building-input" value="" type="text" checkname="ps_params_19" name="ps_params_19" autocomplete="off" data-rules="{&quot;required&quot;:true,&quot;buildinginfo&quot;:true, &quot;maxLength&quot;:30}" data-msgs="{&quot;required&quot;:&quot;请填写/选择户室信息，该内容不在用户端展示&quot;,&quot;buildinginfo&quot;:&quot;户室信息必须是汉字，非首尾空格，数字或字母，支持填写中英文标点：— ／ ( ) · # ~ | , _&quot;,&quot;maxLength&quot;:&quot;最多输入30个字符&quot;}"><span>&nbsp;&nbsp;幢（栋）</span>
+        <div class="auto-wrap" style="display: none;"></div></div>
+        <input class="building-input-hidden" type="hidden" checkname="ps_params_82" name="ps_params_82" value="1424033" data-rules="{&quot;required&quot;:true,&quot;numOrLetter&quot;:true}" data-msgs="{&quot;required&quot;:&quot;请填写/选择户室信息，该内容不在用户端展示&quot;,&quot;numOrLetter&quot;:&quot;请填写户室信息（栋）&quot;}">
+        <div class="auto-container unit">
+            <input class="ui-form-input ui-input-micro unit-input" value="" type="text" name="ps_params_20" checkname="ps_params_20" autocomplete="off" data-rules="{&quot;required&quot;:true, &quot;buildinginfo&quot;:true, &quot;maxLength&quot;:30}" data-msgs="{&quot;required&quot;:&quot;请填写/选择户室信息，该内容不在用户端展示&quot;, &quot;buildinginfo&quot;:&quot;户室信息必须是汉字，非首尾空格，数字或字母，支持填写中英文标点：— ／ ( ) · # ~ | , _&quot;, &quot;maxLength&quot;:&quot;最多输入30个字符&quot;}"><span>&nbsp;&nbsp;单元（号）</span>
+        <div class="auto-wrap"></div></div>
+
+        <input class="unit-input-hidden" type="hidden" name="ps_params_83" checkname="ps_params_83" value="4056440" data-rules="{&quot;required&quot;:true, &quot;numOrLetter&quot;:true}" data-msgs="{&quot;required&quot;:&quot;请填写/选择户室信息，该内容不在用户端展示&quot;, &quot;numOrLetter&quot;:&quot;请选择正确的单元（号）&quot;}">
+        <div class="auto-container housenumber">
+            <input class="ui-form-input ui-input-micro housenumber-input" value="" type="text" name="ps_params_21" checkname="ps_params_21" autocomplete="off" data-rules="{&quot;required&quot;:true,&quot;buildinginfo&quot;:true,&quot;maxLength&quot;:30}" data-msgs="{&quot;required&quot;:&quot;请填写/选择户室信息，该内容不在用户端展示&quot;,&quot;buildinginfo&quot;:&quot;户室信息必须是汉字，非首尾空格，数字或字母，支持填写中英文标点：— ／ ( ) · # ~ | , _&quot;,&quot;maxLength&quot;:&quot;最多输入30个字符&quot;}"><span>&nbsp;&nbsp;室</span>
+        <div class="auto-wrap" style="display: none;"></div></div>
+        <input class="housenumber-input-hidden" type="hidden" name="params_94" checkname="params_94" value="97158031" data-rules="{&quot;required&quot;:true,&quot;numOrLetter&quot;:true}" data-msgs="{&quot;required&quot;:&quot;请填写/选择户室信息，该内容不在用户端展示&quot;,&quot;numOrLetter&quot;:&quot;请选择正确的室&quot;}">
+    </div>
+    <span class="only-selected" style="">该小区户室号必选</span>
+    <span data-msgfor="ps_params_82,ps_params_83,params_94,ps_params_19,ps_params_20,ps_params_21,ps_params_82,ps_params_83,params_94" class="ui-tips room-number ui-tips-fail-noborder" style="display: inline;"></span>
+    <span id="buildingdefaultmsg" class="ui-comment" style="display: none;"></span>
+        <div id="ISDCaptcha_Win"></div>
+    <span id="captchaBtn"></span>
+</div>
+
+        
+                <div class="ui-form bulid-area-box" style="z-index: 122;">
+             <input type="hidden" name="" class="area-housesid-link" value="97158031">
+            <label class="ui-form-label ui-label-large"><i class="ness">*</i>建筑面积：</label>
+            <input class="ui-form-input ui-input-micro input-all-area ui-form-input-disable" type="text" checkname="allArea" name="mianJi" value="349.4" data-group="areaGroup" data-rules="{&quot;required&quot;:true,&quot;number&quot;:true,&quot;float&quot;:2}" data-msgs="{&quot;required&quot;:&quot;建筑面积不能为空&quot;,&quot;number&quot;:&quot;建筑面积必须是数字&quot;,&quot;float&quot;:&quot;最多保留2位小数&quot;}" readonly="readonly"><span>&nbsp;&nbsp;㎡</span>
+            <span class="pre-label">套内面积&nbsp;&nbsp;</span>
+            <input class="ui-form-input ui-input-micro" type="text" checkname="unitArea" name="params_12" value="348.6" data-group="areaGroup" data-rules="{&quot;number&quot;:true,&quot;float&quot;:2,&quot;min&quot;:10,&quot;max&quot;:5000}" data-msgs="{&quot;number&quot;:&quot;套内面积必须是数字&quot;,&quot;float&quot;:&quot;最多保留2位小数&quot;,&quot;min&quot;:&quot;套内面积不能小于10&quot;,&quot;max&quot;:&quot;套内面积不能大于5000&quot;}"><span>&nbsp;&nbsp;㎡</span>
+            <span data-msgfor="allArea,unitArea,areaGroup" class="ui-tips ui-tips-success-noborder" style="display: inline;"><i class="iconfont"></i></span>
+            <span class="ui-comment" style="display: inline;">该户室面积已经过房源全息字典验真</span>
+            <span class="corrent-link" style="display: inline;"><a href="/community/feedback/errorrecoveryv2?platform=ganji&amp;uid=784112&amp;housesid=97158031&amp;housesid=97158031#roomnumber_info" target="_blank">我要纠错</a></span>
+                    </div>
+
+        <div class="ui-form" style="z-index: 121;">
+            <label class="ui-form-label ui-label-large"><i class="ness">*</i>产权：</label>
+            <div id="select-property" class="ui-select">
+                <select checkname="property" name="params_24" style="display:none" data-rules="{&quot;required&quot;:true}" data-msgs="{&quot;required&quot;:&quot;请选择产权年限&quot;}">
+                    <option value="">产权年限</option>
+                                            <option value="1" selected="selected">70年</option>
+                                            <option value="2">50年</option>
+                                            <option value="3">40年</option>
+                                    </select>
+            <div class="ui-select-box"><div class="ui-select-label"><span data-val="1" data-title="产权年限">70年</span><i class="ui-select-icon ui-select-icondown"></i></div><ul><li data-val="">产权年限</li><li data-val="1" class="li-static">70年</li><li data-val="2">50年</li><li data-val="3">40年</li></ul></div></div>
+            <div id="select-property-type" class="ui-select">
+                <select checkname="propertyType" name="params_81" style="display:none" data-rules="{&quot;required&quot;:true}" data-msgs="{&quot;required&quot;:&quot;请选择产权类型&quot;}">
+                    <option value="">产权类型</option>
+                                            <option value="1" selected="selected">商品房</option>
+                                            <option value="2">商住两用</option>
+                                            <option value="3">经济适用房</option>
+                                            <option value="5">公房</option>
+                                            <option value="6">其他</option>
+                                    </select>
+            <div class="ui-select-box"><div class="ui-select-label"><span data-val="1" data-title="产权类型">商品房</span><i class="ui-select-icon ui-select-icondown"></i></div><ul><li data-val="">产权类型</li><li data-val="1" class="li-static">商品房</li><li data-val="2">商住两用</li><li data-val="3">经济适用房</li><li data-val="5">公房</li><li data-val="6">其他</li></ul></div></div>
+            <span data-msgfor="property,propertyType" class="ui-tips"><i class="iconfont"></i></span>
+        </div>
+
+        <!-- 建筑年代的max中需传入今年+3 -->
+        <div class="ui-form" style="z-index: 120;">
+            <label class="ui-form-label ui-label-large"><i class="ness">*</i>建造年代：</label>
+            <input class="ui-form-input ui-input-micro" type="text" checkname="age" name="params_14" maxlength="4" value="2018" data-rules="{&quot;required&quot;:true,&quot;number&quot;:true,&quot;min&quot;:1900,&quot;max&quot;:2022}" data-msgs="{&quot;required&quot;:&quot;请填写建筑年代&quot;,&quot;number&quot;:&quot;建造年代必须是整数&quot;,&quot;min&quot;:&quot;建筑年代必须大于或等于1900年&quot;,&quot;max&quot;:&quot;最大可填未来3年竣工的房源&quot;}"><span>&nbsp;&nbsp;年</span><span class="ui-comment">填写4位数，如2004</span>
+            <span data-msgfor="age" class="ui-tips"><i class="iconfont"></i></span>
+        </div>
+        <div class="ui-form" style="z-index: 119;">
+            <label class="ui-form-label ui-label-large"><i class="ness">*</i>电梯：</label>
+                            <input type="radio" checkname="lift" name="params_22" value="1" checked="checked" style="display:none;"><label class="ui-radio ui-radio-checked"><i></i>是</label>
+                            <input type="radio" checkname="lift" name="params_22" value="0" style="display:none;"><label class="ui-radio"><i></i>否</label>
+                        <span class="ui-tips" data-msgfor="lift"><i class="iconfont"></i></span>
+        </div>
+                <div class="ui-form" style="z-index: 118;">
+            <label class="ui-form-label ui-label-large">附属信息：</label>
+            <div id="select-infomation" class="ui-select">
+                <select checkname="infomation" name="params_23" style="display:none">
+                    <option value="">附属信息</option>
+                                            <option value="1">自带权属车位</option>
+                                            <option value="2">带阁楼</option>
+                                            <option value="3">带花园</option>
+                                            <option value="4">天井</option>
+                                            <option value="5">露台</option>
+                                            <option value="6">地下室</option>
+                                            <option value="7">飘窗</option>
+                                    </select>
+            <div class="ui-select-box"><div class="ui-select-label"><span data-val="" data-title="附属信息">附属信息</span><i class="ui-select-icon ui-select-icondown"></i></div><ul><li data-val="" class="li-static">附属信息</li><li data-val="1">自带权属车位</li><li data-val="2">带阁楼</li><li data-val="3">带花园</li><li data-val="4">天井</li><li data-val="5">露台</li><li data-val="6">地下室</li><li data-val="7">飘窗</li></ul></div></div>
+        </div>
+
+        <!-- 价格信息 -->
+        <h2 class="ui-title-secondary">价格信息</h2>
+        <div class="ui-form" style="z-index: 117;">
+            <label class="ui-form-label ui-label-large"><i class="ness">*</i>房屋年限：</label>
+                            <input type="radio" checkname="period" name="params_26" value="2" checked="checked" style="display:none;"><label class="ui-radio ui-radio-checked"><i></i>满二</label>
+                            <input type="radio" checkname="period" name="params_26" value="1" style="display:none;"><label class="ui-radio"><i></i>满五</label>
+                            <input type="radio" checkname="period" name="params_26" value="3" style="display:none;"><label class="ui-radio"><i></i>不满二年</label>
+                        <span data-msgfor="period" class="ui-tips"><i class="iconfont"></i></span>
+        </div>
+        <div class="ui-form" style="z-index: 116;">
+            <label class="ui-form-label ui-label-large"><i class="ness">*</i>唯一住房：</label>
+                            <input type="radio" checkname="unique" name="params_25" value="1" style="display:none;"><label class="ui-radio"><i></i>是</label>
+                            <input type="radio" checkname="unique" name="params_25" value="2" checked="checked" style="display:none;"><label class="ui-radio ui-radio-checked"><i></i>否</label>
+                        <span data-msgfor="unique" class="ui-tips"><i class="iconfont"></i></span>
+        </div>
+        <div class="ui-form" style="z-index: 115;">
+            <label class="ui-form-label ui-label-large"><i class="ness">*</i>是否为一手房：</label>
+            <!--该value为１时否，为２时是-->
+                            <input type="radio" checkname="newHouse" name="params_18" value="2" style="display:none;"><label class="ui-radio"><i></i>是</label>
+                            <input type="radio" checkname="newHouse" name="params_18" value="1" checked="checked" style="display:none;"><label class="ui-radio ui-radio-checked"><i></i>否</label>
+                        <span data-msgfor="newHouse" class="ui-tips"><i class="iconfont"></i></span>
+        </div>
+
+        <div id="commission" class="ui-form publish-auto-wrap-commission" style="z-index: 114;">
+            <label class="ui-form-label ui-label-large"><i class="ness">*</i>佣金比例：</label>
+            <span style="margin:0 5px;">≤</span>
+            <input id="commission-input" class="ui-form-input ui-input-small" checkname="commissionauto" name="params_29" value="2" type="text" autocomplete="off">
+            <div class="commission-wrap-container"><div class="auto-wrap"></div></div>
+            <span style="margin:0 5px;">％</span>
+            <span class="ui-comment">应国家要求服务佣金透明化，请如实填写</span>
+            <span data-msgfor="commissionauto" class="ui-tips" style="display: inline;"></span>
+        </div>
+
+
+        <!-- 售价的范围限制以后不再区分城市了 2017-5-25 -->
+        <!-- 单价 -->
+        <div class="ui-form item-price" style="z-index: 113;">
+            <label class="ui-form-label ui-label-large"><i class="ness">*</i>售价：</label>
+            <input class="ui-form-input ui-input-micro" type="text" checkname="price" name="jiaGe" id="totalPrice" data-group="realPriceGroup" value="2675" data-rules="{&quot;required&quot;:true,&quot;number&quot;:true,&quot;float&quot;:2,&quot;min&quot;:2,&quot;max&quot;:100000}" data-msgs="{&quot;required&quot;:&quot;售价不能为空&quot;,&quot;number&quot;:&quot;售价必须为数字&quot;,&quot;float&quot;:&quot;最多保留2位小数&quot;,&quot;min&quot;:&quot;售价不能小于2&quot;,&quot;max&quot;:&quot;售价不能大于100000&quot;}"><span>&nbsp;&nbsp;万元</span>
+            <span class="ui-comment commit-default" style="display: none;">填写真实的买卖价格</span>
+                        <span data-msgfor="price,realPriceGroup" class="ui-tips ui-tips-success-noborder" style="display: inline;"><i class="iconfont"></i></span>
+            <!-- 校验成功展示文案 -->
+            <span style="" class="ui-comment commit-suc">该价格已经过房源全息字典验真</span>
+        </div>
+        <div class="ui-form" style="z-index: 112;">
+            <label class="ui-form-label ui-label-large">首付：</label>
+            <input class="ui-form-input ui-input-micro" type="text" checkname="downPayment" name="params_28" id="downPayment" data-group="priceGroup" value="" data-rules="{&quot;number&quot;:true}" data-msgs="{&quot;number&quot;:&quot;首付必须是数字&quot;}"><span>&nbsp;&nbsp;万元</span>
+            <span class="ui-comment" id="dpReferTxt">最低首付参考<span id="DPreference">803</span>万元，无首付时不填。</span>
+            <span data-msgfor="downPayment,priceGroup" class="ui-tips"><i class="iconfont"></i></span>
+        </div>
+
+<!-- MultiDescription -->
+        <!-- 房源的分块详细信息 -->
+
+<h2 class="ui-title-secondary">详细信息</h2>
+<p class="ui-tips ui-tips-warn-hasborder" style="margin:-5px 0 10px;"><i class="iconfont"></i>不能出现任意联系方式（包含但不限于QQ、微信、电话、网址、MSN、邮箱等）；请勿添加其他小区广告，请勿输入与出售房源无关内容或非法信息。</p>
+
+<div class="ui-form" style="z-index: 111;">
+    <label class="ui-form-label ui-label-large top"><i class="ness">*</i>标题：</label>
+        <input class="ui-form-input ui-input-huge ui-input-title" maxlength="30" name="title" checkname="title" data-rules="{&quot;required&quot;:true,&quot;maxLength&quot;:30,&quot;minLength&quot;:10}" data-msgs="{&quot;required&quot;:&quot;\u8bf7\u8f93\u5165\u623f\u6e90\u6807\u9898&quot;,&quot;maxLength&quot;:&quot;\u6807\u9898\u4e0d\u80fd\u8d85\u8fc730\u4e2a\u5b57&quot;,&quot;minLength&quot;:&quot;\u6807\u9898\u81f3\u5c1110\u4e2a\u5b57&quot;}" value="天誉半岛花园 望江豪宅 豪华装修 三江汇聚 无敌景观买到赚到">
+    <span data-msgfor="title" class="ui-tips"><i class="iconfont"></i></span>
+    <div class="ui-title-num"></div>
+    </div>
+
+<div class="ui-form" style="z-index: 110;">
+    <label class="ui-form-label ui-label-large top"><i class="ness">*</i>房源详情：</label>
+        <div class="ui-input-huge house-desc-container js-textarea-resizable-container">
+        <div class="simple-desc-header ">
+                        <a class="manage-template" href="/house/templates?type=1" target="_blank">
+                <span>管理模板</span>
+            </a>
+            <div id="select_area_1" class="ui-select" style="width: 170px;">
+                <select name="content_fangyuanxiangqing" data-type="1" class="template-select" style="display:none">
+                    <option value="">请选择模板</option>
+                <option value="13893750">星河湾半岛</option><option value="13893242">海怡花园</option><option value="13890862">时代外滩</option><option value="13887215">珊瑚天峰</option><option value="13790081">珠江花园富兴阁</option></select>
+            <div class="ui-select-box"><div class="ui-select-label"><span data-val="" data-title="请选择模板">请选择模板</span><i class="ui-select-icon ui-select-icondown"></i></div><ul><li data-val="" class="li-static">请选择模板</li><li data-val="13893750">星河湾半岛</li><li data-val="13893242">海怡花园</li><li data-val="13890862">时代外滩</li><li data-val="13887215">珊瑚天峰</li><li data-val="13790081">珠江花园富兴阁</li></ul></div></div>
+                        <span class="iconfont clear-content"></span>
+        </div>
+        <div class="simple-desc-content">
+            <textarea id="txt_1" class="ui-form-textarea house-desc-content js-textarea-content processed" name="content_fangyuanxiangqing" checkname="fangYuanXiangQing" data-rules="{&quot;required&quot;:true,&quot;maxLength&quot;:300,&quot;minLength&quot;:20,&quot;repeatNumber&quot;:8}" data-msgs="{&quot;required&quot;:&quot;\u8bf7\u8f93\u5165\u623f\u6e90\u8be6\u60c5&quot;,&quot;maxLength&quot;:&quot;\u623f\u6e90\u8be6\u60c5\u4e0d\u80fd\u8d85\u8fc7300\u4e2a\u5b57&quot;,&quot;minLength&quot;:&quot;\u623f\u6e90\u8be6\u60c5\u81f3\u5c1120\u4e2a\u5b57&quot;,&quot;repeatNumber&quot;:&quot;\u4e0d\u80fd\u586b\u5199\u7535\u8bdd&quot;}" style="resize: none;">项目由天誉置业匠心打造，占据珠江三江汇聚白鹅潭半岛中心地段，位于滨江西洲头咀公园旁，是集住宅、及写字楼为一体的江景地标综合体。
+项目目前在售270-440㎡四至五房环幕江景大宅，270度全弧幕设计，江景展面，近距离、多角度享受半岛三江汇聚壮阔之境。同时三梯两户设计，每户均享私家电梯厅及工人电梯厅，并配置工人套房，私密性与尊属性高；更有多套房打造，追求人性化空间利用，满足客户高品质生活需求。
+项目重金聘请美国HBA、美国AECOM、深圳华森等知名设计公司联袂打造，拥有2000㎡帆船式滨水会所、5万㎡水漾园林、室内外双泳池、私宴到会等配置，更尊享福布斯400强之一的仲</textarea>
+        </div>
+        <div class="simple-desc-footer js-resizable-drag" style="cursor: s-resize;">
+            <span class="iconfont"></span>
+        </div>
+    </div>
+    <span class="default-value">示例：<br>从房屋本身实际情况出发进行描述，如：户型结构、采光通风、室内布局、装修保养、产权状况、税费明细、附送优惠等</span>
+    <span data-msgfor="fangYuanXiangQing" class="ui-tips"><i class="iconfont"></i></span>
+     </div>
+
+<div class="ui-form" style="z-index: 109;">
+    <label class="ui-form-label ui-label-large top"><i class="ness">*</i>业主心态：</label>
+        <div class="ui-input-huge house-desc-container js-textarea-resizable-container">
+        <div class="simple-desc-header ">
+                        <a class="manage-template" href="/house/templates?type=2" target="_blank">
+                <span>管理模板</span>
+            </a>
+            <div id="select_area_2" class="ui-select" style="width: 170px;">
+                <select name="content_yezhuxintai" data-type="2" class="template-select" style="display:none">
+                    <option value="">请选择模板</option>
+                <option value="13893783">星河湾花园</option><option value="13893405">海怡花园</option><option value="13890893">时代外滩</option><option value="13887839">珊瑚天峰</option><option value="13790168">珠江花园</option></select>
+            <div class="ui-select-box"><div class="ui-select-label"><span data-val="" data-title="请选择模板">请选择模板</span><i class="ui-select-icon ui-select-icondown"></i></div><ul><li data-val="" class="li-static">请选择模板</li><li data-val="13893783">星河湾花园</li><li data-val="13893405">海怡花园</li><li data-val="13890893">时代外滩</li><li data-val="13887839">珊瑚天峰</li><li data-val="13790168">珠江花园</li></ul></div></div>
+                        <span class="iconfont clear-content"></span>
+        </div>
+        <div class="simple-desc-content">
+            <textarea id="txt_2" class="ui-form-textarea house-desc-content js-textarea-content processed" name="content_yezhuxintai" checkname="yeZhuXingTai" data-rules="{&quot;required&quot;:true,&quot;maxLength&quot;:300,&quot;minLength&quot;:20,&quot;repeatNumber&quot;:8}" data-msgs="{&quot;required&quot;:&quot;\u8bf7\u8f93\u5165\u4e1a\u4e3b\u5fc3\u6001&quot;,&quot;maxLength&quot;:&quot;\u4e1a\u4e3b\u5fc3\u6001\u4e0d\u80fd\u8d85\u8fc7300\u4e2a\u5b57&quot;,&quot;minLength&quot;:&quot;\u4e1a\u4e3b\u5fc3\u6001\u81f3\u5c1120\u4e2a\u5b57&quot;,&quot;repeatNumber&quot;:&quot;\u4e0d\u80fd\u586b\u5199\u7535\u8bdd&quot;}" style="resize: none;">【1】不收您一分钱，开发商支付给我们的是开发商的部分广告费，跟房子的价格没有任何关系。【2】我们比售楼处的价更低（如果不是的话就不存在代理）售楼员不会和你讲价，但我们可以【3】告诉您，因为我们报团去的，你见过团购价会比实体店贵的吗？（原理就跟我们平时用团购看电影吃喝玩乐价格却比实体店很多一样的道理）【4】您一个人去售楼处买的是一套，通过我们其实是多套，团购的优势不言而喻！！</textarea>
+        </div>
+        <div class="simple-desc-footer js-resizable-drag" style="cursor: s-resize;">
+            <span class="iconfont"></span>
+        </div>
+    </div>
+    <span class="default-value">示例：<br>从房东卖房原因、是否急售等方面进行描述。</span>
+    <span data-msgfor="yeZhuXingTai" class="ui-tips"><i class="iconfont"></i></span>
+     </div>
+
+<div class="ui-form" style="z-index: 108;">
+    <label class="ui-form-label ui-label-large top"><i class="ness">*</i>服务介绍：</label>
+        <div class="ui-input-huge house-desc-container js-textarea-resizable-container">
+        <div class="simple-desc-header ">
+                        <a class="manage-template" href="/house/templates?type=4" target="_blank">
+                <span>管理模板</span>
+            </a>
+            <div id="select_area_4" class="ui-select" style="width: 170px;">
+                <select name="content_fuwujieshao" data-type="4" class="template-select" style="display:none">
+                    <option value="">请选择模板</option>
+                <option value="13890791">番禺二手</option></select>
+            <div class="ui-select-box"><div class="ui-select-label"><span data-val="" data-title="请选择模板">请选择模板</span><i class="ui-select-icon ui-select-icondown"></i></div><ul><li data-val="" class="li-static">请选择模板</li><li data-val="13890791">番禺二手</li></ul></div></div>
+                        <span class="iconfont clear-content"></span>
+        </div>
+        <div class="simple-desc-content">
+            <textarea id="txt_4" class="ui-form-textarea house-desc-content js-textarea-content processed" name="content_fuwujieshao" checkname="fuWuJieShao" data-rules="{&quot;required&quot;:true,&quot;maxLength&quot;:300,&quot;minLength&quot;:20,&quot;repeatNumber&quot;:8}" data-msgs="{&quot;required&quot;:&quot;\u8bf7\u8f93\u5165\u670d\u52a1\u4ecb\u7ecd&quot;,&quot;maxLength&quot;:&quot;\u670d\u52a1\u4ecb\u7ecd\u4e0d\u80fd\u8d85\u8fc7300\u4e2a\u5b57&quot;,&quot;minLength&quot;:&quot;\u670d\u52a1\u4ecb\u7ecd\u81f3\u5c1120\u4e2a\u5b57&quot;,&quot;repeatNumber&quot;:&quot;\u4e0d\u80fd\u586b\u5199\u7535\u8bdd&quot;}" style="resize: none;">①免收任何费用，我们公司跟开发商有合作，能拿到个人拿不到的价。②我可以帮您解决的购房遇到问题。③您购房的签约时间、和所需要准备的资料、签约时陪同您。④可以每隔一段时间跟您分析房子的进度和涨幅度。⑤我可以根据您的经济能力匹配更合适的楼盘、帮助您加深对楼盘的了解度。⑥长期专注本小区一手房，非常熟悉小区的情况，专业专注。</textarea>
+        </div>
+        <div class="simple-desc-footer js-resizable-drag" style="cursor: s-resize;">
+            <span class="iconfont"></span>
+        </div>
+    </div>
+    <span class="default-value">示例：<br>可从多角度描述您的各类专业服务及优势，例如：佣金比例及额度、税费申报、产权过户、定金协议、房屋交割、买卖合同、行业经验、服务态度等。</span>
+    <span data-msgfor="fuWuJieShao" class="ui-tips"><i class="iconfont"></i></span>
+     </div>
+
+<!-- MultiDescription end -->
+
+                    <div class="ui-form" style="z-index: 107;">
+                <label class="ui-form-label ui-label-large">服务类型：</label>
+                                    <label class="mr10"><input type="checkbox" checkname="selectTag" name="params_35[]" value="2" checked="checked" class="mr5">有钥匙</label>
+                                    <label class="mr10"><input type="checkbox" checkname="selectTag" name="params_35[]" value="1" class="mr5">免费保洁</label>
+                
+                <span data-msgfor="selectTag" class="ui-tips"><i class="iconfont"></i></span>
+            </div>
+        
+        <!-- 平台标签 -->
+        
+<div id="bbb_label" class="ui-form labels-standard" style="z-index: 106;">
+    <label class="ui-form-label ui-label-large">平台标签：</label>
+    <span id="labels_label_standard" class="labels">
+                <label class="ui-label ui-label-added ui-label-adding-unable">
+            <i class="icon-add">+</i>
+            <span>环境优美</span>
+            <input type="checkbox" name="params_36[]" value="18556278" checked="checked" autocomplete="off">
+            <i class="icon-del iconfont"></i>
+        </label>
+                <label class="ui-label ui-label-added ui-label-adding-unable">
+            <i class="icon-add">+</i>
+            <span>南北通透</span>
+            <input type="checkbox" name="params_36[]" value="6" checked="checked" autocomplete="off">
+            <i class="icon-del iconfont"></i>
+        </label>
+                    <label class="ui-label ui-label-adding ui-label-adding-unable">
+            <i class="icon-add">+</i>
+            <span>添加标签</span>
+            <input type="checkbox" name="params_36[]" value="" autocomplete="off">
+            <i class="icon-del iconfont"></i>
+        </label>
+    </span>
+    <span class="ui-tips" data-msgfor="params_36[]"><i class="iconfont"></i></span>
+    <span class="ui-tips"><i class="iconfont"></i></span>
+</div>
+
+<div id="standard_store" class="labelbox labelboxstandard tab-box com-tab">
+    <ul class="tab-list ">
+                    <li data-sub-type="1" class="cur">小区<em></em></li>
+                    <li data-sub-type="2">户型<em></em></li>
+                    <li data-sub-type="3">房屋结构<em></em></li>
+                    <li data-sub-type="4">位置<em></em></li>
+                    <li data-sub-type="5">装修<em></em></li>
+                    <li data-sub-type="6">附加<em></em></li>
+            </ul>
+    <div class="tab-ctbox">
+                    <div class="labelbox-content" data-sub-type="1" data-type-name="小区" style="display: block;">
+                                    <a href="javascript:;" data-val="18556287">品质小区</a>
+                                    <a href="javascript:;" data-val="18556286">繁华地段</a>
+                                    <a href="javascript:;" data-val="18556285">安全性高</a>
+                                    <a href="javascript:;" data-val="18556284">素质住户</a>
+                                    <a href="javascript:;" data-val="18556282">交通便利</a>
+                                    <a href="javascript:;" data-val="18556281">次新小区</a>
+                                    <a href="javascript:;" data-val="18556278" class="disable">环境优美</a>
+                                    <a href="javascript:;" data-val="18556277">配套成熟</a>
+                                    <a href="javascript:;" data-val="18556275">近地铁</a>
+                                    <a href="javascript:;" data-val="18556288">低密度</a>
+                            </div>
+                    <div class="labelbox-content" data-sub-type="2" data-type-name="户型" style="display: none;">
+                                    <a href="javascript:;" data-val="1">主卧朝南</a>
+                                    <a href="javascript:;" data-val="2">客厅朝南</a>
+                                    <a href="javascript:;" data-val="3">两房朝南</a>
+                                    <a href="javascript:;" data-val="4">三房朝南</a>
+                                    <a href="javascript:;" data-val="5">全南户型</a>
+                                    <a href="javascript:;" data-val="6" class="disable">南北通透</a>
+                                    <a href="javascript:;" data-val="7">厨卫朝北</a>
+                                    <a href="javascript:;" data-val="8">卫浴全明</a>
+                                    <a href="javascript:;" data-val="9">开放厨房</a>
+                                    <a href="javascript:;" data-val="10">大开间</a>
+                                    <a href="javascript:;" data-val="11">大两房</a>
+                                    <a href="javascript:;" data-val="12">小户型</a>
+                                    <a href="javascript:;" data-val="13">厅带阳台</a>
+                                    <a href="javascript:;" data-val="14">双阳台</a>
+                                    <a href="javascript:;" data-val="15">带飘窗</a>
+                                    <a href="javascript:;" data-val="16">景观房</a>
+                                    <a href="javascript:;" data-val="17">一门关</a>
+                            </div>
+                    <div class="labelbox-content" data-sub-type="3" data-type-name="房屋结构" style="display: none;">
+                                    <a href="javascript:;" data-val="18">独立电梯</a>
+                                    <a href="javascript:;" data-val="19">一梯两户</a>
+                                    <a href="javascript:;" data-val="20">一梯三户</a>
+                                    <a href="javascript:;" data-val="21">复式房</a>
+                                    <a href="javascript:;" data-val="22">错层式</a>
+                                    <a href="javascript:;" data-val="23">跃层式</a>
+                                    <a href="javascript:;" data-val="25">大平层</a>
+                                    <a href="javascript:;" data-val="26">带阁楼</a>
+                                    <a href="javascript:;" data-val="27">采光天井</a>
+                                    <a href="javascript:;" data-val="28">下沉花园</a>
+                                    <a href="javascript:;" data-val="29">法式</a>
+                                    <a href="javascript:;" data-val="30">新式里弄</a>
+                                    <a href="javascript:;" data-val="31">独栋别墅</a>
+                                    <a href="javascript:;" data-val="32">联排别墅</a>
+                                    <a href="javascript:;" data-val="33">叠加别墅</a>
+                            </div>
+                    <div class="labelbox-content" data-sub-type="4" data-type-name="位置" style="display: none;">
+                                    <a href="javascript:;" data-val="34">小区中心</a>
+                                    <a href="javascript:;" data-val="35">近入口</a>
+                                    <a href="javascript:;" data-val="36">远离马路</a>
+                                    <a href="javascript:;" data-val="37">靠近花园</a>
+                                    <a href="javascript:;" data-val="38">位置安静</a>
+                                    <a href="javascript:;" data-val="39">景观房</a>
+                                    <a href="javascript:;" data-val="40">非底楼</a>
+                                    <a href="javascript:;" data-val="41">非顶楼</a>
+                                    <a href="javascript:;" data-val="42">底楼</a>
+                                    <a href="javascript:;" data-val="43">顶楼</a>
+                            </div>
+                    <div class="labelbox-content" data-sub-type="5" data-type-name="装修" style="display: none;">
+                                    <a href="javascript:;" data-val="44">中国风</a>
+                                    <a href="javascript:;" data-val="45">美式风</a>
+                                    <a href="javascript:;" data-val="46">欧式风</a>
+                                    <a href="javascript:;" data-val="47">地中海风</a>
+                                    <a href="javascript:;" data-val="48">田园风</a>
+                            </div>
+                    <div class="labelbox-content" data-sub-type="6" data-type-name="附加" style="display: none;">
+                                    <a href="javascript:;" data-val="49">赠露台</a>
+                                    <a href="javascript:;" data-val="50">带车库</a>
+                                    <a href="javascript:;" data-val="51">带花园</a>
+                                    <a href="javascript:;" data-val="53">地暖</a>
+                                    <a href="javascript:;" data-val="54">带泳池</a>
+                                    <a href="javascript:;" data-val="55">送家电</a>
+                                    <a href="javascript:;" data-val="56">送车位</a>
+                                    <a href="javascript:;" data-val="57">指纹入户</a>
+                                    <a href="javascript:;" data-val="58">采光好</a>
+                                    <a href="javascript:;" data-val="60">房型正</a>
+                                    <a href="javascript:;" data-val="64">拎包入住</a>
+                                    <a href="javascript:;" data-val="65">视野好</a>
+                            </div>
+                    </div>
+</div>
+
+
+        <div class="ui-form" style="z-index: 105;">
+    <label class="ui-form-label ui-label-large">上传房源图片：</label>
+    <span><a href="###" id="open_upload_setting">图片上传设置</a></span>
+    <span id="flashunuse" class="flash-err-msg" style="display: inline;"><i class="iconfont"></i><span>您的flash不可用，已自动切换至单张上传</span></span>
+    <!-- app扫码上传 -->
+    <div class="app-upload-area">
+        <a href="javascript:;" class="ui-button ui-button-small ui-button-blue app-upload-btn">开启扫码传图</a>
+        <!-- 可扫描状态 -->
+        <div class="app-upload-detail">
+            <img src="">
+            <span>打开移动经纪人app</span><br>
+            <span>扫一扫快速传图</span><br>
+            <span>（限v8.0.1以上版本）</span>
+        </div>
+        <!-- 二维码失效状态 -->
+        <div class="app-upload-invalid">
+            <i class="iconfont"></i>
+            <span class="invalid-tips">二维码已过期</span><br>
+            <span>请刷新后重新扫码</span>
+            <a href="javascript:;" class="ui-button ui-button-small ui-button-positive update-app-btn">刷新二维码</a>
+        </div>
+    </div>
+
+    <input type="hidden" id="defaultImgID" autocomplete="off" checkname="defaultImgID" name="defaultImgID" value="d19fbbff1ca377edbe6f194469a96d09" class="">
+    <span data-msgfor="defaultImgID" class="ui-tips default-image-tips-icon ui-tips-success-noborder" style="display: inline;"><i class="iconfont"></i></span>
+            <style type="text/css">
+        .default-image-tips-icon.ui-tips-success-noborder .iconfont{
+            display: none!important;
+        }
+    </style>
+    <br>
+</div>
+<p class="ui-tips ui-tips-warn-hasborder" style="margin-bottom: 10px;"><i class="iconfont"></i>引起<strong class="msg-highlight">99%房源下架</strong>的图片规则：1、不得违反经纪公司logo发布规则（限1个，白色半透明且尺寸在25%以内） 2、不得盗图（含58、赶集、安居客等logo）3、不得有任何装饰、图文
+</p>
+<div class="ui-form" style="z-index: 104;">
+
+    <label class="ui-form-label ui-label-large"><i class="ness">*</i>上传室内图</label>
+            <span class="publish-gray">（图片宽度和高度都不能低于600像素，至少3张，最多<span class="upload-maxcount-span">10</span>张，按ctrl键可以多张上传，封面图必选）</span>
+    
+        <input type="hidden" name="room_upload_validate" checkname="room_upload_validate" value="0.37231980004969667" id="room_upload_validate" class="">
+    <span data-msgfor="room_upload_validate" class="ui-tips ui-tips-success-noborder" style="display: inline;"><i class="iconfont"></i></span>
+    </div>
+<div class="upload-pictures">
+    <!-- @update: data-maxcount属性是给表单验证中对最大上传张数的限制 XinHong-->
+    <div id="room-upload-display" class="multi-display-box clearfix" data-maxcount="10">
+        
+    <div class="upload-box" data-id="d19fbbff1ca377edbe6f194469a96d09">
+        <img src="http://pic1.ajkimg.com/display/vip/d19fbbff1ca377edbe6f194469a96d09/420x315c.jpg" width="140" height="105">
+        <div class="upload-box-option">
+            <i class="set-main">取消封面</i>
+            <i class="set-prev" style="display: none;"></i>
+            <i class="set-next" style="display: block;"></i>
+            <i class="set-delete"></i>
+        </div>
+      <input type="hidden" value="{&quot;fullPath&quot;:&quot;http://pic1.ajkimg.com/display/anjuke/d19fbbff1ca377edbe6f194469a96d09/600x600.jpg&quot;,&quot;category&quot;:1,&quot;order&quot;:1,&quot;isCover&quot;:1,&quot;hash&quot;:&quot;d19fbbff1ca377edbe6f194469a96d09&quot;,&quot;host&quot;:&quot;1&quot;,&quot;sharedPicId&quot;:0,&quot;picId&quot;:0,&quot;operateType&quot;:1,&quot;description&quot;:&quot;&quot;,&quot;width&quot;:1334,&quot;height&quot;:1000,&quot;size&quot;:248517,&quot;format&quot;:&quot;JPEG&quot;,&quot;exists&quot;:0,&quot;exif&quot;:false,&quot;isCommon&quot;:0,&quot;commonHostId&quot;:0,&quot;commonFileName&quot;:&quot;&quot;,&quot;addTime&quot;:1545458500757}" checkname="updroom[]" name="picture_shineitu[]" class="hideupd">
+      <input type="hidden" value="{&quot;fullPath&quot;:&quot;http://pic1.ajkimg.com/display/anjuke/d19fbbff1ca377edbe6f194469a96d09/600x600.jpg&quot;,&quot;category&quot;:1,&quot;order&quot;:1,&quot;isCover&quot;:1,&quot;hash&quot;:&quot;d19fbbff1ca377edbe6f194469a96d09&quot;,&quot;host&quot;:&quot;1&quot;,&quot;sharedPicId&quot;:0,&quot;picId&quot;:0,&quot;operateType&quot;:1,&quot;description&quot;:&quot;&quot;,&quot;width&quot;:1334,&quot;height&quot;:1000,&quot;size&quot;:248517,&quot;format&quot;:&quot;JPEG&quot;,&quot;exists&quot;:0,&quot;exif&quot;:false,&quot;isCommon&quot;:0,&quot;commonHostId&quot;:0,&quot;commonFileName&quot;:&quot;&quot;,&quot;addTime&quot;:1545458500757}" checkname="newupdroom[]" name="[]" class="hidden">
+      <input type="hidden" checkname="roomorder[]" name="roomorder[]" class="roomorder" value="d19fbbff1ca377edbe6f194469a96d09">
+    </div>
+
+    <div class="upload-box" data-id="063dc0855ea8d4fcb518ccf5d24615f7">
+        <img src="http://pic1.ajkimg.com/display/vip/063dc0855ea8d4fcb518ccf5d24615f7/420x315c.jpg" width="140" height="105">
+        <div class="upload-box-option">
+            <i class="set-main">设为封面</i>
+            <i class="set-prev"></i>
+            <i class="set-next" style="display: block;"></i>
+            <i class="set-delete"></i>
+        </div>
+      <input type="hidden" value="{&quot;fullPath&quot;:&quot;http://pic1.ajkimg.com/display/anjuke/063dc0855ea8d4fcb518ccf5d24615f7/600x600.jpg&quot;,&quot;category&quot;:1,&quot;order&quot;:1,&quot;isCover&quot;:0,&quot;hash&quot;:&quot;063dc0855ea8d4fcb518ccf5d24615f7&quot;,&quot;host&quot;:&quot;1&quot;,&quot;sharedPicId&quot;:0,&quot;picId&quot;:0,&quot;operateType&quot;:1,&quot;description&quot;:&quot;&quot;,&quot;width&quot;:1334,&quot;height&quot;:1000,&quot;size&quot;:215408,&quot;format&quot;:&quot;JPEG&quot;,&quot;exists&quot;:0,&quot;exif&quot;:false,&quot;isCommon&quot;:0,&quot;commonHostId&quot;:0,&quot;commonFileName&quot;:&quot;&quot;,&quot;addTime&quot;:1545458500757}" checkname="updroom[]" name="picture_shineitu[]" class="hideupd">
+      <input type="hidden" value="{&quot;fullPath&quot;:&quot;http://pic1.ajkimg.com/display/anjuke/063dc0855ea8d4fcb518ccf5d24615f7/600x600.jpg&quot;,&quot;category&quot;:1,&quot;order&quot;:1,&quot;isCover&quot;:0,&quot;hash&quot;:&quot;063dc0855ea8d4fcb518ccf5d24615f7&quot;,&quot;host&quot;:&quot;1&quot;,&quot;sharedPicId&quot;:0,&quot;picId&quot;:0,&quot;operateType&quot;:1,&quot;description&quot;:&quot;&quot;,&quot;width&quot;:1334,&quot;height&quot;:1000,&quot;size&quot;:215408,&quot;format&quot;:&quot;JPEG&quot;,&quot;exists&quot;:0,&quot;exif&quot;:false,&quot;isCommon&quot;:0,&quot;commonHostId&quot;:0,&quot;commonFileName&quot;:&quot;&quot;,&quot;addTime&quot;:1545458500757}" checkname="newupdroom[]" name="[]" class="hidden">
+      <input type="hidden" checkname="roomorder[]" name="roomorder[]" class="roomorder" value="063dc0855ea8d4fcb518ccf5d24615f7">
+    </div>
+
+    <div class="upload-box" data-id="946869658c1ed759896829095c507f71">
+        <img src="http://pic1.ajkimg.com/display/vip/946869658c1ed759896829095c507f71/420x315c.jpg" width="140" height="105">
+        <div class="upload-box-option">
+            <i class="set-main">设为封面</i>
+            <i class="set-prev"></i>
+            <i class="set-next" style="display: block;"></i>
+            <i class="set-delete"></i>
+        </div>
+      <input type="hidden" value="{&quot;fullPath&quot;:&quot;http://pic1.ajkimg.com/display/anjuke/946869658c1ed759896829095c507f71/600x600.jpg&quot;,&quot;category&quot;:1,&quot;order&quot;:1,&quot;isCover&quot;:0,&quot;hash&quot;:&quot;946869658c1ed759896829095c507f71&quot;,&quot;host&quot;:&quot;1&quot;,&quot;sharedPicId&quot;:0,&quot;picId&quot;:0,&quot;operateType&quot;:1,&quot;description&quot;:&quot;&quot;,&quot;width&quot;:1334,&quot;height&quot;:1000,&quot;size&quot;:259515,&quot;format&quot;:&quot;JPEG&quot;,&quot;exists&quot;:0,&quot;exif&quot;:false,&quot;isCommon&quot;:0,&quot;commonHostId&quot;:0,&quot;commonFileName&quot;:&quot;&quot;,&quot;addTime&quot;:1545458500757}" checkname="updroom[]" name="picture_shineitu[]" class="hideupd">
+      <input type="hidden" value="{&quot;fullPath&quot;:&quot;http://pic1.ajkimg.com/display/anjuke/946869658c1ed759896829095c507f71/600x600.jpg&quot;,&quot;category&quot;:1,&quot;order&quot;:1,&quot;isCover&quot;:0,&quot;hash&quot;:&quot;946869658c1ed759896829095c507f71&quot;,&quot;host&quot;:&quot;1&quot;,&quot;sharedPicId&quot;:0,&quot;picId&quot;:0,&quot;operateType&quot;:1,&quot;description&quot;:&quot;&quot;,&quot;width&quot;:1334,&quot;height&quot;:1000,&quot;size&quot;:259515,&quot;format&quot;:&quot;JPEG&quot;,&quot;exists&quot;:0,&quot;exif&quot;:false,&quot;isCommon&quot;:0,&quot;commonHostId&quot;:0,&quot;commonFileName&quot;:&quot;&quot;,&quot;addTime&quot;:1545458500757}" checkname="newupdroom[]" name="[]" class="hidden">
+      <input type="hidden" checkname="roomorder[]" name="roomorder[]" class="roomorder" value="946869658c1ed759896829095c507f71">
+    </div>
+
+    <div class="upload-box" data-id="6f148f310206ebaa0d8a22b2adf00796">
+        <img src="http://pic1.ajkimg.com/display/vip/6f148f310206ebaa0d8a22b2adf00796/420x315c.jpg" width="140" height="105">
+        <div class="upload-box-option">
+            <i class="set-main">设为封面</i>
+            <i class="set-prev"></i>
+            <i class="set-next" style="display: block;"></i>
+            <i class="set-delete"></i>
+        </div>
+      <input type="hidden" value="{&quot;fullPath&quot;:&quot;http://pic1.ajkimg.com/display/anjuke/6f148f310206ebaa0d8a22b2adf00796/600x600.jpg&quot;,&quot;category&quot;:1,&quot;order&quot;:1,&quot;isCover&quot;:0,&quot;hash&quot;:&quot;6f148f310206ebaa0d8a22b2adf00796&quot;,&quot;host&quot;:&quot;1&quot;,&quot;sharedPicId&quot;:0,&quot;picId&quot;:0,&quot;operateType&quot;:1,&quot;description&quot;:&quot;&quot;,&quot;width&quot;:1334,&quot;height&quot;:1000,&quot;size&quot;:271924,&quot;format&quot;:&quot;JPEG&quot;,&quot;exists&quot;:0,&quot;exif&quot;:false,&quot;isCommon&quot;:0,&quot;commonHostId&quot;:0,&quot;commonFileName&quot;:&quot;&quot;,&quot;addTime&quot;:1545458500757}" checkname="updroom[]" name="picture_shineitu[]" class="hideupd">
+      <input type="hidden" value="{&quot;fullPath&quot;:&quot;http://pic1.ajkimg.com/display/anjuke/6f148f310206ebaa0d8a22b2adf00796/600x600.jpg&quot;,&quot;category&quot;:1,&quot;order&quot;:1,&quot;isCover&quot;:0,&quot;hash&quot;:&quot;6f148f310206ebaa0d8a22b2adf00796&quot;,&quot;host&quot;:&quot;1&quot;,&quot;sharedPicId&quot;:0,&quot;picId&quot;:0,&quot;operateType&quot;:1,&quot;description&quot;:&quot;&quot;,&quot;width&quot;:1334,&quot;height&quot;:1000,&quot;size&quot;:271924,&quot;format&quot;:&quot;JPEG&quot;,&quot;exists&quot;:0,&quot;exif&quot;:false,&quot;isCommon&quot;:0,&quot;commonHostId&quot;:0,&quot;commonFileName&quot;:&quot;&quot;,&quot;addTime&quot;:1545458500757}" checkname="newupdroom[]" name="[]" class="hidden">
+      <input type="hidden" checkname="roomorder[]" name="roomorder[]" class="roomorder" value="6f148f310206ebaa0d8a22b2adf00796">
+    </div>
+
+    <div class="upload-box" data-id="e7dde300ac49b4c3435589d9ebcfd102">
+        <img src="http://pic1.ajkimg.com/display/vip/e7dde300ac49b4c3435589d9ebcfd102/420x315c.jpg" width="140" height="105">
+        <div class="upload-box-option">
+            <i class="set-main">设为封面</i>
+            <i class="set-prev"></i>
+            <i class="set-next" style="display: block;"></i>
+            <i class="set-delete"></i>
+        </div>
+      <input type="hidden" value="{&quot;fullPath&quot;:&quot;http://pic1.ajkimg.com/display/anjuke/e7dde300ac49b4c3435589d9ebcfd102/600x600.jpg&quot;,&quot;category&quot;:1,&quot;order&quot;:1,&quot;isCover&quot;:0,&quot;hash&quot;:&quot;e7dde300ac49b4c3435589d9ebcfd102&quot;,&quot;host&quot;:&quot;1&quot;,&quot;sharedPicId&quot;:0,&quot;picId&quot;:0,&quot;operateType&quot;:1,&quot;description&quot;:&quot;&quot;,&quot;width&quot;:1334,&quot;height&quot;:1000,&quot;size&quot;:234828,&quot;format&quot;:&quot;JPEG&quot;,&quot;exists&quot;:0,&quot;exif&quot;:false,&quot;isCommon&quot;:0,&quot;commonHostId&quot;:0,&quot;commonFileName&quot;:&quot;&quot;,&quot;addTime&quot;:1545458500757}" checkname="updroom[]" name="picture_shineitu[]" class="hideupd">
+      <input type="hidden" value="{&quot;fullPath&quot;:&quot;http://pic1.ajkimg.com/display/anjuke/e7dde300ac49b4c3435589d9ebcfd102/600x600.jpg&quot;,&quot;category&quot;:1,&quot;order&quot;:1,&quot;isCover&quot;:0,&quot;hash&quot;:&quot;e7dde300ac49b4c3435589d9ebcfd102&quot;,&quot;host&quot;:&quot;1&quot;,&quot;sharedPicId&quot;:0,&quot;picId&quot;:0,&quot;operateType&quot;:1,&quot;description&quot;:&quot;&quot;,&quot;width&quot;:1334,&quot;height&quot;:1000,&quot;size&quot;:234828,&quot;format&quot;:&quot;JPEG&quot;,&quot;exists&quot;:0,&quot;exif&quot;:false,&quot;isCommon&quot;:0,&quot;commonHostId&quot;:0,&quot;commonFileName&quot;:&quot;&quot;,&quot;addTime&quot;:1545458500757}" checkname="newupdroom[]" name="[]" class="hidden">
+      <input type="hidden" checkname="roomorder[]" name="roomorder[]" class="roomorder" value="e7dde300ac49b4c3435589d9ebcfd102">
+    </div>
+
+    <div class="upload-box" data-id="5248052ae03779314b0df6bcaa955538">
+        <img src="http://pic1.ajkimg.com/display/vip/5248052ae03779314b0df6bcaa955538/420x315c.jpg" width="140" height="105">
+        <div class="upload-box-option">
+            <i class="set-main">设为封面</i>
+            <i class="set-prev"></i>
+            <i class="set-next" style="display: block;"></i>
+            <i class="set-delete"></i>
+        </div>
+      <input type="hidden" value="{&quot;fullPath&quot;:&quot;http://pic1.ajkimg.com/display/anjuke/5248052ae03779314b0df6bcaa955538/600x600.jpg&quot;,&quot;category&quot;:1,&quot;order&quot;:1,&quot;isCover&quot;:0,&quot;hash&quot;:&quot;5248052ae03779314b0df6bcaa955538&quot;,&quot;host&quot;:&quot;1&quot;,&quot;sharedPicId&quot;:0,&quot;picId&quot;:0,&quot;operateType&quot;:1,&quot;description&quot;:&quot;&quot;,&quot;width&quot;:1334,&quot;height&quot;:1000,&quot;size&quot;:265861,&quot;format&quot;:&quot;JPEG&quot;,&quot;exists&quot;:0,&quot;exif&quot;:false,&quot;isCommon&quot;:0,&quot;commonHostId&quot;:0,&quot;commonFileName&quot;:&quot;&quot;,&quot;addTime&quot;:1545458500757}" checkname="updroom[]" name="picture_shineitu[]" class="hideupd">
+      <input type="hidden" value="{&quot;fullPath&quot;:&quot;http://pic1.ajkimg.com/display/anjuke/5248052ae03779314b0df6bcaa955538/600x600.jpg&quot;,&quot;category&quot;:1,&quot;order&quot;:1,&quot;isCover&quot;:0,&quot;hash&quot;:&quot;5248052ae03779314b0df6bcaa955538&quot;,&quot;host&quot;:&quot;1&quot;,&quot;sharedPicId&quot;:0,&quot;picId&quot;:0,&quot;operateType&quot;:1,&quot;description&quot;:&quot;&quot;,&quot;width&quot;:1334,&quot;height&quot;:1000,&quot;size&quot;:265861,&quot;format&quot;:&quot;JPEG&quot;,&quot;exists&quot;:0,&quot;exif&quot;:false,&quot;isCommon&quot;:0,&quot;commonHostId&quot;:0,&quot;commonFileName&quot;:&quot;&quot;,&quot;addTime&quot;:1545458500757}" checkname="newupdroom[]" name="[]" class="hidden">
+      <input type="hidden" checkname="roomorder[]" name="roomorder[]" class="roomorder" value="5248052ae03779314b0df6bcaa955538">
+    </div>
+
+    <div class="upload-box" data-id="c1cb100192ff2db9003f2d84a28f2c59">
+        <img src="http://pic1.ajkimg.com/display/vip/c1cb100192ff2db9003f2d84a28f2c59/420x315c.jpg" width="140" height="105">
+        <div class="upload-box-option">
+            <i class="set-main">设为封面</i>
+            <i class="set-prev"></i>
+            <i class="set-next" style="display: block;"></i>
+            <i class="set-delete"></i>
+        </div>
+      <input type="hidden" value="{&quot;fullPath&quot;:&quot;http://pic1.ajkimg.com/display/anjuke/c1cb100192ff2db9003f2d84a28f2c59/600x600.jpg&quot;,&quot;category&quot;:1,&quot;order&quot;:1,&quot;isCover&quot;:0,&quot;hash&quot;:&quot;c1cb100192ff2db9003f2d84a28f2c59&quot;,&quot;host&quot;:&quot;1&quot;,&quot;sharedPicId&quot;:0,&quot;picId&quot;:0,&quot;operateType&quot;:1,&quot;description&quot;:&quot;&quot;,&quot;width&quot;:1334,&quot;height&quot;:1000,&quot;size&quot;:305153,&quot;format&quot;:&quot;JPEG&quot;,&quot;exists&quot;:0,&quot;exif&quot;:false,&quot;isCommon&quot;:0,&quot;commonHostId&quot;:0,&quot;commonFileName&quot;:&quot;&quot;,&quot;addTime&quot;:1545458500757}" checkname="updroom[]" name="picture_shineitu[]" class="hideupd">
+      <input type="hidden" value="{&quot;fullPath&quot;:&quot;http://pic1.ajkimg.com/display/anjuke/c1cb100192ff2db9003f2d84a28f2c59/600x600.jpg&quot;,&quot;category&quot;:1,&quot;order&quot;:1,&quot;isCover&quot;:0,&quot;hash&quot;:&quot;c1cb100192ff2db9003f2d84a28f2c59&quot;,&quot;host&quot;:&quot;1&quot;,&quot;sharedPicId&quot;:0,&quot;picId&quot;:0,&quot;operateType&quot;:1,&quot;description&quot;:&quot;&quot;,&quot;width&quot;:1334,&quot;height&quot;:1000,&quot;size&quot;:305153,&quot;format&quot;:&quot;JPEG&quot;,&quot;exists&quot;:0,&quot;exif&quot;:false,&quot;isCommon&quot;:0,&quot;commonHostId&quot;:0,&quot;commonFileName&quot;:&quot;&quot;,&quot;addTime&quot;:1545458500757}" checkname="newupdroom[]" name="[]" class="hidden">
+      <input type="hidden" checkname="roomorder[]" name="roomorder[]" class="roomorder" value="c1cb100192ff2db9003f2d84a28f2c59">
+    </div>
+
+    <div class="upload-box" data-id="f5dc113b3dd3a0a2f5ed0215d2dd6dc9">
+        <img src="http://pic1.ajkimg.com/display/vip/f5dc113b3dd3a0a2f5ed0215d2dd6dc9/420x315c.jpg" width="140" height="105">
+        <div class="upload-box-option">
+            <i class="set-main">设为封面</i>
+            <i class="set-prev"></i>
+            <i class="set-next" style="display: none;"></i>
+            <i class="set-delete"></i>
+        </div>
+      <input type="hidden" value="{&quot;fullPath&quot;:&quot;http://pic1.ajkimg.com/display/anjuke/f5dc113b3dd3a0a2f5ed0215d2dd6dc9/600x600.jpg&quot;,&quot;category&quot;:1,&quot;order&quot;:1,&quot;isCover&quot;:0,&quot;hash&quot;:&quot;f5dc113b3dd3a0a2f5ed0215d2dd6dc9&quot;,&quot;host&quot;:&quot;1&quot;,&quot;sharedPicId&quot;:0,&quot;picId&quot;:0,&quot;operateType&quot;:1,&quot;description&quot;:&quot;&quot;,&quot;width&quot;:1334,&quot;height&quot;:1000,&quot;size&quot;:190309,&quot;format&quot;:&quot;JPEG&quot;,&quot;exists&quot;:0,&quot;exif&quot;:false,&quot;isCommon&quot;:0,&quot;commonHostId&quot;:0,&quot;commonFileName&quot;:&quot;&quot;,&quot;addTime&quot;:1545458500757}" checkname="updroom[]" name="picture_shineitu[]" class="hideupd">
+      <input type="hidden" value="{&quot;fullPath&quot;:&quot;http://pic1.ajkimg.com/display/anjuke/f5dc113b3dd3a0a2f5ed0215d2dd6dc9/600x600.jpg&quot;,&quot;category&quot;:1,&quot;order&quot;:1,&quot;isCover&quot;:0,&quot;hash&quot;:&quot;f5dc113b3dd3a0a2f5ed0215d2dd6dc9&quot;,&quot;host&quot;:&quot;1&quot;,&quot;sharedPicId&quot;:0,&quot;picId&quot;:0,&quot;operateType&quot;:1,&quot;description&quot;:&quot;&quot;,&quot;width&quot;:1334,&quot;height&quot;:1000,&quot;size&quot;:190309,&quot;format&quot;:&quot;JPEG&quot;,&quot;exists&quot;:0,&quot;exif&quot;:false,&quot;isCommon&quot;:0,&quot;commonHostId&quot;:0,&quot;commonFileName&quot;:&quot;&quot;,&quot;addTime&quot;:1545458500757}" checkname="newupdroom[]" name="[]" class="hidden">
+      <input type="hidden" checkname="roomorder[]" name="roomorder[]" class="roomorder" value="f5dc113b3dd3a0a2f5ed0215d2dd6dc9">
+    </div>
+<div class="uploader-content">
+            <div class="uploader-main" id="room-fileupload-box">
+                <input type="file" id="room_fileupload" name="file" checkname="file" value="上传图片" accept="image/*">
+            </div>
+
+                            <!-- 微信扫码上传 -->
+                <span class="qrwapper" style="display: none;">
+                    <div class="third-upload">
+                        <span>或</span>
+                        <a href="javascript:;" class="ui-button ui-button-small ui-button-blue">开启微信传图</a>
+                        <div class="third-upload-reg" original-title="微信扫描二维码<br>关注后直接上传手机中的图片" style="display:none;">
+                            <img src="" alt="">
+                            <h6>微信快捷传图</h6>
+                        </div>
+                    </div>
+                </span>
+                        <span class="remainText">还剩2张</span>
+        </div>
+    </div>
+</div>
+
+<div class="ui-form" style="z-index: 103;">
+    <label class="ui-form-label ui-label-large"><i class="ness">*</i>上传户型图</label>
+
+            <span class="publish-gray">（图片宽度和高度都不能低于300像素，至少1张，按ctrl键可以多张上传，封面图必选）</span>
+    
+        <input type="hidden" name="model_upload_validate" checkname="model_upload_validate" value="0.8232514925246968" id="model_upload_validate">
+    <span data-msgfor="model_upload_validate" class="ui-tips ui-tips-success-noborder" style="display: inline;"><i class="iconfont"></i></span>
+    </div>
+<div class="upload-pictures">
+    <div id="model-upload-display" class="multi-display-box  clearfix">
+        
+    <div class="upload-box" data-id="ac7aed309badb15487739ecb95869dc5">
+        <img src="http://pic1.ajkimg.com/display/vip/ac7aed309badb15487739ecb95869dc5/420x315c.jpg" width="140" height="105">
+        <div class="upload-box-option">
+            <i class="set-main">设为封面</i>
+            <i class="set-prev" style="display: none;"></i>
+            <i class="set-next" style="display: none;"></i>
+            <i class="set-delete"></i>
+        </div>
+      <input type="hidden" value="{&quot;fullPath&quot;:&quot;http://pic1.ajkimg.com/display/anjuke/ac7aed309badb15487739ecb95869dc5/600x600.jpg&quot;,&quot;category&quot;:2,&quot;order&quot;:1,&quot;isCover&quot;:0,&quot;hash&quot;:&quot;ac7aed309badb15487739ecb95869dc5&quot;,&quot;host&quot;:&quot;1&quot;,&quot;sharedPicId&quot;:0,&quot;picId&quot;:0,&quot;operateType&quot;:1,&quot;description&quot;:&quot;&quot;,&quot;width&quot;:1004,&quot;height&quot;:1581,&quot;size&quot;:125064,&quot;format&quot;:&quot;JPEG&quot;,&quot;exists&quot;:1,&quot;exif&quot;:false,&quot;isCommon&quot;:0,&quot;commonHostId&quot;:0,&quot;commonFileName&quot;:&quot;&quot;,&quot;addTime&quot;:1545458500757}" checkname="updmodel[]" name="picture_huxingtu[]" class="hideupd">
+      <input type="hidden" value="{&quot;fullPath&quot;:&quot;http://pic1.ajkimg.com/display/anjuke/ac7aed309badb15487739ecb95869dc5/600x600.jpg&quot;,&quot;category&quot;:2,&quot;order&quot;:1,&quot;isCover&quot;:0,&quot;hash&quot;:&quot;ac7aed309badb15487739ecb95869dc5&quot;,&quot;host&quot;:&quot;1&quot;,&quot;sharedPicId&quot;:0,&quot;picId&quot;:0,&quot;operateType&quot;:1,&quot;description&quot;:&quot;&quot;,&quot;width&quot;:1004,&quot;height&quot;:1581,&quot;size&quot;:125064,&quot;format&quot;:&quot;JPEG&quot;,&quot;exists&quot;:1,&quot;exif&quot;:false,&quot;isCommon&quot;:0,&quot;commonHostId&quot;:0,&quot;commonFileName&quot;:&quot;&quot;,&quot;addTime&quot;:1545458500757}" checkname="newupdmodel[]" name="[]" class="hidden">
+      <input type="hidden" checkname="modelorder[]" name="modelorder[]" class="modelorder" value="ac7aed309badb15487739ecb95869dc5">
+    </div>
+<div class="uploader-content">
+            <div class="uploader-main" id="model-fileupload-box">
+                <input type="file" id="model-fileupload" checkname="file" name="file" value="上传图片" accept="image/*">
+            </div>
+            <span class="remainText">还剩2张</span>
+        </div>
+    </div>
+</div>
+<div id="model_imagestore" class="imagestore-main"></div>
+
+<div class="ui-form" style="z-index: 102;">
+    <label class="ui-form-label ui-label-large">上传室外图</label>
+            <span class="publish-gray">（图片宽度和高度都不能低于600像素，最多10张，按ctrl键可以多张上传）</span>
+    
+    <input type="hidden" name="outside_upload_validate" checkname="outside_upload_validate" value="0.6085102065671759" id="outside_upload_validate">
+    <span data-msgfor="outside_upload_validate" class="ui-tips outside-ui-tips ui-tips-success-noborder" style="display: inline; visibility: hidden;"><i class="iconfont"></i></span>
+</div>
+<div class="upload-pictures">
+    <div id="outside-upload-display" class="multi-display-box clearfix">
+        
+    <div class="upload-box" data-id="566fb67462125a4ea93560c4033ae558">
+        <img src="http://pic1.ajkimg.com/display/vip/566fb67462125a4ea93560c4033ae558/420x315c.jpg" width="140" height="105">
+        <div class="upload-box-option">
+            <i class="set-prev" style="display: none;"></i>
+            <i class="set-next" style="display: block;"></i>
+            <i class="set-delete"></i>
+        </div>
+      <input type="hidden" value="{&quot;fullPath&quot;:&quot;http://pic1.ajkimg.com/display/anjuke/566fb67462125a4ea93560c4033ae558/600x600.jpg&quot;,&quot;category&quot;:3,&quot;order&quot;:1,&quot;isCover&quot;:0,&quot;hash&quot;:&quot;566fb67462125a4ea93560c4033ae558&quot;,&quot;host&quot;:&quot;1&quot;,&quot;sharedPicId&quot;:0,&quot;picId&quot;:0,&quot;operateType&quot;:1,&quot;description&quot;:&quot;&quot;,&quot;width&quot;:2000,&quot;height&quot;:1125,&quot;size&quot;:349139,&quot;format&quot;:&quot;JPEG&quot;,&quot;exists&quot;:1,&quot;exif&quot;:false,&quot;isCommon&quot;:0,&quot;commonHostId&quot;:0,&quot;commonFileName&quot;:&quot;&quot;,&quot;addTime&quot;:1545458500757}" checkname="updoutside[]" name="picture_shiwaitu[]" class="hideupd">
+      <input type="hidden" value="{&quot;fullPath&quot;:&quot;http://pic1.ajkimg.com/display/anjuke/566fb67462125a4ea93560c4033ae558/600x600.jpg&quot;,&quot;category&quot;:3,&quot;order&quot;:1,&quot;isCover&quot;:0,&quot;hash&quot;:&quot;566fb67462125a4ea93560c4033ae558&quot;,&quot;host&quot;:&quot;1&quot;,&quot;sharedPicId&quot;:0,&quot;picId&quot;:0,&quot;operateType&quot;:1,&quot;description&quot;:&quot;&quot;,&quot;width&quot;:2000,&quot;height&quot;:1125,&quot;size&quot;:349139,&quot;format&quot;:&quot;JPEG&quot;,&quot;exists&quot;:1,&quot;exif&quot;:false,&quot;isCommon&quot;:0,&quot;commonHostId&quot;:0,&quot;commonFileName&quot;:&quot;&quot;,&quot;addTime&quot;:1545458500757}" checkname="newupdoutside[]" name="[]" class="hidden">
+      <input type="hidden" checkname="outsideorder[]" name="outsideorder[]" class="outsideorder" value="566fb67462125a4ea93560c4033ae558">
+    </div>
+
+    <div class="upload-box" data-id="9b955a65e686b5d2fac9de55eee86e18">
+        <img src="http://pic1.ajkimg.com/display/vip/9b955a65e686b5d2fac9de55eee86e18/420x315c.jpg" width="140" height="105">
+        <div class="upload-box-option">
+            <i class="set-prev"></i>
+            <i class="set-next" style="display: block;"></i>
+            <i class="set-delete"></i>
+        </div>
+      <input type="hidden" value="{&quot;fullPath&quot;:&quot;http://pic1.ajkimg.com/display/anjuke/9b955a65e686b5d2fac9de55eee86e18/600x600.jpg&quot;,&quot;category&quot;:3,&quot;order&quot;:1,&quot;isCover&quot;:0,&quot;hash&quot;:&quot;9b955a65e686b5d2fac9de55eee86e18&quot;,&quot;host&quot;:&quot;1&quot;,&quot;sharedPicId&quot;:0,&quot;picId&quot;:0,&quot;operateType&quot;:1,&quot;description&quot;:&quot;&quot;,&quot;width&quot;:1000,&quot;height&quot;:1777,&quot;size&quot;:518590,&quot;format&quot;:&quot;JPEG&quot;,&quot;exists&quot;:1,&quot;exif&quot;:false,&quot;isCommon&quot;:0,&quot;commonHostId&quot;:0,&quot;commonFileName&quot;:&quot;&quot;,&quot;addTime&quot;:1545458500757}" checkname="updoutside[]" name="picture_shiwaitu[]" class="hideupd">
+      <input type="hidden" value="{&quot;fullPath&quot;:&quot;http://pic1.ajkimg.com/display/anjuke/9b955a65e686b5d2fac9de55eee86e18/600x600.jpg&quot;,&quot;category&quot;:3,&quot;order&quot;:1,&quot;isCover&quot;:0,&quot;hash&quot;:&quot;9b955a65e686b5d2fac9de55eee86e18&quot;,&quot;host&quot;:&quot;1&quot;,&quot;sharedPicId&quot;:0,&quot;picId&quot;:0,&quot;operateType&quot;:1,&quot;description&quot;:&quot;&quot;,&quot;width&quot;:1000,&quot;height&quot;:1777,&quot;size&quot;:518590,&quot;format&quot;:&quot;JPEG&quot;,&quot;exists&quot;:1,&quot;exif&quot;:false,&quot;isCommon&quot;:0,&quot;commonHostId&quot;:0,&quot;commonFileName&quot;:&quot;&quot;,&quot;addTime&quot;:1545458500757}" checkname="newupdoutside[]" name="[]" class="hidden">
+      <input type="hidden" checkname="outsideorder[]" name="outsideorder[]" class="outsideorder" value="9b955a65e686b5d2fac9de55eee86e18">
+    </div>
+
+    <div class="upload-box" data-id="c97e0445f9ef421008f56e29109489e9">
+        <img src="http://pic1.ajkimg.com/display/vip/c97e0445f9ef421008f56e29109489e9/420x315c.jpg" width="140" height="105">
+        <div class="upload-box-option">
+            <i class="set-prev"></i>
+            <i class="set-next" style="display: block;"></i>
+            <i class="set-delete"></i>
+        </div>
+      <input type="hidden" value="{&quot;fullPath&quot;:&quot;http://pic1.ajkimg.com/display/anjuke/c97e0445f9ef421008f56e29109489e9/600x600.jpg&quot;,&quot;category&quot;:3,&quot;order&quot;:1,&quot;isCover&quot;:0,&quot;hash&quot;:&quot;c97e0445f9ef421008f56e29109489e9&quot;,&quot;host&quot;:&quot;1&quot;,&quot;sharedPicId&quot;:0,&quot;picId&quot;:0,&quot;operateType&quot;:1,&quot;description&quot;:&quot;&quot;,&quot;width&quot;:1000,&quot;height&quot;:1777,&quot;size&quot;:618267,&quot;format&quot;:&quot;JPEG&quot;,&quot;exists&quot;:1,&quot;exif&quot;:false,&quot;isCommon&quot;:0,&quot;commonHostId&quot;:0,&quot;commonFileName&quot;:&quot;&quot;,&quot;addTime&quot;:1545458500757}" checkname="updoutside[]" name="picture_shiwaitu[]" class="hideupd">
+      <input type="hidden" value="{&quot;fullPath&quot;:&quot;http://pic1.ajkimg.com/display/anjuke/c97e0445f9ef421008f56e29109489e9/600x600.jpg&quot;,&quot;category&quot;:3,&quot;order&quot;:1,&quot;isCover&quot;:0,&quot;hash&quot;:&quot;c97e0445f9ef421008f56e29109489e9&quot;,&quot;host&quot;:&quot;1&quot;,&quot;sharedPicId&quot;:0,&quot;picId&quot;:0,&quot;operateType&quot;:1,&quot;description&quot;:&quot;&quot;,&quot;width&quot;:1000,&quot;height&quot;:1777,&quot;size&quot;:618267,&quot;format&quot;:&quot;JPEG&quot;,&quot;exists&quot;:1,&quot;exif&quot;:false,&quot;isCommon&quot;:0,&quot;commonHostId&quot;:0,&quot;commonFileName&quot;:&quot;&quot;,&quot;addTime&quot;:1545458500757}" checkname="newupdoutside[]" name="[]" class="hidden">
+      <input type="hidden" checkname="outsideorder[]" name="outsideorder[]" class="outsideorder" value="c97e0445f9ef421008f56e29109489e9">
+    </div>
+
+    <div class="upload-box" data-id="1b95f09838adfb77673d69d570e3464d">
+        <img src="http://pic1.ajkimg.com/display/vip/1b95f09838adfb77673d69d570e3464d/420x315c.jpg" width="140" height="105">
+        <div class="upload-box-option">
+            <i class="set-prev"></i>
+            <i class="set-next" style="display: block;"></i>
+            <i class="set-delete"></i>
+        </div>
+      <input type="hidden" value="{&quot;fullPath&quot;:&quot;http://pic1.ajkimg.com/display/anjuke/1b95f09838adfb77673d69d570e3464d/600x600.jpg&quot;,&quot;category&quot;:3,&quot;order&quot;:1,&quot;isCover&quot;:0,&quot;hash&quot;:&quot;1b95f09838adfb77673d69d570e3464d&quot;,&quot;host&quot;:&quot;1&quot;,&quot;sharedPicId&quot;:0,&quot;picId&quot;:0,&quot;operateType&quot;:1,&quot;description&quot;:&quot;&quot;,&quot;width&quot;:1000,&quot;height&quot;:1777,&quot;size&quot;:644321,&quot;format&quot;:&quot;JPEG&quot;,&quot;exists&quot;:1,&quot;exif&quot;:false,&quot;isCommon&quot;:0,&quot;commonHostId&quot;:0,&quot;commonFileName&quot;:&quot;&quot;,&quot;addTime&quot;:1545458500757}" checkname="updoutside[]" name="picture_shiwaitu[]" class="hideupd">
+      <input type="hidden" value="{&quot;fullPath&quot;:&quot;http://pic1.ajkimg.com/display/anjuke/1b95f09838adfb77673d69d570e3464d/600x600.jpg&quot;,&quot;category&quot;:3,&quot;order&quot;:1,&quot;isCover&quot;:0,&quot;hash&quot;:&quot;1b95f09838adfb77673d69d570e3464d&quot;,&quot;host&quot;:&quot;1&quot;,&quot;sharedPicId&quot;:0,&quot;picId&quot;:0,&quot;operateType&quot;:1,&quot;description&quot;:&quot;&quot;,&quot;width&quot;:1000,&quot;height&quot;:1777,&quot;size&quot;:644321,&quot;format&quot;:&quot;JPEG&quot;,&quot;exists&quot;:1,&quot;exif&quot;:false,&quot;isCommon&quot;:0,&quot;commonHostId&quot;:0,&quot;commonFileName&quot;:&quot;&quot;,&quot;addTime&quot;:1545458500757}" checkname="newupdoutside[]" name="[]" class="hidden">
+      <input type="hidden" checkname="outsideorder[]" name="outsideorder[]" class="outsideorder" value="1b95f09838adfb77673d69d570e3464d">
+    </div>
+
+    <div class="upload-box" data-id="0a4d3d881631fd03eaccbdd17ad41194">
+        <img src="http://pic1.ajkimg.com/display/vip/0a4d3d881631fd03eaccbdd17ad41194/420x315c.jpg" width="140" height="105">
+        <div class="upload-box-option">
+            <i class="set-prev"></i>
+            <i class="set-next" style="display: block;"></i>
+            <i class="set-delete"></i>
+        </div>
+      <input type="hidden" value="{&quot;fullPath&quot;:&quot;http://pic1.ajkimg.com/display/anjuke/0a4d3d881631fd03eaccbdd17ad41194/600x600.jpg&quot;,&quot;category&quot;:3,&quot;order&quot;:1,&quot;isCover&quot;:0,&quot;hash&quot;:&quot;0a4d3d881631fd03eaccbdd17ad41194&quot;,&quot;host&quot;:&quot;1&quot;,&quot;sharedPicId&quot;:0,&quot;picId&quot;:0,&quot;operateType&quot;:1,&quot;description&quot;:&quot;&quot;,&quot;width&quot;:1000,&quot;height&quot;:1777,&quot;size&quot;:589202,&quot;format&quot;:&quot;JPEG&quot;,&quot;exists&quot;:1,&quot;exif&quot;:false,&quot;isCommon&quot;:0,&quot;commonHostId&quot;:0,&quot;commonFileName&quot;:&quot;&quot;,&quot;addTime&quot;:1545458500757}" checkname="updoutside[]" name="picture_shiwaitu[]" class="hideupd">
+      <input type="hidden" value="{&quot;fullPath&quot;:&quot;http://pic1.ajkimg.com/display/anjuke/0a4d3d881631fd03eaccbdd17ad41194/600x600.jpg&quot;,&quot;category&quot;:3,&quot;order&quot;:1,&quot;isCover&quot;:0,&quot;hash&quot;:&quot;0a4d3d881631fd03eaccbdd17ad41194&quot;,&quot;host&quot;:&quot;1&quot;,&quot;sharedPicId&quot;:0,&quot;picId&quot;:0,&quot;operateType&quot;:1,&quot;description&quot;:&quot;&quot;,&quot;width&quot;:1000,&quot;height&quot;:1777,&quot;size&quot;:589202,&quot;format&quot;:&quot;JPEG&quot;,&quot;exists&quot;:1,&quot;exif&quot;:false,&quot;isCommon&quot;:0,&quot;commonHostId&quot;:0,&quot;commonFileName&quot;:&quot;&quot;,&quot;addTime&quot;:1545458500757}" checkname="newupdoutside[]" name="[]" class="hidden">
+      <input type="hidden" checkname="outsideorder[]" name="outsideorder[]" class="outsideorder" value="0a4d3d881631fd03eaccbdd17ad41194">
+    </div>
+
+    <div class="upload-box" data-id="bb764df1f52b400d7620540ab3ebb470">
+        <img src="http://pic1.ajkimg.com/display/vip/bb764df1f52b400d7620540ab3ebb470/420x315c.jpg" width="140" height="105">
+        <div class="upload-box-option">
+            <i class="set-prev"></i>
+            <i class="set-next" style="display: block;"></i>
+            <i class="set-delete"></i>
+        </div>
+      <input type="hidden" value="{&quot;fullPath&quot;:&quot;http://pic1.ajkimg.com/display/anjuke/bb764df1f52b400d7620540ab3ebb470/600x600.jpg&quot;,&quot;category&quot;:3,&quot;order&quot;:1,&quot;isCover&quot;:0,&quot;hash&quot;:&quot;bb764df1f52b400d7620540ab3ebb470&quot;,&quot;host&quot;:&quot;1&quot;,&quot;sharedPicId&quot;:0,&quot;picId&quot;:0,&quot;operateType&quot;:1,&quot;description&quot;:&quot;&quot;,&quot;width&quot;:1000,&quot;height&quot;:1777,&quot;size&quot;:494929,&quot;format&quot;:&quot;JPEG&quot;,&quot;exists&quot;:1,&quot;exif&quot;:false,&quot;isCommon&quot;:0,&quot;commonHostId&quot;:0,&quot;commonFileName&quot;:&quot;&quot;,&quot;addTime&quot;:1545458500757}" checkname="updoutside[]" name="picture_shiwaitu[]" class="hideupd">
+      <input type="hidden" value="{&quot;fullPath&quot;:&quot;http://pic1.ajkimg.com/display/anjuke/bb764df1f52b400d7620540ab3ebb470/600x600.jpg&quot;,&quot;category&quot;:3,&quot;order&quot;:1,&quot;isCover&quot;:0,&quot;hash&quot;:&quot;bb764df1f52b400d7620540ab3ebb470&quot;,&quot;host&quot;:&quot;1&quot;,&quot;sharedPicId&quot;:0,&quot;picId&quot;:0,&quot;operateType&quot;:1,&quot;description&quot;:&quot;&quot;,&quot;width&quot;:1000,&quot;height&quot;:1777,&quot;size&quot;:494929,&quot;format&quot;:&quot;JPEG&quot;,&quot;exists&quot;:1,&quot;exif&quot;:false,&quot;isCommon&quot;:0,&quot;commonHostId&quot;:0,&quot;commonFileName&quot;:&quot;&quot;,&quot;addTime&quot;:1545458500757}" checkname="newupdoutside[]" name="[]" class="hidden">
+      <input type="hidden" checkname="outsideorder[]" name="outsideorder[]" class="outsideorder" value="bb764df1f52b400d7620540ab3ebb470">
+    </div>
+
+    <div class="upload-box" data-id="683a0fbef1dffa2834fc4b1818b5d8ae">
+        <img src="http://pic1.ajkimg.com/display/vip/683a0fbef1dffa2834fc4b1818b5d8ae/420x315c.jpg" width="140" height="105">
+        <div class="upload-box-option">
+            <i class="set-prev"></i>
+            <i class="set-next" style="display: block;"></i>
+            <i class="set-delete"></i>
+        </div>
+      <input type="hidden" value="{&quot;fullPath&quot;:&quot;http://pic1.ajkimg.com/display/anjuke/683a0fbef1dffa2834fc4b1818b5d8ae/600x600.jpg&quot;,&quot;category&quot;:3,&quot;order&quot;:1,&quot;isCover&quot;:0,&quot;hash&quot;:&quot;683a0fbef1dffa2834fc4b1818b5d8ae&quot;,&quot;host&quot;:&quot;1&quot;,&quot;sharedPicId&quot;:0,&quot;picId&quot;:0,&quot;operateType&quot;:1,&quot;description&quot;:&quot;&quot;,&quot;width&quot;:1003,&quot;height&quot;:1781,&quot;size&quot;:245926,&quot;format&quot;:&quot;JPEG&quot;,&quot;exists&quot;:1,&quot;exif&quot;:false,&quot;isCommon&quot;:0,&quot;commonHostId&quot;:0,&quot;commonFileName&quot;:&quot;&quot;,&quot;addTime&quot;:1545458500757}" checkname="updoutside[]" name="picture_shiwaitu[]" class="hideupd">
+      <input type="hidden" value="{&quot;fullPath&quot;:&quot;http://pic1.ajkimg.com/display/anjuke/683a0fbef1dffa2834fc4b1818b5d8ae/600x600.jpg&quot;,&quot;category&quot;:3,&quot;order&quot;:1,&quot;isCover&quot;:0,&quot;hash&quot;:&quot;683a0fbef1dffa2834fc4b1818b5d8ae&quot;,&quot;host&quot;:&quot;1&quot;,&quot;sharedPicId&quot;:0,&quot;picId&quot;:0,&quot;operateType&quot;:1,&quot;description&quot;:&quot;&quot;,&quot;width&quot;:1003,&quot;height&quot;:1781,&quot;size&quot;:245926,&quot;format&quot;:&quot;JPEG&quot;,&quot;exists&quot;:1,&quot;exif&quot;:false,&quot;isCommon&quot;:0,&quot;commonHostId&quot;:0,&quot;commonFileName&quot;:&quot;&quot;,&quot;addTime&quot;:1545458500757}" checkname="newupdoutside[]" name="[]" class="hidden">
+      <input type="hidden" checkname="outsideorder[]" name="outsideorder[]" class="outsideorder" value="683a0fbef1dffa2834fc4b1818b5d8ae">
+    </div>
+
+    <div class="upload-box" data-id="a5c278003fc847c154d28a4b5fcec766">
+        <img src="http://pic1.ajkimg.com/display/vip/a5c278003fc847c154d28a4b5fcec766/420x315c.jpg" width="140" height="105">
+        <div class="upload-box-option">
+            <i class="set-prev"></i>
+            <i class="set-next" style="display: block;"></i>
+            <i class="set-delete"></i>
+        </div>
+      <input type="hidden" value="{&quot;fullPath&quot;:&quot;http://pic1.ajkimg.com/display/anjuke/a5c278003fc847c154d28a4b5fcec766/600x600.jpg&quot;,&quot;category&quot;:3,&quot;order&quot;:1,&quot;isCover&quot;:0,&quot;hash&quot;:&quot;a5c278003fc847c154d28a4b5fcec766&quot;,&quot;host&quot;:&quot;1&quot;,&quot;sharedPicId&quot;:0,&quot;picId&quot;:0,&quot;operateType&quot;:1,&quot;description&quot;:&quot;&quot;,&quot;width&quot;:1002,&quot;height&quot;:1780,&quot;size&quot;:289571,&quot;format&quot;:&quot;JPEG&quot;,&quot;exists&quot;:1,&quot;exif&quot;:false,&quot;isCommon&quot;:0,&quot;commonHostId&quot;:0,&quot;commonFileName&quot;:&quot;&quot;,&quot;addTime&quot;:1545458500757}" checkname="updoutside[]" name="picture_shiwaitu[]" class="hideupd">
+      <input type="hidden" value="{&quot;fullPath&quot;:&quot;http://pic1.ajkimg.com/display/anjuke/a5c278003fc847c154d28a4b5fcec766/600x600.jpg&quot;,&quot;category&quot;:3,&quot;order&quot;:1,&quot;isCover&quot;:0,&quot;hash&quot;:&quot;a5c278003fc847c154d28a4b5fcec766&quot;,&quot;host&quot;:&quot;1&quot;,&quot;sharedPicId&quot;:0,&quot;picId&quot;:0,&quot;operateType&quot;:1,&quot;description&quot;:&quot;&quot;,&quot;width&quot;:1002,&quot;height&quot;:1780,&quot;size&quot;:289571,&quot;format&quot;:&quot;JPEG&quot;,&quot;exists&quot;:1,&quot;exif&quot;:false,&quot;isCommon&quot;:0,&quot;commonHostId&quot;:0,&quot;commonFileName&quot;:&quot;&quot;,&quot;addTime&quot;:1545458500757}" checkname="newupdoutside[]" name="[]" class="hidden">
+      <input type="hidden" checkname="outsideorder[]" name="outsideorder[]" class="outsideorder" value="a5c278003fc847c154d28a4b5fcec766">
+    </div>
+
+    <div class="upload-box" data-id="a0054311acdbabfa1bf27fa0a31f2531">
+        <img src="http://pic1.ajkimg.com/display/vip/a0054311acdbabfa1bf27fa0a31f2531/420x315c.jpg" width="140" height="105">
+        <div class="upload-box-option">
+            <i class="set-prev"></i>
+            <i class="set-next" style="display: block;"></i>
+            <i class="set-delete"></i>
+        </div>
+      <input type="hidden" value="{&quot;fullPath&quot;:&quot;http://pic1.ajkimg.com/display/anjuke/a0054311acdbabfa1bf27fa0a31f2531/600x600.jpg&quot;,&quot;category&quot;:3,&quot;order&quot;:1,&quot;isCover&quot;:0,&quot;hash&quot;:&quot;a0054311acdbabfa1bf27fa0a31f2531&quot;,&quot;host&quot;:&quot;1&quot;,&quot;sharedPicId&quot;:0,&quot;picId&quot;:0,&quot;operateType&quot;:1,&quot;description&quot;:&quot;&quot;,&quot;width&quot;:2000,&quot;height&quot;:1125,&quot;size&quot;:326313,&quot;format&quot;:&quot;JPEG&quot;,&quot;exists&quot;:1,&quot;exif&quot;:false,&quot;isCommon&quot;:0,&quot;commonHostId&quot;:0,&quot;commonFileName&quot;:&quot;&quot;,&quot;addTime&quot;:1545458500757}" checkname="updoutside[]" name="picture_shiwaitu[]" class="hideupd">
+      <input type="hidden" value="{&quot;fullPath&quot;:&quot;http://pic1.ajkimg.com/display/anjuke/a0054311acdbabfa1bf27fa0a31f2531/600x600.jpg&quot;,&quot;category&quot;:3,&quot;order&quot;:1,&quot;isCover&quot;:0,&quot;hash&quot;:&quot;a0054311acdbabfa1bf27fa0a31f2531&quot;,&quot;host&quot;:&quot;1&quot;,&quot;sharedPicId&quot;:0,&quot;picId&quot;:0,&quot;operateType&quot;:1,&quot;description&quot;:&quot;&quot;,&quot;width&quot;:2000,&quot;height&quot;:1125,&quot;size&quot;:326313,&quot;format&quot;:&quot;JPEG&quot;,&quot;exists&quot;:1,&quot;exif&quot;:false,&quot;isCommon&quot;:0,&quot;commonHostId&quot;:0,&quot;commonFileName&quot;:&quot;&quot;,&quot;addTime&quot;:1545458500757}" checkname="newupdoutside[]" name="[]" class="hidden">
+      <input type="hidden" checkname="outsideorder[]" name="outsideorder[]" class="outsideorder" value="a0054311acdbabfa1bf27fa0a31f2531">
+    </div>
+
+    <div class="upload-box" data-id="40e06f4a475e5c0ecf300cab887fc63b">
+        <img src="http://pic1.ajkimg.com/display/vip/40e06f4a475e5c0ecf300cab887fc63b/420x315c.jpg" width="140" height="105">
+        <div class="upload-box-option">
+            <i class="set-prev"></i>
+            <i class="set-next" style="display: none;"></i>
+            <i class="set-delete"></i>
+        </div>
+      <input type="hidden" value="{&quot;fullPath&quot;:&quot;http://pic1.ajkimg.com/display/anjuke/40e06f4a475e5c0ecf300cab887fc63b/600x600.jpg&quot;,&quot;category&quot;:3,&quot;order&quot;:1,&quot;isCover&quot;:0,&quot;hash&quot;:&quot;40e06f4a475e5c0ecf300cab887fc63b&quot;,&quot;host&quot;:&quot;1&quot;,&quot;sharedPicId&quot;:0,&quot;picId&quot;:0,&quot;operateType&quot;:1,&quot;description&quot;:&quot;&quot;,&quot;width&quot;:2000,&quot;height&quot;:1125,&quot;size&quot;:277109,&quot;format&quot;:&quot;JPEG&quot;,&quot;exists&quot;:1,&quot;exif&quot;:false,&quot;isCommon&quot;:0,&quot;commonHostId&quot;:0,&quot;commonFileName&quot;:&quot;&quot;,&quot;addTime&quot;:1545458500757}" checkname="updoutside[]" name="picture_shiwaitu[]" class="hideupd">
+      <input type="hidden" value="{&quot;fullPath&quot;:&quot;http://pic1.ajkimg.com/display/anjuke/40e06f4a475e5c0ecf300cab887fc63b/600x600.jpg&quot;,&quot;category&quot;:3,&quot;order&quot;:1,&quot;isCover&quot;:0,&quot;hash&quot;:&quot;40e06f4a475e5c0ecf300cab887fc63b&quot;,&quot;host&quot;:&quot;1&quot;,&quot;sharedPicId&quot;:0,&quot;picId&quot;:0,&quot;operateType&quot;:1,&quot;description&quot;:&quot;&quot;,&quot;width&quot;:2000,&quot;height&quot;:1125,&quot;size&quot;:277109,&quot;format&quot;:&quot;JPEG&quot;,&quot;exists&quot;:1,&quot;exif&quot;:false,&quot;isCommon&quot;:0,&quot;commonHostId&quot;:0,&quot;commonFileName&quot;:&quot;&quot;,&quot;addTime&quot;:1545458500757}" checkname="newupdoutside[]" name="[]" class="hidden">
+      <input type="hidden" checkname="outsideorder[]" name="outsideorder[]" class="outsideorder" value="40e06f4a475e5c0ecf300cab887fc63b">
+    </div>
+<div class="uploader-content">
+            <div class="uploader-main" id="outside-fileupload-box" style="display: none;">
+                <input type="file" id="outside-fileupload" checkname="file" name="file" value="上传图片" accept="image/*">
+            </div>
+            <span class="remainText">还剩0张</span>
+        </div>
+    </div>
+</div>
+<div id="outside_imagestore" class="imagestore-main"></div>
+
+
+<div id="testimg1" style="display:none;"></div>
+<div id="testimg2" style="display:none;"></div>
+<div id="testimg3" style="display:none;"></div>
+
+<script type="text/template" id="loading-box">
+    <div class="upload-box-loading">
+        <img src='//pages.anjukestatic.com/img/myanjuke/myv2/ajax-loading2.gif' width="32" height="32"/>
+    </div>
+</script>
+
+<!-- 室内图 -->
+<script type="text/template" id="room-upload-box">
+    <div class="upload-box" data-id="<%= id %>">
+        <img src="<%= src %>" width="140" height="105"/>
+        <div class="upload-box-option">
+            <i class="set-main">设为封面</i>
+            <i class="set-prev">&#xE032;</i>
+            <i class="set-next">&#xE030;</i>
+            <i class="set-delete">&#xE001;</i>
+        </div>
+      <input type="hidden" value='<%= typeof exif != "string" ? JSON.stringify(exif) : exif %>' checkname="updroom[]" name="picture_shineitu[]" class="hideupd">
+      <input type="hidden" value='<%= typeof exif != "string" ? JSON.stringify(exif) : exif %>' checkname="newupdroom[]" name="[]" class="hidden">
+      <input type="hidden" checkname="roomorder[]" name="roomorder[]" class="roomorder" value="<%= id %>">
+    </div>
+</script>
+<!-- 户型图 -->
+<script type="text/template" id="model-upload-box">
+    <div class="upload-box" data-id="<%= id %>">
+        <img src="<%= src %>" width="140" height="105"/>
+        <div class="upload-box-option">
+            <i class="set-main">设为封面</i>
+            <i class="set-prev">&#xE032;</i>
+            <i class="set-next">&#xE030;</i>
+            <i class="set-delete">&#xE001;</i>
+        </div>
+      <input type="hidden" value='<%= typeof exif != "string" ? JSON.stringify(exif) : exif %>' checkname="updmodel[]" name="picture_huxingtu[]" class="hideupd">
+      <input type="hidden" value='<%= typeof exif != "string" ? JSON.stringify(exif) : exif %>' checkname="newupdmodel[]" name="[]" class="hidden">
+      <input type="hidden" checkname="modelorder[]" name="modelorder[]" class="modelorder" value="<%= id %>">
+    </div>
+</script>
+
+<!-- 室外图 -->
+<script type="text/template" id="outside-upload-box">
+    <div class="upload-box" data-id="<%= id %>">
+        <img src="<%= src %>" width="140" height="105"/>
+        <div class="upload-box-option">
+            <i class="set-prev">&#xE032;</i>
+            <i class="set-next">&#xE030;</i>
+            <i class="set-delete">&#xE001;</i>
+        </div>
+      <input type="hidden" value='<%= typeof exif != "string" ? JSON.stringify(exif) : exif %>' checkname="updoutside[]" name="picture_shiwaitu[]" class="hideupd">
+      <input type="hidden" value='<%= typeof exif != "string" ? JSON.stringify(exif) : exif %>' checkname="newupdoutside[]" name="[]" class="hidden">
+      <input type="hidden" checkname="outsideorder[]" name="outsideorder[]" class="outsideorder" value="<%= id %>">
+    </div>
+</script>
+
+<script type="text/template" id="upload_setting">
+    <div class="publish-chooseweb">
+        <p>请选择上传服务器</p>
+        <div class="ui-form">
+            <% for( var i = 0; i < services.length; i++ ){ %>
+                <input type="radio" checkname="upload_service" name="upload_service" value="<%= services[i].val %>" style="display:none;"/>
+                <label class="ui-radio jp-type"><i></i><%= services[i].name %></label>
+            <% } %>
+        </div>
+        <p>请选择上传类型</p>
+        <div class="ui-form">
+            <% for( var i = 0; i < type.length; i++ ){ %>
+                <input type="radio" checkname="upload_type" name="upload_type" value="<%= type[i].val %>" style="display:none;"/>
+                <label class="ui-radio jp-type"><i></i><%= type[i].name %></label>
+            <% } %>
+        </div>
+        <br>
+        <a class="ui-button ui-button-positive ui-button-medium" href="/user/brokerhome"><%= confirm %></a>
+        <a class="ui-button ui-button-negative ui-button-medium" href="/user/brokerhome"><%= cancel %></a>
+    </div>
+</script>
+
+                <p class="ui-tips ui-tips-warn-hasborder" style="margin:15px 0 10px;"><i class="iconfont"></i>上传房源视频／上传全景图：承诺房源真实可带看！无法带看视为虚假房源，应检时无法提供与房源的合照将下架房源并触发处罚！</p>
+        <p class="video-play-title" id="videoPlayModTitle">上传房源视频：<span>横向拍摄房源视频效果更佳 </span><a target="_blank" href="https://chatcms.anjuke.com/web/view/9163">查看上传规则</a></p>
+                <div class="video-play-mod" id="houseVideoMod" data-st="2">
+            <div id="j_video_play_content" class="video-play-content videoPlayContent ">
+    <!-- 已经上传过视频 -->
+    <div class="video-wrap videoWrap">
+        <a class="handle-btn contractBtn" href="javascript:void(0);" style="display:none;"><i class="iconfont"></i>收起</a>
+        <a class="handle-btn refresh-btn refreshBtn" href="javascript:void(0);" style="display:none;"><i class="iconfont"></i>刷新</a>
+        <span class="video-cover-mask videoCoverMask"></span>
+        <img class="video-cover-img videoCoverImg" src="https://wosmedia1.anjukestatic.com/UcSrQpOnMUW/brokermediacover/12_1076358393670721536.thumb.jpg" alt="已上传视频">
+                        <div class="video-error videoError" style="display:none;">
+            <img class="defaultCoverImg" src="//pages.anjukestatic.com/img/ajkbroker/uploader/video-default.png" alt="网络有问题">
+            <p class="error-tip">视频加载失败</p>
+            <p>请点击“刷新”再次加载</p>
+        </div>
+        <div class="video-player-wrap">
+            <a class="video-play-btn videoPlayBtn" href="javascript:void(0);">播放</a>
+            <video class="videoPlayerNode" controls="" width="100%" height="100%"></video>
+        </div>
+            </div>
+    <div class="video-status-wrap videoStatusWrap">
+        <p class="not-support-wrap notSupportWrap" style="display:none;">
+            <i class="iconfont"></i> 本浏览器不支持房源视频播放功能，请使用chrome、火狐等高版本浏览器
+        </p>
+        <span class="video-name"></span><br>
+        <span class="video-status">
+            <i class="iconfont icon-error"></i>
+                    </span>
+                <div class="video-dlt-wrap"><a class="videoDeleteBtn" href="javascript:void(0);">删除</a></div>
+            </div>
+</div>
+
+<div id="j_video_upload_btn" class="video-upload-btn videoUploadBtn hidden-part">
+        <a id="j_choose_video" class="choose-video" href="javascript:void 0;">
+        <i class="iconfont"></i>
+        <span class="video-upload-btn-doc">选择视频云内视频</span>
+    </a>
+    
+            <a id="j_upload_video" class="" target="_blank" href="/house/mediaUploadV2/newhouseesf/754910394106881">
+            <i class="cross-h"></i>
+        <i class="cross-v"></i>
+        <span class="video-upload-btn-doc">本地上传视频</span>
+    </a>
+
+
+</div>
+
+<div id="j_video_cover_content" class="video-cover-content" style="display: none;">
+    <div class="video-cover-wrap">
+        <img class="video-cover-img videoCoverImg" src="http://pic1.ajkimg.com/display/anjuke/4908dab0f1d4a84435e11bcf41f7a039/420x315.jpg" alt="已上传视频">
+    </div>
+    
+    <div class="video-cover-status-wrap">
+        <p class=""><i class="iconfont icon-error"></i><span class="video-status"></span></p>
+        <div class="video-dlt-wrap"><a class="j-del-chose-video" href="javascript:void(0);" data-houseid="754910394106881">删除</a></div>
+    </div>
+</div>
+
+
+<script id="tpl_choosevideo_dialog" type="text/template">
+    <div class="choosevideo_dialog_body">
+        <ul class="ui-nav ui-nav-line">
+            <li class="j-own-tab <% if(active=='own'){ %>active<% } %>" data-libtype="own"><a href="javascript:void 0;">我的视频</a><i></i></li>
+            <li class="j-store-tab <% if(active=='store'){ %>active<% } %> <% if(isShowMendianTab==0){ %>hidden-part<% } %>" data-libtype="store"><a href="javascript:void 0;">同门店视频</a><i></i></li>
+        </ul>
+        <table class="ui-table cv-table">
+            <thead>
+                <tr>
+                    <td class="col-video-name" width="400">视频名称</td>
+                    <td>剩余上传次数</td>
+                    <td>视频库内剩余天数</td>
+                </tr>
+            </thead>
+            <tbody>
+                <% if(_.isEmpty(videoList)){ %>
+                <tr class="list-empty">
+                    <td colspan="3">
+                        <span class="icon-tip"><i class="iconfont icon-f">&#xEaf0;</i></span><br/>
+                        <span>暂无视频&nbsp;<a href="/broker/ownvideo/" target="_blank">去视频库上传></a></span>
+                    </td>
+                </tr>
+                <% } %>
+                <% _.each(videoList, function(item){ %>
+                <tr data-id="<%= item.id %>">
+                    <td class="col-video-name">
+                        <input type="radio" name="houseVideo" checkname="houseVideo" data-id="<%= item.id %>" data-cover="<%= item.videoThumbnail %>">
+                        <span><%= item.title %></span>
+                    </td>
+                    <td><%= item.remainTimes %></td>
+                    <td><%= item.remainDays %></td>
+                </tr>
+                <% }) %>
+            </tbody>
+        </table>
+        <div class="operation">
+            <a class="ui-button ui-button-medium ui-button-negative j-confirm-choose" href="javascript:void 0;">确认提交</a>
+            <a class="ui-button ui-button-medium ui-button-negative j-cancel-choose" href="javascript:void 0;">取消操作</a>
+        </div>
+    </div>
+</script>
+
+        </div>
+        
+                    <p class="video-play-title" id="quanjingFieldTitle">上传全景图：<span>只有上传成功且审核通过的全景图才可关联到房源上</span> <a target="_blank" href="https://chatcms.anjuke.com/web/view/12157">查看上传规则</a></p>
+            <div class="video-upload-btn videoUploadBtn quan-upload-wrap ">
+    <a id="j_choose_quanjing" href="javascript:void 0;">
+        <i class="cross-h"></i>
+        <i class="cross-v"></i>
+        <span class="video-upload-btn-doc">全景图库传图</span>
+    </a>
+</div>
+
+<div class="video-cover-content quan-cover-content hidden-part">
+    <div class="video-cover-wrap">
+        <div class="quan-icon-wrap">
+            <i class="iconfont icon-720"></i>
+        </div>
+        
+        <img class="video-cover-img quanCoverImg" src="" alt="已上传全景图">
+    </div>
+    
+    <div class="video-cover-status-wrap quan-cover-status-wrap">
+        <p class="quan-status-tip">
+                                            </p>
+
+        
+            </div>
+</div>
+
+<script id="tpl_choosequan_dialog" type="text/template">
+    <div class="choosevideo_dialog_body quanjing-area">
+        <ul class="ui-nav ui-nav-line">
+            <li class="j-own-tab <% if(active=='own'){ %>active<% } %>" data-type="own"><a href="javascript:void 0;">我的全景图</a><i></i></li>
+            <li class="j-store-tab <% if(active=='store'){ %>active<% } %>" data-type="store"><a href="javascript:void 0;">同门店全景图</a><i></i></li>
+            <li class="j-company-tab <% if(active=='company'){ %>active<% } %>" data-type="company"><a href="javascript:void 0;">公司全景图</a><i></i></li>
+        </ul>
+        <div class="pano-table-wrap">
+        <table class="ui-table cv-table">
+            <thead>
+                <tr>
+                    <td class="col-video-name" width="300">全景图名称</td>
+                    <td width="150">户型</td>
+                    <td>上传时间</td>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+        </div>
+    
+        <div id="pager" class="pagination"></div>
+        <div class="operation">
+            <a class="ui-button ui-button-medium ui-button-negative j-confirm-choose" href="javascript:void 0;">确认提交</a>
+            <a class="ui-button ui-button-medium ui-button-negative j-cancel-choose" href="javascript:void 0;">取消操作</a>
+        </div>
+        <p class="warm-tip">同一全景图在同一账号下，仅能关联一套房源；如需绑定房源，请先解绑已关联的房源</p>
+    </div>
+</script>
+
+<script id="tpl_preview_iframe_dialog" type="text/template">
+    <iframe class="quanjing_iframe" src="<%=src%>" frameborder="0"></iframe>
+</script>
+
+<!-- 全景图内容模板 -->
+<script id="tpl_quan_tbody" type="text/template">
+    <% if(_.isEmpty(quanList)){ %>
+    <tr class="list-empty">
+        <td colspan="3">
+            <span style="color:#ccc;">
+                <i class="iconfont">&#xeaf0;</i><br>
+                <span>暂无全景图，请使用移动APP拍摄后上传</span>
+            </span>
+        </td>
+    </tr>
+    <% } %>
+    <% _.each(quanList, function(item){ %>
+    
+    <tr data-id="<%= item.id %>">
+        <td class="col-video-name">
+            <input type="radio" name="houseQuanJing" data-id="<%= item.panoId %>">
+            <div class="qj-detail">
+                <span><em class="name-wrap"><%= item.title %></em></span>
+                <% if(item.threedStatus == 1){ %>
+                <i class="icon3d">3D</i>
+                <% } %>
+                <span class="qj-id">全景图ID：<%= item.panoId %></span>
+            </div>
+        </td>
+        <td><%= item.house_type %></td>
+        <td><%= item.createTime %></td>
+    </tr>
+    <% }) %>
+</script>
+
+
+        <!-- 58看房时间 -->
+        <div class="ui-form labels-common check-in-time" id="check-in-time" style="z-index: 101;">
+            <label class="ui-form-label ui-label-large">58看房时间：</label>
+            <span class="labels">
+                                                        <label class="ui-label ui-label-adding-unable ui-label-adding">
+                        <i class="icon-add">+</i>
+                        <span>添加可看房时间</span>
+                        <input type="checkbox" name="params_104[]" autocomplete="off">
+                        <i class="icon-del iconfont"></i>
+                    </label>
+                                        <label class="ui-label ui-label-adding-unable ui-label-adding">
+                        <i class="icon-add">+</i>
+                        <span>添加可看房时间</span>
+                        <input type="checkbox" name="params_104[]" autocomplete="off">
+                        <i class="icon-del iconfont"></i>
+                    </label>
+                                        <label class="ui-label ui-label-adding-unable ui-label-adding">
+                        <i class="icon-add">+</i>
+                        <span>添加可看房时间</span>
+                        <input type="checkbox" name="params_104[]" autocomplete="off">
+                        <i class="icon-del iconfont"></i>
+                    </label>
+                                                </span>
+            <div class="check-in-time-content">
+                <div id="select-checkin-startweek" class="ui-select week" style="z-index: 1;">
+                    <select style="display:none">
+                                                    <option value="1">周一</option>
+                                                    <option value="2">周二</option>
+                                                    <option value="3">周三</option>
+                                                    <option value="4">周四</option>
+                                                    <option value="5">周五</option>
+                                                    <option value="6">周六</option>
+                                                    <option value="7">周日</option>
+                                            </select>
+                <div class="ui-select-box"><div class="ui-select-label"><span data-val="1" data-title="周一">周一</span><i class="ui-select-icon ui-select-icondown"></i></div><ul style="display: none;"><li data-val="1" class="li-static">周一</li><li data-val="2">周二</li><li data-val="3">周三</li><li data-val="4">周四</li><li data-val="5">周五</li><li data-val="6">周六</li><li data-val="7">周日</li></ul></div></div>
+                <span>~</span>
+                <div id="select-checkin-endweek" class="ui-select week" style="z-index: 1;">
+                    <select style="display:none">
+                                                    <option value="1">周一</option>
+                                                    <option value="2">周二</option>
+                                                    <option value="3">周三</option>
+                                                    <option value="4">周四</option>
+                                                    <option value="5">周五</option>
+                                                    <option value="6">周六</option>
+                                                    <option value="7">周日</option>
+                                            </select>
+                <div class="ui-select-box"><div class="ui-select-label"><span data-val="7" data-title="周一">周日</span><i class="ui-select-icon ui-select-icondown"></i></div><ul style="display: none;"><li data-val="1" class="">周一</li><li data-val="2">周二</li><li data-val="3">周三</li><li data-val="4">周四</li><li data-val="5">周五</li><li data-val="6">周六</li><li data-val="7" class="li-static">周日</li></ul></div></div>
+                <div id="select-checkin-starttime" class="ui-select time" style="margin-left: 40px; z-index: 1;">
+                    <select style="display:none">
+                                                                                <option value="08:00">08:00</option>
+                                                                                                            <option value="08:30">08:30</option>
+                                                                                                            <option value="09:00">09:00</option>
+                                                                                                            <option value="09:30">09:30</option>
+                                                                                                            <option value="10:00">10:00</option>
+                                                                                                            <option value="10:30">10:30</option>
+                                                                                                            <option value="11:00">11:00</option>
+                                                                                                            <option value="11:30">11:30</option>
+                                                                                                            <option value="12:00">12:00</option>
+                                                                                                            <option value="12:30">12:30</option>
+                                                                                                            <option value="13:00">13:00</option>
+                                                                                                            <option value="13:30">13:30</option>
+                                                                                                            <option value="14:00">14:00</option>
+                                                                                                            <option value="14:30">14:30</option>
+                                                                                                            <option value="15:00">15:00</option>
+                                                                                                            <option value="15:30">15:30</option>
+                                                                                                            <option value="16:00">16:00</option>
+                                                                                                            <option value="16:30">16:30</option>
+                                                                                                            <option value="17:00">17:00</option>
+                                                                                                            <option value="17:30">17:30</option>
+                                                                                                            <option value="18:00">18:00</option>
+                                                                                                            <option value="18:30">18:30</option>
+                                                                                                            <option value="19:00">19:00</option>
+                                                                                                            <option value="19:30">19:30</option>
+                                                                                                            <option value="20:00">20:00</option>
+                                                                                                            <option value="20:30">20:30</option>
+                                                                                                            <option value="21:00">21:00</option>
+                                                                                                                            </select>
+                    <i class="iconfont icon-time"></i>
+                <div class="ui-select-box"><div class="ui-select-label"><span data-val="08:00" data-title="08:00">08:00</span><i class="ui-select-icon ui-select-icondown"></i></div><ul style="display: none;"><li data-val="08:00" class="li-static">08:00</li><li data-val="08:30">08:30</li><li data-val="09:00">09:00</li><li data-val="09:30">09:30</li><li data-val="10:00">10:00</li><li data-val="10:30">10:30</li><li data-val="11:00">11:00</li><li data-val="11:30">11:30</li><li data-val="12:00">12:00</li><li data-val="12:30">12:30</li><li data-val="13:00">13:00</li><li data-val="13:30">13:30</li><li data-val="14:00">14:00</li><li data-val="14:30">14:30</li><li data-val="15:00">15:00</li><li data-val="15:30">15:30</li><li data-val="16:00">16:00</li><li data-val="16:30">16:30</li><li data-val="17:00">17:00</li><li data-val="17:30">17:30</li><li data-val="18:00">18:00</li><li data-val="18:30">18:30</li><li data-val="19:00">19:00</li><li data-val="19:30">19:30</li><li data-val="20:00">20:00</li><li data-val="20:30">20:30</li><li data-val="21:00">21:00</li></ul></div></div>
+                <span>~</span>
+                <div id="select-checkin-endtime" class="ui-select time" style="z-index: 1;">
+                    <select style="display:none">
+                                                                                                                                    <option value="08:30">08:30</option>
+                                                                                                            <option value="09:00">09:00</option>
+                                                                                                            <option value="09:30">09:30</option>
+                                                                                                            <option value="10:00">10:00</option>
+                                                                                                            <option value="10:30">10:30</option>
+                                                                                                            <option value="11:00">11:00</option>
+                                                                                                            <option value="11:30">11:30</option>
+                                                                                                            <option value="12:00">12:00</option>
+                                                                                                            <option value="12:30">12:30</option>
+                                                                                                            <option value="13:00">13:00</option>
+                                                                                                            <option value="13:30">13:30</option>
+                                                                                                            <option value="14:00">14:00</option>
+                                                                                                            <option value="14:30">14:30</option>
+                                                                                                            <option value="15:00">15:00</option>
+                                                                                                            <option value="15:30">15:30</option>
+                                                                                                            <option value="16:00">16:00</option>
+                                                                                                            <option value="16:30">16:30</option>
+                                                                                                            <option value="17:00">17:00</option>
+                                                                                                            <option value="17:30">17:30</option>
+                                                                                                            <option value="18:00">18:00</option>
+                                                                                                            <option value="18:30">18:30</option>
+                                                                                                            <option value="19:00">19:00</option>
+                                                                                                            <option value="19:30">19:30</option>
+                                                                                                            <option value="20:00">20:00</option>
+                                                                                                            <option value="20:30">20:30</option>
+                                                                                                            <option value="21:00">21:00</option>
+                                                                                                            <option value="21:30">21:30</option>
+                                                                        </select>
+                    <i class="iconfont icon-time"></i>
+                <div class="ui-select-box"><div class="ui-select-label"><span data-val="21:30" data-title="08:30">21:30</span><i class="ui-select-icon ui-select-icondown"></i></div><ul style="display: none;"><li data-val="08:30" class="">08:30</li><li data-val="09:00">09:00</li><li data-val="09:30">09:30</li><li data-val="10:00">10:00</li><li data-val="10:30">10:30</li><li data-val="11:00">11:00</li><li data-val="11:30">11:30</li><li data-val="12:00">12:00</li><li data-val="12:30">12:30</li><li data-val="13:00">13:00</li><li data-val="13:30">13:30</li><li data-val="14:00">14:00</li><li data-val="14:30">14:30</li><li data-val="15:00">15:00</li><li data-val="15:30">15:30</li><li data-val="16:00">16:00</li><li data-val="16:30">16:30</li><li data-val="17:00">17:00</li><li data-val="17:30">17:30</li><li data-val="18:00">18:00</li><li data-val="18:30">18:30</li><li data-val="19:00">19:00</li><li data-val="19:30">19:30</li><li data-val="20:00">20:00</li><li data-val="20:30">20:30</li><li data-val="21:00">21:00</li><li data-val="21:30" class="li-static">21:30</li></ul></div></div>
+                <a href="javascript:;" class="ui-button ui-button-small add-checkin-time  ui-button-blue" style="margin-left: 10px; margin-right: 0;">添加</a>
+            </div>
+        </div>
+
+        <!-- 安选承诺勾选项 -->
+        <div class="security">
+            <input type="checkbox" id="checkbox-security">
+            承诺房源信息真实，已和房东确认可预约带看；且同意符合质量要求的房源将自动成为安选房源。
+        </div>
+        <input type="hidden" name="params_344" value="" id="securityValue">
+        <div class="submit-wrap">
+            <input id="publish-ershou-edit" type="submit" class="ui-button ui-button-positive ui-button-large" value="保存房源">
+        </div>
+
+    <input type="hidden" name="d975e599924b923447f3498dad3cd0fa" value="6ca42245f21d8e3fe215e88844d0f309"></form>
+</div>
+<script type="text/template" id="AutoTemp">
+    <ul class="auto-ul">
+        <% _.each(obj,function(item){ %>
+            <li>
+                <span><%= item.name %></span>
+                <% if( _.isString(item.nickname) && item.nickname.length > 0 ){ %>
+                    <em>(别名：<%= item.nickname %>)</em>
+                <% }else{ %>
+                    <em><%= item.address %></em>
+                <% } %>
+            </li>
+        <%});%>
+    <ul>
+</script>
+
+<script type="text/template" id="checkInDate-item">
+    <label class="ui-label ui-label-adding-unable ui-label-adding">
+        <i class="icon-add">+</i>
+        <span>添加可看房时间</span>
+        <input type="checkbox" name="params_104[]" autocomplete="off">
+        <i class="icon-del iconfont">&#xE001;</i>
+    </label>
+</script>
+
+<script type="text/template" id="chooseWebTemp">
+    <div class="publish-chooseweb">
+        <p>请选择发布平台</p>
+        <form action="" method="GET">
+            <div class="web-checkbox">
+                <input class="ui-checkbox" type="checkbox" name="chooseWeb[]" value="2" <%= wuba ? '' :
+                'disabled="true"' %> />
+                <span <%= wuba ? '' : 'class="publish-gray"' %>>58同城<%= wuba ? '' : '（暂未开通）' %></span>
+                <input class="ui-checkbox" type="checkbox" name="chooseWeb[]" value="1" <%= ajk ? '' : 'disabled="true"'
+                %> />
+                <span <%= ajk ? '' : 'class="publish-gray"' %>>安居客<%= ajk ? '' : '（暂未开通）' %></span>
+                <input class="ui-checkbox" type="checkbox" name="chooseWeb[]" value="3" <%= gj ? '' : 'disabled="true"'
+                %> />
+                <span <%= gj ? '' : 'class="publish-gray"' %>>赶集<%= gj ? '' : '（暂未开通）' %></span>
+            </div>
+            <input class="ui-button ui-button-positive ui-button-medium" type="submit" value="确定操作"/>
+            <a class="ui-button ui-button-negative ui-button-medium" href="/user/brokerhome">返回首页</a>
+        </form>
+        <div>
+</script>
+
+<script type="text/template" id="commissionTemp">
+    <ul class="auto-ul">
+        <% _.each(obj,function(item){ %>
+            <li>
+                <span value="<%= item %>"><%= item %></span>
+            </li>
+        <%});%>
+    <ul>
+</script>
+
+</div>
+<div class="ui-footer">
+            <p class="ui-footer-link">
+            <a href="//kfzx.anjuke.com/faqList/faqList?faqTypeId=8">关于我们</a>|
+            <a href="//kfzx.anjuke.com/faqDetail/queryDetail?faqId=95&amp;faqTypeId=11">联系我们</a>|
+            <a href="//kfzx.anjuke.com/faqDetail/queryDetail?faqId=155&amp;faqTypeId=10">用户协议</a>|
+            <a href="/intel_contact/main" target="_blank">使用帮助</a>|
+            <a href="https://anjuke.com/sitemap/">网站地图</a>|
+            <a href="https://anjuke.com/fang/">最新房源</a>|
+            <a href="https://anjuke.com/wenti/">最新问答</a>|
+            <a target="_blank" href="https://vip.anjuke.com/ip?checkitfrom5988d5a541f0cfbd8ec613791">查看IP</a>|
+            <a id="error_report" href="javascript:;">异常反馈</a>
+        </p>
+        <p><a href="/intel_contact/main" target="_blank">帮助中心</a>     邮箱：<a href="mailTo:service@58ganji.com;">service@58ganji.com</a>     虚假信息举报：400-620-9008</p>
+    <p>Copyright © 2007-2017 www.anjuke.com All Rights Reserved ICP号：沪 B2-20090008</p>
+</div>
+<script>
+(function(){
+    document.getElementById('error_report').onclick = function(e){
+        window.reportError(function(){
+            alert('已经收到您的反馈，谢谢配合！');
+        });
+        return false;
+    }
+})();
+</script>
+
+<script type="text/javascript" src="//pages.anjukestatic.com/brokerUI/broker-ui-2.0.1.js"></script>
+<script type="text/javascript" src="//pages.anjukestatic.com/js/messenger/messenger-1.0.js"></script>
+<script type="text/javascript" src="//pages.anjukestatic.com/js/uploadify-3.1/ajaxfileupload.js"></script>
+<script type="text/javascript" src="//pages.anjukestatic.com/swf/uploadify-2.1.0/swfobject.js"></script>
+<script type="text/javascript" src="//pages.anjukestatic.com/js/jquery-1.3.2/jquery.uploadify.v2.1.0.min.fv9.js"></script>
+<script type="text/javascript" src="//pages.anjukestatic.com/js/jquery.pagination1.3.1.min.js"></script>
+<script type="text/javascript" src="https://include.anjukestatic.com/broker-vip/res/20185257/b/House_EditErshouV2.js"></script>
+<script type="text/javascript">
+
+    ;(function($){
+        var BuildingInput = function(){
+            var self = this;
+
+            self.isEdit = "";
+            self.paramsLockParams_82 = "0";
+            self.paramsLockParams_83 = "0";
+            self.$container = $("#buildinginput_a");
+
+            self.buildingTypeSelect = new ajk.Select({
+                boxId   : "select-buildingtype-1546576938"
+            });
+
+            self.unitTypeSelect = new ajk.Select({
+                boxId   : "select-unittype-1546576938"
+            });
+
+            self.init();
+        };
+
+        BuildingInput.prototype.init = function() {
+            if (!!this.isEdit) {
+                if (this.paramsLockParams_82 == 1) {
+                    this.buildingTypeSelect.valid(false);
+                }
+                if (this.paramsLockParams_83 == 1) {
+                    this.unitTypeSelect.valid(false);
+                }
+            }
+        }
+
+        BuildingInput.prototype.reset = function(data){
+            this.reinit()
+            if(data.buildingValue)      this.$container.find(".building-input").val(data.buildingValue);
+            if(data.unitValue)          this.$container.find(".unit-input").val(data.unitValue);
+            if(data.houseNumberValue)   this.$container.find(".unit-input").val(data.houseNumberValue);
+            if(data.buildingType)       this.buildingTypeSelect.val(data.buildingType);
+            if(data.unitType)           this.unitTypeSelect.val(data.unitType);
+        }
+
+        BuildingInput.prototype.reinit = function(){
+            this.$container.find(".ui-form-input").val("");
+            this.buildingTypeSelect.press(0);
+            this.unitTypeSelect.press(0);
+        }
+
+        BuildingInput.prototype.setBuildingType = function(type){
+            this.buildingTypeSelect.val(type);
+        }
+
+        BuildingInput.prototype.setBuildingType = function(type){
+            this.unitTypeSelect.val(type);
+        }
+
+        if(window.ajk == undefined){
+            window.ajk = {};
+        }
+        window.ajk.BuildingInput = BuildingInput;
+    })(jQuery);
+
+    $(function(){
+        var names = 'params_19,params_20,params_21'.split(',');
+        window._validate.on('error',function(errorObj){
+            var _name = _.isString(errorObj.dom)? errorObj.dom:errorObj.dom.attr('name');
+            if( _.indexOf(names,_name) > -1 ){
+                $('#buildinginput_a .ui-comment').hide();
+            }
+        });
+    });
+
+
+window.areaParamsLock_building = "";
+window.params_19Lock_building = "";
+window.params_20Lock_building = "";
+window.params_21Lock_building = "";
+
+$(function(){
+    if( !window._validate ){
+        return;
+    }
+            ajk.BuildingDictionary._uncheckedMessage = '<%= showword %>&nbsp;<a href="/community/feedback/errorrecoveryv2?platform=&uid=<%= id %>#roomnumber_info" target="_blank">我来创建</a>';
+    
+    var names = 'ps_params_19,ps_params_20,ps_params_21,ps_params_19,ps_params_20,ps_params_21,ps_params_82,ps_params_83,params_94'.split(',');
+    window._validate.on('error',function(errorObj){
+        var _name = _.isString(errorObj.dom)? errorObj.dom:errorObj.dom.attr('checkname');
+        if( _.indexOf(names,_name) > -1 ) {
+            $('#buildingdictionary_a .ui-comment').hide();
+            $('.room-number').append(_.template(ajk.BuildingDictionary._uncheckedMessage)({ id: window.newCreateCommunitId, showword: ''}));
+        }
+    });
+});
+
+    ;$(function(){
+        var flame = new ajk.MultiDesc({
+            tplUrl: '/ajax/house/templatenew/?action=list',   // 请求当前用户可用模板url
+            tplContentUrl: '/ajax/house/templatenew/?action=get&id='   // 请求具体某个模板的内容url
+        })
+    });
+
+;$(function(){
+    var __MAXLENGTH__ = 3;
+
+    var label = new ajk.LabelGroup($("#labels_label_standard"),$("#standard_store"), [{"id":18556278,"tagId":18556278,"tagName":"\u73af\u5883\u4f18\u7f8e"},{"id":6,"tagId":6,"tagName":"\u5357\u5317\u901a\u900f"}] ,{
+        ajaxUrl : '/ajax/private_tag/add/',
+	    labelLen: 4,
+        maxLength: __MAXLENGTH__
+    });
+
+    label.labelToSub.on('add',function(target,list){
+	if(target == 'label_len_error') {
+          $('#standard-label-warn span').text('标签长度为2到4个字之间');
+          $('#standard-label-warn').show();
+          return false;
+	}
+        if( _.find(list, function(item){return item.value == target.value}) ){
+          $('#standard-label-warn span').text('不能添加重复的房源标签');
+          $('#standard-label-warn').show();
+          return false;
+        }else if(list.length >= __MAXLENGTH__ ){
+          $('#standard-label-warn span').text("最多可添加"+ __MAXLENGTH__ +"个房源标签");
+          $('#standard-label-warn').show();
+          return false;
+        }else{
+          $('#standard-label-warn').hide();
+        }
+    });
+
+
+});
+
+    $(function() {
+
+        var isQrUploadCity = '1'; //是否开启app扫码传图，一旦开启，图片最大限制等会收到影响，所以放在一开始做判断
+
+        $(function(){
+                    });
+
+        var loadingTmpl = _.template($('#loading-box').html());
+
+        $('.uploader-main input').on('click',function(e){
+            e.stopPropagation();
+        });
+
+        window.picSource = new ajk.PicSource({
+                        dataSource: function(data, callback){
+                $.ajax({
+                    url: '',
+                    type: 'GET',
+                    dataType: 'json',
+                    data: data
+                })
+                .done(function(res) {
+                    if( res.status == 'ok' ){
+                        callback(res.data);
+                    }
+                })
+            }
+        });
+
+        
+        // 图片上传通用配置
+        var isUploadNewRule = true; // 是否采取新的上传限制
+        var imgUploadOps = {
+            isUploadNewRule: isUploadNewRule,
+            cityId: '12',
+            auto:true,
+            multi:true,
+            minwidth: 300,
+            minheight: 300,
+            maxLength:'10',
+            swfUrl: "//pages.anjukestatic.com/swf/uploadify-2.1.0/uploadify-ajk-v1.0.2.swf?c=12",
+            uploader:'https://upd1.ajkimg.com/upload-anjuke',
+            target:'#room_fileupload', // 需被覆盖
+            buttonImg:'//pages.anjukestatic.com/img/ajkbroker/uploader/uploadbg.png',
+            buttonText:'just a buttonText',
+            queueID:'testimg1',
+            redirect:'https://vip.anjuke.com/ajkbroker/ajax/pic/uploadcallback/',
+            isQrUploadCity : isQrUploadCity //是否开启app扫码上传,编辑页有个补丁函数需要做判断
+        };
+
+        // 如果采取新的上传限制的话：添加限制参数
+        if (isUploadNewRule) {
+            imgUploadOps = $.extend(imgUploadOps, {
+                minwidth: 600,
+                minheight: 600,
+                compressLimitWidth: 1600,
+                compressLimitHeight: 1600            });
+        }
+
+        if(isQrUploadCity == '1'){ //当开启了app扫码上传，限制放开为20张，但实际还是10，3，10
+            var roomLength = 20,
+                modelLength = 20,
+                outsideLength = 20;
+        }else{
+            var roomLength = '10',
+                modelLength = 3,
+                outsideLength = 10;
+        }
+
+        // 室内图上传
+        var roomTmpl = _.template($('#room-upload-box').html());
+        var imgUploadOps_room = {
+            target: '#room_fileupload',
+            maxLength:roomLength,
+            _maxLength: '10'
+        };
+        var roomUpload = new ajk.ImageUpload($.extend(imgUploadOps, imgUploadOps_room));
+        roomUpload.on('flash-model', roomUpload.handleFlashError)
+        roomUpload.on('js-model', function(){
+            picSetting.setting({
+                type: 0   // 这里type其实是picSetting中type数组的下标
+            })
+            $('#flashunuse span').html('')
+            $('#flashunuse').hide()
+        })
+
+        window.roomMulti = new ajk.MultiUpload({
+            copyRightRepeat:true,
+            uploader: roomUpload,
+            boxTemplate: roomTmpl,
+            loadingTemplate : loadingTmpl,
+            wrap : $('#room-upload-display'),
+            maxCount : roomLength,
+            mainInput: $('#defaultImgID'),
+            validateInput : $('#room_upload_validate'),
+            isQrUploadCity : isQrUploadCity //是否开启app扫码上传
+        });
+        // 室内图上传 --end
+
+    /* 户型图上传 */
+        var modelTmpl = _.template($('#model-upload-box').html());
+        var imgUploadOps_modle = {
+            maxLength:modelLength,
+            minwidth: 300,
+            minheight: 300,
+            target:'#model-fileupload',
+            queueID:'testimg2'
+        };
+        var modelUpload = new ajk.ImageUpload($.extend({}, imgUploadOps, imgUploadOps_modle));
+        window.modelMulti = new ajk.MultiUpload({
+            copyRightRepeat:true,
+            uploader: modelUpload,
+            boxTemplate: modelTmpl,
+            loadingTemplate : loadingTmpl,
+            wrap : $('#model-upload-display'),
+            maxCount : modelLength,
+            mainInput: $('#defaultImgID'),
+            hasImageStore : true,
+            imageStoreWrap: $('#model_imagestore'),
+            validateInput : $('#model_upload_validate'),
+            isQrUploadCity : isQrUploadCity //是否开启app扫码上传
+        });
+        window.modelPiclib = new ajk.picLib({
+            imgStore: window.modelMulti
+        });
+        if( picSource ){
+            picSource.on('fetch',function(da,req,arg,isInit){
+                if(!isInit){
+                    modelMulti.clear();
+                }
+                if( da && da.MODELPIC ){
+                    modelPiclib.upDate(da.MODELPIC);
+                }else{
+                    modelPiclib.upDate(da);
+                }
+            });
+        }
+    /* 户型图上传 --end */
+
+    /* 室外图上传 */
+                    var outsideTmpl = _.template($('#outside-upload-box').html());
+            var imgUploadOps_outside = {
+                maxLength: outsideLength,
+                target:'#outside-fileupload',
+                queueID:'testimg3'
+            };
+            var outsideUpload = new ajk.ImageUpload($.extend({}, imgUploadOps, imgUploadOps_outside));
+            window.outsideMulti = new ajk.MultiUpload({
+                copyRightRepeat:true,
+                uploader: outsideUpload,
+                boxTemplate: outsideTmpl,
+                loadingTemplate : loadingTmpl,
+                wrap : $('#outside-upload-display'),
+                maxCount : outsideLength,
+                mainInput: $('#defaultImgID'),
+                hasImageStore : true,
+                imageStoreWrap: $('#outside_imagestore'),
+                validateInput : $('#outside_upload_validate'),
+                isQrUploadCity : isQrUploadCity //是否开启app扫码上传
+            });
+            window.outsidePiclib = new ajk.picLib({
+                imgStore: window.outsideMulti
+            });
+            if( picSource ){
+                picSource.on('fetch',function(da,req,arg,isInit){
+                    if(!isInit){
+                        modelMulti.clear();
+                    }
+                    if( da && da.COMMPIC ){
+                        outsidePiclib.upDate(da.COMMPIC);
+                    }else{
+                        outsidePiclib.upDate(da);
+                    }
+                });
+            }
+            /* 室外图上传 --end */
+
+        var picSetting = new ajk.PicSetting([
+            { 'name':'服务器一', val:'https://upd1.ajkimg.com/upload-anjuke' },
+            { 'name':'服务器二', val:'https://upd2.anjuke.com/upload-anjuke' }
+        ],[
+            { 'name':'单张上传', val:1 },
+            { 'name':'多张上传', val:0 }
+        ]);
+        $('#open_upload_setting').on('click',function(e){
+            e.preventDefault();
+            picSetting.open();
+        });
+
+        picSetting.on('set',function(service,type,setting){
+            if( typeof roomUpload == 'object' ){
+                roomUpload.switchModle(type.val);
+                roomUpload.switchServer(service.val);
+            }
+            if( typeof modelUpload == 'object' ){
+                modelUpload.switchModle(type.val);
+                modelUpload.switchServer(service.val);
+            }
+            if( typeof outsideUpload == 'object' ){
+                outsideUpload.switchModle(type.val);
+                outsideUpload.switchServer(service.val);
+            }
+        });
+
+        // 编辑页数据代入
+        var roomImages = '[{"src":"http://pic1.ajkimg.com/display/vip/d19fbbff1ca377edbe6f194469a96d09/420x315c.jpg","id":"d19fbbff1ca377edbe6f194469a96d09","isCover":1,"exif":{"fullPath":"http://pic1.ajkimg.com/display/anjuke/d19fbbff1ca377edbe6f194469a96d09/600x600.jpg","category":1,"order":1,"isCover":1,"hash":"d19fbbff1ca377edbe6f194469a96d09","host":"1","sharedPicId":0,"picId":0,"operateType":1,"description":"","width":1334,"height":1000,"size":248517,"format":"JPEG","exists":0,"exif":false,"isCommon":0,"commonHostId":0,"commonFileName":"","addTime":1545458500757}},{"src":"http://pic1.ajkimg.com/display/vip/063dc0855ea8d4fcb518ccf5d24615f7/420x315c.jpg","id":"063dc0855ea8d4fcb518ccf5d24615f7","isCover":0,"exif":{"fullPath":"http://pic1.ajkimg.com/display/anjuke/063dc0855ea8d4fcb518ccf5d24615f7/600x600.jpg","category":1,"order":1,"isCover":0,"hash":"063dc0855ea8d4fcb518ccf5d24615f7","host":"1","sharedPicId":0,"picId":0,"operateType":1,"description":"","width":1334,"height":1000,"size":215408,"format":"JPEG","exists":0,"exif":false,"isCommon":0,"commonHostId":0,"commonFileName":"","addTime":1545458500757}},{"src":"http://pic1.ajkimg.com/display/vip/946869658c1ed759896829095c507f71/420x315c.jpg","id":"946869658c1ed759896829095c507f71","isCover":0,"exif":{"fullPath":"http://pic1.ajkimg.com/display/anjuke/946869658c1ed759896829095c507f71/600x600.jpg","category":1,"order":1,"isCover":0,"hash":"946869658c1ed759896829095c507f71","host":"1","sharedPicId":0,"picId":0,"operateType":1,"description":"","width":1334,"height":1000,"size":259515,"format":"JPEG","exists":0,"exif":false,"isCommon":0,"commonHostId":0,"commonFileName":"","addTime":1545458500757}},{"src":"http://pic1.ajkimg.com/display/vip/6f148f310206ebaa0d8a22b2adf00796/420x315c.jpg","id":"6f148f310206ebaa0d8a22b2adf00796","isCover":0,"exif":{"fullPath":"http://pic1.ajkimg.com/display/anjuke/6f148f310206ebaa0d8a22b2adf00796/600x600.jpg","category":1,"order":1,"isCover":0,"hash":"6f148f310206ebaa0d8a22b2adf00796","host":"1","sharedPicId":0,"picId":0,"operateType":1,"description":"","width":1334,"height":1000,"size":271924,"format":"JPEG","exists":0,"exif":false,"isCommon":0,"commonHostId":0,"commonFileName":"","addTime":1545458500757}},{"src":"http://pic1.ajkimg.com/display/vip/e7dde300ac49b4c3435589d9ebcfd102/420x315c.jpg","id":"e7dde300ac49b4c3435589d9ebcfd102","isCover":0,"exif":{"fullPath":"http://pic1.ajkimg.com/display/anjuke/e7dde300ac49b4c3435589d9ebcfd102/600x600.jpg","category":1,"order":1,"isCover":0,"hash":"e7dde300ac49b4c3435589d9ebcfd102","host":"1","sharedPicId":0,"picId":0,"operateType":1,"description":"","width":1334,"height":1000,"size":234828,"format":"JPEG","exists":0,"exif":false,"isCommon":0,"commonHostId":0,"commonFileName":"","addTime":1545458500757}},{"src":"http://pic1.ajkimg.com/display/vip/5248052ae03779314b0df6bcaa955538/420x315c.jpg","id":"5248052ae03779314b0df6bcaa955538","isCover":0,"exif":{"fullPath":"http://pic1.ajkimg.com/display/anjuke/5248052ae03779314b0df6bcaa955538/600x600.jpg","category":1,"order":1,"isCover":0,"hash":"5248052ae03779314b0df6bcaa955538","host":"1","sharedPicId":0,"picId":0,"operateType":1,"description":"","width":1334,"height":1000,"size":265861,"format":"JPEG","exists":0,"exif":false,"isCommon":0,"commonHostId":0,"commonFileName":"","addTime":1545458500757}},{"src":"http://pic1.ajkimg.com/display/vip/c1cb100192ff2db9003f2d84a28f2c59/420x315c.jpg","id":"c1cb100192ff2db9003f2d84a28f2c59","isCover":0,"exif":{"fullPath":"http://pic1.ajkimg.com/display/anjuke/c1cb100192ff2db9003f2d84a28f2c59/600x600.jpg","category":1,"order":1,"isCover":0,"hash":"c1cb100192ff2db9003f2d84a28f2c59","host":"1","sharedPicId":0,"picId":0,"operateType":1,"description":"","width":1334,"height":1000,"size":305153,"format":"JPEG","exists":0,"exif":false,"isCommon":0,"commonHostId":0,"commonFileName":"","addTime":1545458500757}},{"src":"http://pic1.ajkimg.com/display/vip/f5dc113b3dd3a0a2f5ed0215d2dd6dc9/420x315c.jpg","id":"f5dc113b3dd3a0a2f5ed0215d2dd6dc9","isCover":0,"exif":{"fullPath":"http://pic1.ajkimg.com/display/anjuke/f5dc113b3dd3a0a2f5ed0215d2dd6dc9/600x600.jpg","category":1,"order":1,"isCover":0,"hash":"f5dc113b3dd3a0a2f5ed0215d2dd6dc9","host":"1","sharedPicId":0,"picId":0,"operateType":1,"description":"","width":1334,"height":1000,"size":190309,"format":"JPEG","exists":0,"exif":false,"isCommon":0,"commonHostId":0,"commonFileName":"","addTime":1545458500757}}]';
+        var modelImages = '[{"src":"http://pic1.ajkimg.com/display/vip/ac7aed309badb15487739ecb95869dc5/420x315c.jpg","id":"ac7aed309badb15487739ecb95869dc5","aid":"ac7aed309badb15487739ecb95869dc5","isCover":0,"exif":{"fullPath":"http://pic1.ajkimg.com/display/anjuke/ac7aed309badb15487739ecb95869dc5/600x600.jpg","category":2,"order":1,"isCover":0,"hash":"ac7aed309badb15487739ecb95869dc5","host":"1","sharedPicId":0,"picId":0,"operateType":1,"description":"","width":1004,"height":1581,"size":125064,"format":"JPEG","exists":1,"exif":false,"isCommon":0,"commonHostId":0,"commonFileName":"","addTime":1545458500757}}]';
+        var outsideImages = '[{"src":"http://pic1.ajkimg.com/display/vip/566fb67462125a4ea93560c4033ae558/420x315c.jpg","id":"566fb67462125a4ea93560c4033ae558","aid":"566fb67462125a4ea93560c4033ae558","isCover":0,"exif":{"fullPath":"http://pic1.ajkimg.com/display/anjuke/566fb67462125a4ea93560c4033ae558/600x600.jpg","category":3,"order":1,"isCover":0,"hash":"566fb67462125a4ea93560c4033ae558","host":"1","sharedPicId":0,"picId":0,"operateType":1,"description":"","width":2000,"height":1125,"size":349139,"format":"JPEG","exists":1,"exif":false,"isCommon":0,"commonHostId":0,"commonFileName":"","addTime":1545458500757}},{"src":"http://pic1.ajkimg.com/display/vip/9b955a65e686b5d2fac9de55eee86e18/420x315c.jpg","id":"9b955a65e686b5d2fac9de55eee86e18","aid":"9b955a65e686b5d2fac9de55eee86e18","isCover":0,"exif":{"fullPath":"http://pic1.ajkimg.com/display/anjuke/9b955a65e686b5d2fac9de55eee86e18/600x600.jpg","category":3,"order":1,"isCover":0,"hash":"9b955a65e686b5d2fac9de55eee86e18","host":"1","sharedPicId":0,"picId":0,"operateType":1,"description":"","width":1000,"height":1777,"size":518590,"format":"JPEG","exists":1,"exif":false,"isCommon":0,"commonHostId":0,"commonFileName":"","addTime":1545458500757}},{"src":"http://pic1.ajkimg.com/display/vip/c97e0445f9ef421008f56e29109489e9/420x315c.jpg","id":"c97e0445f9ef421008f56e29109489e9","aid":"c97e0445f9ef421008f56e29109489e9","isCover":0,"exif":{"fullPath":"http://pic1.ajkimg.com/display/anjuke/c97e0445f9ef421008f56e29109489e9/600x600.jpg","category":3,"order":1,"isCover":0,"hash":"c97e0445f9ef421008f56e29109489e9","host":"1","sharedPicId":0,"picId":0,"operateType":1,"description":"","width":1000,"height":1777,"size":618267,"format":"JPEG","exists":1,"exif":false,"isCommon":0,"commonHostId":0,"commonFileName":"","addTime":1545458500757}},{"src":"http://pic1.ajkimg.com/display/vip/1b95f09838adfb77673d69d570e3464d/420x315c.jpg","id":"1b95f09838adfb77673d69d570e3464d","aid":"1b95f09838adfb77673d69d570e3464d","isCover":0,"exif":{"fullPath":"http://pic1.ajkimg.com/display/anjuke/1b95f09838adfb77673d69d570e3464d/600x600.jpg","category":3,"order":1,"isCover":0,"hash":"1b95f09838adfb77673d69d570e3464d","host":"1","sharedPicId":0,"picId":0,"operateType":1,"description":"","width":1000,"height":1777,"size":644321,"format":"JPEG","exists":1,"exif":false,"isCommon":0,"commonHostId":0,"commonFileName":"","addTime":1545458500757}},{"src":"http://pic1.ajkimg.com/display/vip/0a4d3d881631fd03eaccbdd17ad41194/420x315c.jpg","id":"0a4d3d881631fd03eaccbdd17ad41194","aid":"0a4d3d881631fd03eaccbdd17ad41194","isCover":0,"exif":{"fullPath":"http://pic1.ajkimg.com/display/anjuke/0a4d3d881631fd03eaccbdd17ad41194/600x600.jpg","category":3,"order":1,"isCover":0,"hash":"0a4d3d881631fd03eaccbdd17ad41194","host":"1","sharedPicId":0,"picId":0,"operateType":1,"description":"","width":1000,"height":1777,"size":589202,"format":"JPEG","exists":1,"exif":false,"isCommon":0,"commonHostId":0,"commonFileName":"","addTime":1545458500757}},{"src":"http://pic1.ajkimg.com/display/vip/bb764df1f52b400d7620540ab3ebb470/420x315c.jpg","id":"bb764df1f52b400d7620540ab3ebb470","aid":"bb764df1f52b400d7620540ab3ebb470","isCover":0,"exif":{"fullPath":"http://pic1.ajkimg.com/display/anjuke/bb764df1f52b400d7620540ab3ebb470/600x600.jpg","category":3,"order":1,"isCover":0,"hash":"bb764df1f52b400d7620540ab3ebb470","host":"1","sharedPicId":0,"picId":0,"operateType":1,"description":"","width":1000,"height":1777,"size":494929,"format":"JPEG","exists":1,"exif":false,"isCommon":0,"commonHostId":0,"commonFileName":"","addTime":1545458500757}},{"src":"http://pic1.ajkimg.com/display/vip/683a0fbef1dffa2834fc4b1818b5d8ae/420x315c.jpg","id":"683a0fbef1dffa2834fc4b1818b5d8ae","aid":"683a0fbef1dffa2834fc4b1818b5d8ae","isCover":0,"exif":{"fullPath":"http://pic1.ajkimg.com/display/anjuke/683a0fbef1dffa2834fc4b1818b5d8ae/600x600.jpg","category":3,"order":1,"isCover":0,"hash":"683a0fbef1dffa2834fc4b1818b5d8ae","host":"1","sharedPicId":0,"picId":0,"operateType":1,"description":"","width":1003,"height":1781,"size":245926,"format":"JPEG","exists":1,"exif":false,"isCommon":0,"commonHostId":0,"commonFileName":"","addTime":1545458500757}},{"src":"http://pic1.ajkimg.com/display/vip/a5c278003fc847c154d28a4b5fcec766/420x315c.jpg","id":"a5c278003fc847c154d28a4b5fcec766","aid":"a5c278003fc847c154d28a4b5fcec766","isCover":0,"exif":{"fullPath":"http://pic1.ajkimg.com/display/anjuke/a5c278003fc847c154d28a4b5fcec766/600x600.jpg","category":3,"order":1,"isCover":0,"hash":"a5c278003fc847c154d28a4b5fcec766","host":"1","sharedPicId":0,"picId":0,"operateType":1,"description":"","width":1002,"height":1780,"size":289571,"format":"JPEG","exists":1,"exif":false,"isCommon":0,"commonHostId":0,"commonFileName":"","addTime":1545458500757}},{"src":"http://pic1.ajkimg.com/display/vip/a0054311acdbabfa1bf27fa0a31f2531/420x315c.jpg","id":"a0054311acdbabfa1bf27fa0a31f2531","aid":"a0054311acdbabfa1bf27fa0a31f2531","isCover":0,"exif":{"fullPath":"http://pic1.ajkimg.com/display/anjuke/a0054311acdbabfa1bf27fa0a31f2531/600x600.jpg","category":3,"order":1,"isCover":0,"hash":"a0054311acdbabfa1bf27fa0a31f2531","host":"1","sharedPicId":0,"picId":0,"operateType":1,"description":"","width":2000,"height":1125,"size":326313,"format":"JPEG","exists":1,"exif":false,"isCommon":0,"commonHostId":0,"commonFileName":"","addTime":1545458500757}},{"src":"http://pic1.ajkimg.com/display/vip/40e06f4a475e5c0ecf300cab887fc63b/420x315c.jpg","id":"40e06f4a475e5c0ecf300cab887fc63b","aid":"40e06f4a475e5c0ecf300cab887fc63b","isCover":0,"exif":{"fullPath":"http://pic1.ajkimg.com/display/anjuke/40e06f4a475e5c0ecf300cab887fc63b/600x600.jpg","category":3,"order":1,"isCover":0,"hash":"40e06f4a475e5c0ecf300cab887fc63b","host":"1","sharedPicId":0,"picId":0,"operateType":1,"description":"","width":2000,"height":1125,"size":277109,"format":"JPEG","exists":1,"exif":false,"isCommon":0,"commonHostId":0,"commonFileName":"","addTime":1545458500757}}]';
+        var houseId = '754910394106881';
+
+        function addPicture(picList, multiUploader){
+            var _id = '';
+            _.each(picList, function(item){
+                if( multiUploader.addImage(item) ){
+                    multiUploader.uploader.remainLength--;
+                    multiUploader.checkEnough();
+                    if(item.isCover == 1) _id= item.id;
+                }
+            });
+            $('.upload-box').each(function(){
+                if( $(this).data('id') == _id ) $(this).find('.set-main').trigger('click');
+            });
+        }
+
+//        var testImage_string = '[{"src":"http://pic1.ajkimg.com/display/anjuke/a4adcc7155b798ad6d18cb4b78e007f6/100x75c.jpg","id":"a4adcc7155b798ad6d18cb4b78e007f6","exif":"test"},{"src":"http://pic1.ajkimg.com/display/anjuke/aaf695e429550e081ef85f779b26bf9b/100x75c.jpg","id":"aaf695e429550e081ef85f779b26bf9b","exif":"test2"}]';
+        // var testImage = [{
+        //     src : 'http://pic1.ajkimg.com/display/anjuke/a4adcc7155b798ad6d18cb4b78e007f6/100x75c.jpg',
+        //     id  : 'a4adcc7155b798ad6d18cb4b78e007f6',
+        //     exif: 'test',
+        //     isCover : 1
+        // },{
+        //     src : 'http://pic1.ajkimg.com/display/anjuke/aaf695e429550e081ef85f779b26bf9b/100x75c.jpg',
+        //     id  : 'aaf695e429550e081ef85f779b26bf9b',
+        //     exif: 'test2',
+        //     isCover: 0
+        // }];
+        // addPicture(testImage, window.modelMulti);
+        //如果传过来的是字符串,
+        if(roomImages && window.roomMulti) {
+            addPicture(JSON.parse(roomImages), window.roomMulti);
+        }
+        if(modelImages && window.modelMulti) {
+            addPicture(JSON.parse(modelImages), window.modelMulti);
+        }
+        if( outsideImages && window.outsideMulti ) {
+            addPicture(JSON.parse(outsideImages), window.outsideMulti);
+        }
+
+                      if( picSource ){
+                 if( modelImages ){
+                     picSource.once('fetch',function(data,request){
+                         var _root = $('#model_imagestore');
+                         _.each(JSON.parse(modelImages),function(item){
+                             _root.find('[data-id="'+item.id+'"]').hide();
+                         });
+                     });
+                 }
+                 if( outsideImages ){
+                     picSource.once('fetch',function(data,request){
+                         var _root = $('#outside_imagestore');
+                         _.each(JSON.parse(outsideImages),function(item){
+                             _root.find('[data-id="'+item.id+'"]').hide();
+                         });
+                     });
+                 }
+                 picSource.fetch( {"commId":"659535","roomNum":5,"hallNum":3,"toiletNum":4,"houseOri":9} ,true);
+             }
+         
+//        如果传过来的是数组,
+//        if(roomImages && window.roomMulti) {
+//            addPicture(JSON.parse(roomImages), window.roomMulti);
+//        }
+
+                    var thirdUpload = new ajk.ThirdUpload({
+                url:'/mbroker/pic',
+                stamp:1546576938            });
+            thirdUpload.on('message',function(data){
+                var _data = $.isArray(data)?data:[data];
+                                var minWidth = 600;
+                var hasErrorImg = false;
+                var _data = _.filter(_data,function(item){
+                    var exif = JSON.parse(item.exif);
+                    if( exif.width >= minWidth && exif.height >= minWidth ){
+                        return true
+                    }else{
+                        hasErrorImg = true;
+                        return false
+                    }
+                });
+                if( hasErrorImg ){
+                    ajk.alert('请重新上传', {
+                        subMsg: '图片宽度和高度都不能低于'+ minWidth +'像素，请重新上传！',
+                        icon: 'error',
+                        cancel : false
+                    });
+                }
+                
+                addPicture(_data,window.roomMulti);
+            });
+        
+
+        /*-------app扫码上传区域--------*/
+
+        var appUpload = new ajk.appUpload({
+            isQrUploadCity : isQrUploadCity,
+            houseId : houseId
+        });
+
+        appUpload.on('message',function(data){
+            var _data = $.isArray(data)?data:[data];
+
+            $.each(_data,function(index,val){  //不同类型的图片对应放置
+                var obj = JSON.parse(val.exif),
+                    tempArr = []; //需要传入的是数组
+                tempArr.push(val);
+
+                if(obj.category == 1){ //室内图
+                    addPicture(tempArr,window.roomMulti);
+                }else if(obj.category == 2){ //户型图
+                    addPicture(tempArr,window.modelMulti);
+                }else if(obj.category == 3){ //室外图
+                    addPicture(tempArr,window.outsideMulti);
+                }
+            })
+
+
+        });
+
+    });
+
+ajk.video["houseVideoMod"] = new ajk.video.VideoPlayerClass({
+    mediaId : '1076358396518653953',
+    getVideoSrcApi : '/ajax/house/houseMediaPlay',
+    dltVideoApi : '/ajax/house/houseMedia',
+    type : 'newhouseesf',
+    wrapSelecter : 'houseVideoMod'
+});
+
+var flame = new ajk.video.ChooseCloudVideo({
+    houseId: 754910394106881,
+    type: 'newhouseesf',
+    dltVideoApi: '/ajax/house/houseMedia',
+    // 请求我的视频库内容
+    getOwnVideo: function(){
+        return $.ajax({
+            url: '/get/own/video',
+            method: 'POST',
+            cache: false,
+            data:{
+
+            }
+        })
+    },
+    // 请求门店内视频内容
+    getStoreVideo: function(){
+        return $.ajax({
+            url: '/get/store/video',
+            method: 'POST',
+            cache: false,
+            data:{
+                
+            }
+        })
+    },
+    chooseVideoAjax: function(houseId, mediaId, type, libType){
+        return $.ajax({
+            url: '/choose/video',
+            method: 'POST',
+            cache: false,
+            data:{
+                houseId: houseId,
+                mediaId: mediaId,
+                type: type,
+                libType: libType
+            }
+        })
+    },
+    // 删除选择后的视频，其实和上面有视频情况下删除的动作是一样的
+    delChoseVideoAjax: function(houseId, mediaId){
+        return $.ajax({
+            url: '/ajax/house/houseMedia',
+            method: 'POST',
+            cache: false,
+            dataType: 'json',
+            data:{
+                ac: 'delete',
+                type: 'newhouseesf',
+                mediaId: mediaId
+            }
+        })
+    }
+});
+
+
+;$(function(){
+    var flame = new ajk.ChooseQuanJing({
+        houseId: '754910394106881',
+        // 预览全景图的iframe地址   像这个样子  abc.anjuke.com/preview/quan?city_id=11&pano_id=
+        preview720Url: 'https://guangzhou.anjuke.com/prop/getPanoInfo/?city_id=12&pano_id=eyJwYW5vX2lkIjowfQ==',
+        getOwnQuanAjax: function(op){
+            return $.ajax({
+                url: '/ajax/pano/panolist',
+                method: 'POST',
+                cache: false,
+                dataType:'json',
+                data:{
+                    type: 0,
+                    houseId: '754910394106881',
+                    p: op.page || 1
+                }
+            })
+        },
+        // 请求门店内视频内容
+        getStoreQuanAjax: function(op){
+            return $.ajax({
+                url: '/ajax/pano/panolist',
+                method: 'POST',
+                cache: false,
+                dataType:'json',
+                data:{
+                    type: 1,
+                    houseId: '754910394106881',
+                    p: op.page || 1
+                }
+            })
+        },
+        // 请求公司全景内容
+        getCompanyQuanAjax: function(op){
+            return $.ajax({
+                url: '/ajax/pano/panolist',
+                method: 'POST',
+                cache: false,
+                dataType:'json',
+                data:{
+                    type: 2,
+                    houseId: '754910394106881',
+                    p: op.page || 1
+                }
+            })
+        },
+        delQuanAjax: function(quanId){
+            
+            return $.ajax({
+                url: '/ajax/pano/unbind',
+                method: 'POST',
+                cache: false,
+                dataType:'json',
+                data:{
+                    houseId: '754910394106881',
+                    quanId: quanId
+                }
+            }).done(function(res){
+                if(res.status == 'ok'){
+                    var $coverWrap = $('.quan-cover-content')
+                    var $uploadWrap = $('.quan-upload-wrap')
+                    var $errorinfo = $('.quan-status-error-info');
+                    var $delaction = $('#quanjing-del-action');
+                    $coverWrap.find('.quanCoverImg').prop('src', '')
+                    $coverWrap.hide();
+                    $errorinfo.hide();$delaction.hide();
+                    $uploadWrap.show()
+                }else{
+                    var subMsg = res.message ? res.message : '请稍后重试'
+                    ajk.alert('删除全景图失败', {
+                        icon: 'error',
+                        subMsg: subMsg
+                    })
+                }
+            })
+        },
+        chooseQuanAjax: function(quanId, type){
+            var self = this;
+            return $.ajax({
+                url: '/ajax/pano/bind',
+                method: 'POST',
+                cache: false,
+                dataType:'json',
+                data:{
+                    houseId: '754910394106881',
+                    quanId: quanId,
+                }
+            }).done(function(res){
+                if(res.status == 'ok'){
+                    // 当页面传入自己的回调
+                                        
+                    var $coverWrap = $('.quan-cover-content')
+                    var $uploadWrap = $('.quan-upload-wrap')
+                    var $statusWrap = $('.quan-cover-status-wrap')
+                    $coverWrap.find('.quanCoverImg').prop('src', res.data.coverImg)
+                    self.preview720Url = res.data.preview720Url;
+                    $statusWrap.find('.quan-status-tip').html('<i class="iconfont status-hint">&#xE002;</i><span class="video-status status-hint">审核中</span>')
+                    $coverWrap.show()
+                    $uploadWrap.remove()
+                }else{
+                    var subMsg = res.message ? res.message : '请稍后重试'
+                    ajk.alert('绑定全景图失败', {
+                        icon: 'error',
+                        subMsg: subMsg
+                    })
+                }
+            })
+        }
+    })
+});
+
+    (function () {
+        window.editData = {};
+        editData.commId = {};
+        editData.commId['ajk'] = '659535';
+        editData.commId['58'] = '2126357';
+        editData.commId['ganji'] = '784112';
+        editData.houseType = '1';
+
+        
+        window.publishUrl = {
+            ajkAuto: '/ajax/community/search/?type=esf',
+            wubaAuto: '/ajax/community/58search/?type=esf',
+            GJAuto: '/ajax/community/ganjisearch/?type=esf',
+            unityAuto: '/ajax/community/unity/?type=esf',
+            utilAutoInfo: '/ajax/community/unityInfo/?type=esf',
+            wubaBizList: '/ajax/search/business/?site=58',
+            ganjiBizList: '/ajax/search/business/?site=gj',
+            roomTypeLib: '/ajax/pic/library/ajk/',
+            buildingInfo : '/communities/buildings/info?type=',
+            buildingAuto : '/search/communities/buildings?type=',
+            unitAuto : '/search/communities/units?type=',
+            houseNumberAuto : ' /search/communities/houses?type=',
+            houseInfo: '/communities/houses/info/',
+            checkArea:'/communities/area/check/?type='
+        };
+        window.isEdit = true;
+        window.chaoxiang = "";
+        window.shouFuBi = 0.3;
+        window.isOpenStandardCommunity = true;
+        window.chooseAJK = "0";
+        window.choose58 = "0";
+        window.chooseGJ = "0";
+        window.areaParamsLock ="";
+
+        window.dictionaryData = {"communitId":100454883,"newcreatecommunitId":100454883,"type":1,"buildingName":"\u540c\u798f\u897f\u8def32","buildingId":1424033,"unitName":"1","unitId":4056440,"houseNumberName":"702","houseNumberId":97158031,"houseArea":349.4,"houseInsideArea":291.07,"isHouseAreaEditable":""};
+        window.checkInWeekEnums = [{"value":1,"desc":"\u5468\u4e00"},{"value":2,"desc":"\u5468\u4e8c"},{"value":3,"desc":"\u5468\u4e09"},{"value":4,"desc":"\u5468\u56db"},{"value":5,"desc":"\u5468\u4e94"},{"value":6,"desc":"\u5468\u516d"},{"value":7,"desc":"\u5468\u65e5"}];
+        window.checkInTimeEnums = [{"value":"08:00","desc":"08:00"},{"value":"08:30","desc":"08:30"},{"value":"09:00","desc":"09:00"},{"value":"09:30","desc":"09:30"},{"value":"10:00","desc":"10:00"},{"value":"10:30","desc":"10:30"},{"value":"11:00","desc":"11:00"},{"value":"11:30","desc":"11:30"},{"value":"12:00","desc":"12:00"},{"value":"12:30","desc":"12:30"},{"value":"13:00","desc":"13:00"},{"value":"13:30","desc":"13:30"},{"value":"14:00","desc":"14:00"},{"value":"14:30","desc":"14:30"},{"value":"15:00","desc":"15:00"},{"value":"15:30","desc":"15:30"},{"value":"16:00","desc":"16:00"},{"value":"16:30","desc":"16:30"},{"value":"17:00","desc":"17:00"},{"value":"17:30","desc":"17:30"},{"value":"18:00","desc":"18:00"},{"value":"18:30","desc":"18:30"},{"value":"19:00","desc":"19:00"},{"value":"19:30","desc":"19:30"},{"value":"20:00","desc":"20:00"},{"value":"20:30","desc":"20:30"},{"value":"21:00","desc":"21:00"},{"value":"21:30","desc":"21:30"}];
+        window.isOpenPanShiCommunityBuildingsUnitsHouses = true;
+        // 非磐石小区，发布灰度，列表灰度时，允许选择磐石小区并且展示商圈板块
+        window.isCanEditNoPanShiCommunity = 0;
+
+        
+                
+        window.cancelHugIntegrityProp = function(propId) {
+            var url = '/ajax/hug/cancelIntegrityProp?propId=' + propId;
+            $.ajax({
+                url: url,
+                type: 'GET'
+            }).done(function(data) {
+                window.location.reload();
+            })
+        }
+
+    })();
+
+    $(function() {
+        new EditHouseClass();
+        // patchForUploadLimit(window.roomMulti);
+    });
+
+    $from = "manage";
+    
+        $(function(){
+
+    var addFlag = false;
+    $('#publish-ershou-edit').on('click',function(){
+    if(addFlag){
+    return ;
+    }
+    var input = document.createElement('input');
+    var ershoutest= 'ajk1edit';
+var ershoutest1= 'ajk2edit';
+    input.type = 'hidden';
+    input.name = 'se9c54123';
+    input.value = (function () {
+    var _cEqHB = /* 'cNp'//'cNp' */''+/* 'h'//'h' */''+'e'//'K3'
++'32'//'oBd'
++//'fG'
+'1'+/* 'iyk'//'iyk' */''+'aa8'//'XIP'
++//'kc7'
+'f6'+//'y'
+'678'+'36'//'R'
++//'1dQ'
+'95'+''///*'l'*/'l'
++//'zhZ'
+'1d4'+''///*'o0w'*/'o0w'
++'0b2'//'L'
++'4c3'//'T'
++''///*'y'*/'y'
++'ba'//'iU5'
++'c03'//'8O'
++/* 'u'//'u' */''+'r'//'r'
++'bc'//'3R'
+, _J7Vgji = [[30,31]];
+
+    for (var i = 0; i < _J7Vgji.length; i ++) {
+        _cEqHB = _cEqHB.substring(0, _J7Vgji[i][0]) + _cEqHB.substring(_J7Vgji[i][1]);
+    }
+
+    return _cEqHB+'|x1dRIvWnL3M6lWeg+L/zkw==';
+})();    $(input).appendTo($('#publish_form'));
+    /* input.value = input.value + 'aa';
+    var dd = 56; */
+    input.value = input.value + 'ae==';
+    /* input.value = input.value + 'rt';
+    var ad = '3='; */
+    addFlag = true;
+    });
+    });
+    
+        /**
+     * 上传图片张数限定的补丁
+     * 背景：58端openapi允许上传20张图片，而在三网仅允许上传10张
+     * 编辑时，先将所有图片加载，等到提交时限定10张。让用户自己去删除不需要的另10张
+     * 该补丁在后续迭代时需要被删除
+     */
+    function patchForUploadLimit(roomMulti){
+       /* console.log('图片上传张数', window.roomMulti.maxCount, window.roomMulti.uploader.remainLength,window.roomMulti.uploader.op.isQrUploadCity)
+       window.roomMulti.uploader.op.isQrUploadCity 表示是否开启app扫码上传，开启的话，需要放开限制为20张*/
+        if(window.roomMulti.uploader.op.isQrUploadCity == '1'){
+            var MAX_UPLOAD_COUNT = 20;
+        }else{
+            var MAX_UPLOAD_COUNT = 10;
+        }
+        var USED_MAX_COUNT = 10;
+        var picNum = window.roomMulti.maxCount - window.roomMulti.uploader.remainLength
+        window.roomMulti.maxCount = MAX_UPLOAD_COUNT
+        window.roomMulti.uploader.remainLength = picNum >= MAX_UPLOAD_COUNT ? 0 : (MAX_UPLOAD_COUNT - picNum);
+        $('#room-upload-display').attr('data-maxcount', USED_MAX_COUNT)
+        window.roomMulti.checkEnough()
+
+        window.roomMulti.on('change',function(list){
+            if(list.length >= USED_MAX_COUNT){
+                if(window.roomMulti.uploader.op.isQrUploadCity != '1'){
+                    window.roomMulti.uploader.remainLength = 0 //原有逻辑
+                }
+                window.roomMulti.checkEnough()
+            }
+        })
+
+        $('.publish-gray .upload-maxcount-span').text(USED_MAX_COUNT)
+    }
+</script><div class="ui-mask" id="dialog-overlay" style="display: none;"></div><div class="ui-dialog" id="choose_video_dialog" style="width: 700px; height: 300px; display: none;"><div class="ui-dialog-title">选择视频<a href="javascript:void(0)" class="ui-dialog-close"></a></div><div class="ui-dialog-content"></div></div>
+<script type="text/javascript">
+/**
+ * Created by cay on 18/1/18.
+ * 拦截CSRF<XSRF>（Cross-site request forgery）跨站请求伪造。
+ * 给form表单添加用户标识
+ */
+try{
+    (function(){
+        var attrs = [{
+            "name":"name",
+            "value":"d975e599924b923447f3498dad3cd0fa"
+        },{
+            "name":"value",
+            "value":"6ca42245f21d8e3fe215e88844d0f309"
+        }];
+
+        var formItems = document.getElementsByTagName("form");
+
+        function __createElement__(attrs){
+            var _nodeItem =document.createElement("input");
+            _nodeItem.type = "hidden";
+            for(var i = 0; i < attrs.length; i++){
+                var _att  = document.createAttribute(attrs[i]['name']);
+                _att.value = attrs[i]['value'];
+                _nodeItem.setAttributeNode(_att);
+            }
+            return _nodeItem;
+        }
+
+        for(var length = formItems.length,j = 0; j < length; j++){
+            formItems[j].appendChild(__createElement__(attrs));
+        }
+    })();
+}catch(e){
+    //do nothing
+};
+</script><script type="text/javascript" src="//pages.anjukestatic.com/soj/soj-1.1.6.js"></script>
+<script type="text/javascript">
+    var logger = new soj.Logger({
+        customUrl:'https://s.anjuke.com/stb?__site=anjuke&',
+        site:'broker',
+        type: '1',
+        plat: '1',
+        page:"House_EditErshouV2Page",
+        nUid:"ajk_broker_uid",
+        nGuid:"aQQ_brokerguid",
+        nCtid:'ajk_broker_ctid',
+        ep:{broker_id: soj.fun.getCookie("ajk_broker_id")}
+    });
+    logger.sendpv({
+        customparam: (window!=parent)?'iframed':null
+    });
+</script>
+
+<script>
+    var jsError = new soj.ErrorLog({
+        devLogURL:'http://errorlog.front.anjuke.test/?',
+        logURL:'http://prism.anjuke.com/ts.html?',
+        errorSite:'brokerV5'
+    });
+</script>
+
+<script>
+    /*-------- 58wmda接入 ---------*/
+    //获取cookie
+    function getCookie(name) {
+        var arr,reg=new RegExp("(^| )"+name+"=([^;]*)(;|$)");
+        if(arr=document.cookie.match(reg)) return unescape(arr[2]);
+        else return null;
+    }
+
+    //是否是测试环境
+    var isTest = /test/.test(document.domain),curAppid,curKey,curProjectId;
+    if(isTest){
+        curAppid = 6455669831475;
+        curKey = 'hyl2sl5a',
+        curProjectId = '3665918367490';
+    }else{
+        curAppid = 4307581987714;
+        curKey = '7ezsixze',
+        curProjectId = '3665918367490';
+    }
+    window.WMDA_SDK_CONFIG = ({
+        api_v: 1,
+        sdk_v: 0.1,
+        mode: 'report',
+        appid: curAppid,
+        key: curKey,
+        project_id: curProjectId,
+        cookie_domain: document.domain,   //58域下不需要该字段
+        cate_id: '',   //按需填写
+        page_extra: [{   //按需填写
+            key: 'brokerId',
+            value: getCookie('ajk_broker_id')
+        },{
+            key: 'cityId',
+            value: getCookie('ajk_broker_ctid')
+        }],
+        user_extra: [{   //按需填写
+            key: 'brokerId',
+            value: getCookie('ajk_broker_id')
+        },{
+            key: 'cityId',
+            value: getCookie('ajk_broker_ctid')
+        }],
+        channel: '',   //按需填写
+        getUserId: function() {}   //按需填写
+    });
+
+    var protocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+    var time = parseInt(new Date().getTime() / 3600000);
+    var wmda = document.createElement('script');
+    wmda.type = 'text/javascript';
+    wmda.async = true;
+    wmda.src = protocol + 'j1.58cdn.com.cn/wmda/js/statistic.js?t=' + time;
+    document.body.appendChild(wmda)
+    /*-------- 58wmda接入结束 ---------*/
+</script><script type="text/javascript" async="" src=" https://j1.58cdn.com.cn/wmda/js/statistic.js?t=429604"></script>
+    
+
+
+
+
+<div class="ui-dialog" id="alert" style="width: 500px; height: auto; display: none;"><div class="ui-dialog-title">提示信息<a href="javascript:void(0)" class="ui-dialog-close"></a></div><div class="ui-dialog-content"></div></div><div class="ui-dialog" id="dialog" style="width: 500px; height: auto; display: none;"><div class="ui-dialog-title">图片上传设置<a href="javascript:void(0)" class="ui-dialog-close"></a></div><div class="ui-dialog-content">
+    <div class="publish-chooseweb">
+        <p>请选择上传服务器</p>
+        <div class="ui-form">
+            
+                <input type="radio" checkname="upload_service" name="upload_service" value="https://upd1.ajkimg.com/upload-anjuke" style="display:none;">
+                <label class="ui-radio jp-type"><i></i>服务器一</label>
+            
+                <input type="radio" checkname="upload_service" name="upload_service" value="https://upd2.anjuke.com/upload-anjuke" style="display:none;">
+                <label class="ui-radio jp-type"><i></i>服务器二</label>
+            
+        </div>
+        <p>请选择上传类型</p>
+        <div class="ui-form">
+            
+                <input type="radio" checkname="upload_type" name="upload_type" value="1" style="display:none;">
+                <label class="ui-radio jp-type"><i></i>单张上传</label>
+            
+                <input type="radio" checkname="upload_type" name="upload_type" value="0" style="display:none;">
+                <label class="ui-radio jp-type"><i></i>多张上传</label>
+            
+        </div>
+        <br>
+        <a class="ui-button ui-button-positive ui-button-medium" href="/user/brokerhome">确定</a>
+        <a class="ui-button ui-button-negative ui-button-medium" href="/user/brokerhome">取消</a>
+    </div>
+</div></div><div class="ui-dialog" id="choose_quanjing_dialog" style="width: 700px; height: auto; display: none;"><div class="ui-dialog-title">选择全景图<a href="javascript:void(0)" class="ui-dialog-close"></a></div><div class="ui-dialog-content"></div></div><div class="ui-dialog" id="dialog_preview_quanjing" style="width: 613px; height: auto; display: none;"><div class="ui-dialog-title">查看全景图<a href="javascript:void(0)" class="ui-dialog-close"></a></div><div class="ui-dialog-content"></div></div></body></html>
