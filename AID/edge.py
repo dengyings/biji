@@ -1,0 +1,18 @@
+import numpy as np
+import cv2 as cv
+image = cv.imread('chair.jpg', cv.IMREAD_GRAYSCALE)
+print(image.shape)
+print(image.dtype)
+print(image)
+cv.imshow('Original', image)
+hor = cv.Sobel(image, cv.CV_64F, 1, 0, ksize=5)
+cv.imshow('Hor', hor)
+ver = cv.Sobel(image, cv.CV_64F, 0, 1, ksize=5)
+cv.imshow('Ver', ver)
+hor_ver = cv.Sobel(image, cv.CV_64F, 1, 1, ksize=5)
+cv.imshow('Hor-Ver', hor_ver)
+laplacian = cv.Laplacian(image, cv.CV_64F)
+cv.imshow('Laplacian', laplacian)
+canny = cv.Canny(image, 50, 240)
+cv.imshow('Canny', canny)
+cv.waitKey()
